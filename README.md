@@ -24,10 +24,10 @@
 
 ## 图床
 
-| 名称 | 特性 |在线地址 | 状态｜
-| --- | --- | --- |--- |
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |---|
 | [Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) |使用 Telegraph 构建免费图像托管 | | 不再维护|
-| [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) |在 Telegraph 上免费无限制地托管图像，部署在 Cloudflare 上。 | <https://images.mingming.dev> ｜维护中|
+| [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) |在 Telegraph 上免费无限制地托管图像，部署在 Cloudflare 上。 | <https://images.mingming.dev> |维护中|
 | [img-mom](https://github.com/beilunyang/img-mom) |基于 Cloudflare Workers 运行时构建, 轻量使用完全免费，支持多种图床（Telegram/Cloudfalre R2/Backblaze B2, 更多图床正在支持中），快速部署。使用 Wrangler 可快速实现自部署 | |维护中|
 | [workers-image-hosting](https://github.com/iiop123/workers-image-hosting) |基于cloudflare workers数据存储于KV的图床 | |维护中|
 | [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) |免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。 | <https://im.gurl.eu.org/> |维护中|
@@ -35,8 +35,8 @@
 
 ## 邮箱
 
-| 名称 | 特性 |在线地址 | 状态｜
-| --- | --- | --- |--- |
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |---|
 | [vmail](https://github.com/oiov/vmail) |利用 worker 的 KV 作为数据库搭建博客 | <https://vmail.dev/> | 维护中|
 | [smail](https://github.com/akazwz/smail) |利用 workers+github 搭建博客系统。| <https://smail.pw/> | 维护中 |
 | [Email.ML](https://email.ml/) | 一个运行在 Cloudflare 网络中的临时邮箱|  | 未开源 |
@@ -44,22 +44,22 @@
 
 ## 博客
 
-| 名称 | 特性 |在线地址 | 状态｜
-| --- | --- | --- |--- |
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |---|
 | [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) |一个开源的临时邮件服务，该项目基于 Cloudflare worker + turso sqlite + Vercel ，全程免费实现，轻松拥有专属的临时邮件网站 | <https://blog.gezhong.vip/> | 维护中|
 | [cloudflare-workers-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) |Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器| | 好像是不维护了|
 
 ## 短链
 
-| 名称 | 特性 |在线地址 | 状态｜
-| --- | --- | --- |--- |
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |---|
 | [short](https://github.com/igengdu/short/) |一个使用 Cloudflare Pages 创建的 URL 缩短器。| <https://d.igdu.xyz/> | 维护中|
 | [Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) |使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV| [<https://smail.pw/>](https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci) | 维护中 |
 | [duanwangzhi](https://github.com/Closty/duanwangzhi) |无需服务即可缩短您的链接，因为它基于 Cloudflare 工作人员功能，具有极简风格。|  | 好像是不维护了 |
 
 ## Other
 
-| 名称 | 特性 |在线地址 | 状态｜
+| 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
 | [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) |免费开源网页访客计数器, Webviso 是一个基于Cloudflare worker服务+Cloudflare D1数据库实现的完全免费的在线web访客统计服务。 功能与目前常用的 不蒜子 - 极简网页计数器 相同。Webviso完全开源，你可以实现自定义需求。 基于Cloudflare的微服务架构可快速自行部署上线。 | |维护中|
 | [silk-privacy-pass-client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi) |频繁出现Cloudflare人机验证，可以用这个Cloudflare官方插件解决，装了之后，再也不会动不动跳出人机验证了。 | | 维护中|
