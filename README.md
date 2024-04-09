@@ -12,7 +12,7 @@
 - 帮助但不限于独立开发者降低成本
 - 足够简单便捷
 
-欢迎提 pr 和 issues 更新。
+欢迎提 pr 和 issues 更新。 部署或操作过程中有任何问题可以提issue或者私信咨询～
 
 ## Contents
 
@@ -125,3 +125,7 @@
 | [deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) |Deploy DeepLX on Cloudflare。|<https://deeplx.mingming.dev/> |维护中|
 | [sub_converter_convert](https://github.com/zzNeutrino/sub_converter_convert) |转换ssr/v2ray订阅链接转换的工具。| |好像不维护了|
 | [telegram-counter](https://github.com/iamshaynez/telegram-counter) |用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。| |好像不维护了|
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/zhuima/awesome-cloudflare.svg?variant=adaptive)](https://starchart.cc/zhuima/awesome-cloudflare)
