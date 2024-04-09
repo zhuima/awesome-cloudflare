@@ -26,7 +26,7 @@
 - [文件分享](#文件分享)
 - [测速](#测速)
 - [文章](#文章)
-- [Other](#Other)
+- [其他](#其他)
 
 ## 图床
 
@@ -117,7 +117,7 @@
 | [Use-Cloudflare-Zero-Trust-protect-your-web-applications](https://jiapan.me/2023/Use-Cloudflare-Zero-Trust-protect-your-web-applications/) |使用 Cloudflare Zero Trust 保护你的 Web 应用。| |更新中|
 | [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) |如何在 Next.js 13的 app/ 目录中使用 Cloudflare R2 存储。| |更新中|
 
-## Other
+## 其他
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
@@ -129,6 +129,7 @@
 | [deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) |Deploy DeepLX on Cloudflare。|<https://deeplx.mingming.dev/> |维护中|
 | [sub_converter_convert](https://github.com/zzNeutrino/sub_converter_convert) |转换ssr/v2ray订阅链接转换的工具。| |好像不维护了|
 | [telegram-counter](https://github.com/iamshaynez/telegram-counter) |用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。| |好像不维护了|
+| [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | 用于去除 b 站以及小红书的跟踪链接，同时也有 tg 的 bot 版本 | https://notracked.fwqaq.us/ | 维护中 |
 
 ## contributors
 
