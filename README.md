@@ -37,8 +37,8 @@
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |---|
-| [vmail](https://github.com/oiov/vmail) |利用 worker 的 KV 作为数据库搭建博客 | <https://vmail.dev/> | 维护中|
-| [smail](https://github.com/akazwz/smail) |利用 workers+github 搭建博客系统。| <https://smail.pw/> | 维护中 |
+| [vmail](https://github.com/oiov/vmail) |📫 Open source temporary email tool. 开源临时邮箱工具，支持收发邮件。 | <https://vmail.dev/> | 维护中|
+| [smail](https://github.com/akazwz/smail) |临时邮箱服务| <https://smail.pw/> | 维护中 |
 | [Email.ML](https://email.ml/) | 一个运行在 Cloudflare 网络中的临时邮箱|  | 未开源 |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 使用 cloudflare 免费服务，搭建临时邮箱|  <https://temp-email.dreamhunter2333.xyz/> | 维护中 |
 
@@ -46,15 +46,16 @@
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |---|
-| [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) |一个开源的临时邮件服务，该项目基于 Cloudflare worker + turso sqlite + Vercel ，全程免费实现，轻松拥有专属的临时邮件网站 | <https://blog.gezhong.vip/> | 维护中|
+| [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) |这是一个运行在cloudflare workers 上的博客程序,使用 cloudflare KV作为数据库,无其他依赖. 兼容静态博客的速度,以及动态博客的灵活性,方便搭建不折腾.   <https://blog.gezhong.vip/> | 维护中|
 | [cloudflare-workers-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) |Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器| | 好像是不维护了|
+| [microfeed](https://github.com/microfeed/microfeed) |一个在 Cloudflare 上自托管的轻量级内容管理系统 (CMS)。通过 microfeed，您可以轻松地将各种内容（例如音频、视频、照片、文档、博客文章和外部 URL）以 Web、RSS 和 JSON 的形式发布到 feed。对于想要自行托管自己的 CMS 而无需运行自己的服务器的精通技术的个人来说，这是完美的解决方案。| <https://www.microfeed.org/> | 维护中|
 
 ## 短链
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |---|
 | [short](https://github.com/igengdu/short/) |一个使用 Cloudflare Pages 创建的 URL 缩短器。| <https://d.igdu.xyz/> | 维护中|
-| [Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) |使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV| [<https://smail.pw/>](https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci) | 维护中 |
+| [Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) |使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV| <https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci> | 维护中 |
 | [duanwangzhi](https://github.com/Closty/duanwangzhi) |无需服务即可缩短您的链接，因为它基于 Cloudflare 工作人员功能，具有极简风格。|  | 好像是不维护了 |
 
 ## Other
