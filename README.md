@@ -16,17 +16,17 @@
 
 ## Contents
 
-- [图床](#image-host)
-- [邮箱](#emial)
-- [博客](#blog)
-- [短链](#short-link)
-- [网站分析](#analytics)
-- [隧道](#tunnel)
-- [加速](#expedite)
-- [文件分享](#file-sharing)
-- [测速](#speed​test)
-- [文章](#article)
-- [Other](#other)
+- [图床](#图床)
+- [邮箱](#邮箱)
+- [博客](#博客)
+- [短链](#短链)
+- [网站分析](#网站分析)
+- [隧道](#隧道)
+- [加速](#加速)
+- [文件分享](#文件分享)
+- [测速](#测速)
+- [文章](#文章)
+- [Other](#其他)
 
 ## 图床
 
@@ -113,7 +113,7 @@
 | [jsonbin](https://www.owenyoung.com/blog/jsonbin/) |在 Cloudflare Workers 部署一个 JSON as a Storage 服务。| |更新中|
 | [cronbin](https://www.owenyoung.com/blog/cronbin/) |在 Cloudflare Workers 部署一个带有 Dashboard 的 Cron 服务。| |更新中|
 
-## Other
+## 其他
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
@@ -125,3 +125,4 @@
 | [deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) |Deploy DeepLX on Cloudflare。|<https://deeplx.mingming.dev/> |维护中|
 | [sub_converter_convert](https://github.com/zzNeutrino/sub_converter_convert) |转换ssr/v2ray订阅链接转换的工具。| |好像不维护了|
 | [telegram-counter](https://github.com/iamshaynez/telegram-counter) |用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。| |好像不维护了|
+| [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | 用于去除 b 站以及小红书的跟踪链接，同时也有 tg 的 bot 版本 | https://notracked.fwqaq.us/ | 维护中 |
