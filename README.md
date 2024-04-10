@@ -109,13 +109,14 @@
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
-| [workers](https://igdux.com/workers) |Cloudflare Workers优秀项目收集。| |更新中|
-| [accelerate-and-secure-with-cloudflared](https://nova.moe/accelerate-and-secure-with-cloudflared/) |这是一篇博客，主要是教你使用 Cloudflare Argo Tunnel(cloudflared) 来加速和保护你的网站。 |  |维护中|
-| [jsonbin](https://www.owenyoung.com/blog/jsonbin/) |在 Cloudflare Workers 部署一个 JSON as a Storage 服务。| |更新中|
-| [cronbin](https://www.owenyoung.com/blog/cronbin/) |在 Cloudflare Workers 部署一个带有 Dashboard 的 Cron 服务。| |更新中|
-| [using-cloudflare-worker-proxy-google](https://xiaowangye.org/posts/using-cloudflare-worker-proxy-google/) |使用 Cloudflare Worker 代理 Google 站点。| |更新中|
-| [Use-Cloudflare-Zero-Trust-protect-your-web-applications](https://jiapan.me/2023/Use-Cloudflare-Zero-Trust-protect-your-web-applications/) |使用 Cloudflare Zero Trust 保护你的 Web 应用。| |更新中|
-| [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) |如何在 Next.js 13的 app/ 目录中使用 Cloudflare R2 存储。| |更新中|
+| [workers](https://igdux.com/workers) |Cloudflare Workers优秀项目收集。| |有效中|
+| [accelerate-and-secure-with-cloudflared](https://nova.moe/accelerate-and-secure-with-cloudflared/) |这是一篇博客，主要是教你使用 Cloudflare Argo Tunnel(cloudflared) 来加速和保护你的网站。 |  |有效中|
+| [jsonbin](https://www.owenyoung.com/blog/jsonbin/) |在 Cloudflare Workers 部署一个 JSON as a Storage 服务。| |有效中|
+| [cronbin](https://www.owenyoung.com/blog/cronbin/) |在 Cloudflare Workers 部署一个带有 Dashboard 的 Cron 服务。| |有效中|
+| [using-cloudflare-worker-proxy-google](https://xiaowangye.org/posts/using-cloudflare-worker-proxy-google/) |使用 Cloudflare Worker 代理 Google 站点。| |有效中|
+| [Use-Cloudflare-Zero-Trust-protect-your-web-applications](https://jiapan.me/2023/Use-Cloudflare-Zero-Trust-protect-your-web-applications/) |使用 Cloudflare Zero Trust 保护你的 Web 应用。| |有效中|
+| [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) |如何在 Next.js 13的 app/ 目录中使用 Cloudflare R2 存储。| |有效中|
+| [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) |使用 Cloudflare ZeroTrust 搭建 WebSSH。| |有效中|
 
 ## 其他
 
@@ -137,7 +138,7 @@
   <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
 </a>
 
-
+[<img src="https://github.com/zhuima.png" width="60px;"/><br /><sub><ahref="https://github.com/zhuima">zhuima</a></sub>](https://github.com/zhuima/awesome-cloudflare)
 
 ## Star History
 
