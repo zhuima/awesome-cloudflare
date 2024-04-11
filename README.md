@@ -138,7 +138,7 @@
   <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
 </a>
 
-[<img src="https://github.com/zhuima.png" width="60px;"/><br /><sub><ahref="https://github.com/zhuima">zhuima</a></sub>](https://github.com/zhuima/awesome-cloudflare)
+[<img src="https://github.com/zhuima.png" width="60px;"/><br /><sub><a href="https://github.com/zhuima">zhuima</a></sub>](https://github.com/zhuima/awesome-cloudflare)
 
 ## Star History
 
