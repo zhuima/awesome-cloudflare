@@ -133,14 +133,6 @@
 | [telegram-counter](https://github.com/iamshaynez/telegram-counter) |用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。| |好像不维护了|
 | [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | 用于去除 b 站以及小红书的跟踪链接，同时也有 tg 的 bot 版本 | <https://notracked.fwqaq.us/> | 维护中 |
 
-## contributors
-
-<a href="https://github.com/zhuima/awesome-cloudflare/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
-</a>
-
-[<img src="https://github.com/zhuima.png" width="60px;"/><br /><sub><ahref="https://github.com/zhuima">zhuima</a></sub>](https://github.com/zhuima/awesome-cloudflare)
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
