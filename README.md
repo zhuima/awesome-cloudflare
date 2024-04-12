@@ -133,6 +133,8 @@
 | [sub_converter_convert](https://github.com/zzNeutrino/sub_converter_convert) |转换ssr/v2ray订阅链接转换的工具。| |好像不维护了|
 | [telegram-counter](https://github.com/iamshaynez/telegram-counter) |用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。| |好像不维护了|
 | [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | 用于去除 b 站以及小红书的跟踪链接，同时也有 tg 的 bot 版本 | <https://notracked.fwqaq.us/> | 维护中 |
+| [dnschecker](https://dnschecker.org/) | Cloudflare官方推荐的，检测域名解析 |  | 有效中 |
+| [blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) |  Cloudflare官方推荐的，检测域名是否被墙 |  | 有效中 |
 
 ## Star History
 
