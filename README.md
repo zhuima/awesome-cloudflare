@@ -26,6 +26,7 @@
 - [文件分享](#文件分享)
 - [测速](#测速)
 - [文章](#文章)
+- [教程](#教程)
 - [其他](#其他)
 
 ## 图床
@@ -138,6 +139,10 @@
 | [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | 用于去除 b 站以及小红书的跟踪链接，同时也有 tg 的 bot 版本 | <https://notracked.fwqaq.us/> | 维护中 |
 | [dnschecker](https://dnschecker.org/) | Cloudflare官方推荐的，检测域名解析 |  | 有效中 |
 | [blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) |  Cloudflare官方推荐的，检测域名是否被墙 |  | 有效中 |
+
+## 教程
+
+| [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) |  一个快速入门指南,帮助您开始使用 Cloudflare Workers |  | 更新中 |
 
 ## Star History
 
