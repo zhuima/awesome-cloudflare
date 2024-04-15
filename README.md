@@ -66,7 +66,7 @@
 | --- | --- | --- |---|
 | [short](https://github.com/igengdu/short/) |一个使用 Cloudflare Pages 创建的 URL 缩短器。| <https://d.igdu.xyz/> | 维护中|
 | [short](https://github.com/x-dr/short) |一个使用 Cloudflare Pages 创建的 URL 缩短器。| <https://d.131213.xyz/> | 维护中|
-| [linklet](https://github.com/harrisonwang/linklet) |个使用 Cloudflare Pages 创建的 URL 缩短器。这个是基于API模式实现，使用场景更多一些 | <https://wss.so/> | 维护中|
+| [linklet](https://github.com/harrisonwang/linklet) |一个使用 Cloudflare Pages 创建的 URL 缩短器。这个是基于API模式实现，使用场景更多一些 | <https://wss.so/> | 维护中|
 | [Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) |使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV| <https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci> | 维护中 |
 | [duanwangzhi](https://github.com/Closty/duanwangzhi) |无需服务即可缩短您的链接，因为它基于 Cloudflare 工作人员功能，具有极简风格。|  | 好像是不维护了 |
 | [Url-Shorten-Worker](https://github.com/horsemail/Url-Shorten-Worker) |这个是fork的crazypeace的Url-Shorten-Worker， 使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV。| <https://1way.eu.org/bodongshouqulveweifengci> | 维护中  |
