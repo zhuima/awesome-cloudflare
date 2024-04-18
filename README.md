@@ -8,9 +8,7 @@
 
 **本仓库正在规划英文版建设工作，欢迎提PR**
 
-
 ![awesome-cloudflare](./docs/awesome-cloudflare.svg)
-
 
 </div>
 
@@ -160,6 +158,12 @@
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) |  一个快速入门指南,帮助您开始使用 Cloudflare Workers |  | 更新中 |
+
+## Contributors
+
+<a href="https://github.com/zhuima/awesome-cloudflare/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
+</a>
 
 ## Star History
 
