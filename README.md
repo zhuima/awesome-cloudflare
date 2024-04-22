@@ -6,8 +6,6 @@
 
 [英文 README](./README-EN.md)
 
-**本仓库正在规划英文版建设工作，欢迎提PR**
-
 ![awesome-cloudflare](./docs/awesome-cloudflare.svg)
 
 </div>
@@ -26,8 +24,15 @@
 
 欢迎提 pr 和 issues 更新。 部署或操作过程中有任何问题可以提issue或者私信咨询～
 
+## 另外两个项目，感兴趣的可以点点关注
+
+[独立开发者出海技术栈和工具: 出海第一站，搞定工具栈](https://chuhai.tools/)
+
+[小报童专栏甄选: 如果你需要购买小报童专栏，可以通过本站链接购买](https://xiaobaot.best/)
+
 ## Contents
 
+- [Contents](#contents)
 - [图床](#图床)
 - [邮箱](#邮箱)
 - [博客](#博客)
@@ -172,5 +177,3 @@
 </a>
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
