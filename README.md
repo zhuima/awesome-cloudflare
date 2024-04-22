@@ -28,18 +28,22 @@
 
 ## Contents
 
-- [图床](#图床)
-- [邮箱](#邮箱)
-- [博客](#博客)
-- [短链](#短链)
-- [网站分析](#网站分析)
-- [隧道](#隧道)
-- [加速](#加速)
-- [文件分享](#文件分享)
-- [测速](#测速)
+- [](#)
+  - [Contents](#contents)
+  - [图床](#图床)
+  - [邮箱](#邮箱)
+  - [博客](#博客)
+  - [短链](#短链)
+  - [网站分析](#网站分析)
+  - [隧道](#隧道)
+  - [加速](#加速)
+  - [文件分享](#文件分享)
+  - [测速](#测速)
 - [文章](#文章)
-- [教程](#教程)
-- [其他](#其他)
+  - [其他](#其他)
+  - [教程](#教程)
+  - [Contributors](#contributors)
+  - [Star History](#star-history)
 
 ## 图床
 
@@ -85,6 +89,7 @@
 | [Url-Shorten-Worker](https://github.com/horsemail/Url-Shorten-Worker) |这个是fork的crazypeace的Url-Shorten-Worker， 使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV。| <https://1way.eu.org/bodongshouqulveweifengci> | 维护中  |
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) |一个多功能的URL短链工具。|  | 维护中 |
 | [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) |在原分支和 crazypeace 分支部分功能基础上优化了页面，增加了管理员用户、访客身份，增加正则表达式匹配功能，支持了环境变量配置，以及其他细节性改进。| <https://url-shortner-demo.iou.icu/> | 维护中  |
+| [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) |使用Cloudflare Worker创建的URL缩短器, 支持自定义首页, 支持Menu Short, 支持短网址、文本、网页分享 URL。|  | 维护中|
 
 ## 网站分析
 
@@ -153,6 +158,8 @@
 | [blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) |  Cloudflare官方推荐的，检测域名是否被墙 |  | 有效中 |
 | [Serverless Cloud Notepad](https://github.com/s0urcelab/serverless-cloud-notepad) |运行在 Cloudflare 上的云记事本，搭建简单，当做临时文本中转挺方便，并且支持 Markdown 语法，支持加密。| | 好像不维护了|
 | [prisma-with-cloudflare-d1](https://www.prisma.io/docs/orm/overview/databases/cloudflare-d1) |本文介绍了如何使用 Prisma 与 Cloudflare D1 数据库进行交互。首先介绍了 Prisma 的基本概念和架构，然后详细介绍了如何连接和查询 Cloudflare D1 数据库。最后，提供了一些使用 Prisma 与 Cloudflare D1 数据库的实用技巧和最佳实践。| | 有效中|
+| [cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) |这是一个简单的 Cloudflare Worker，可将 Cohere API 转换为 OpenAI API，可轻松部署到 Cloudflare Workers。| | 维护中|
+| [cohere2openai](https://github.com/beanqi/cohere2openai) |Cloudflare Worker 将 Cohere API 转换为 OpenAI API。| | 维护中|
 
 ## 教程
 
