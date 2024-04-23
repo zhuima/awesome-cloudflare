@@ -24,14 +24,17 @@
 
 欢迎提 pr 和 issues 更新。 部署或操作过程中有任何问题可以提issue或者私信咨询～
 
-## 另外两个项目，感兴趣的可以点点关注
+## 另外三个项目，感兴趣的可以点点关注
 
 [独立开发者出海技术栈和工具: 出海第一站，搞定工具栈](https://chuhai.tools/)
 
 [小报童专栏甄选: 如果你需要购买小报童专栏，可以通过本站链接购买](https://xiaobaot.best/)
 
+[SEO工具导航站，助力运营人员和独立开发者](https://seo.chuhai.tools/)
+
 ## Contents
 
+- [另外三个项目，感兴趣的可以点点关注](#另外三个项目感兴趣的可以点点关注)
 - [Contents](#contents)
 - [图床](#图床)
 - [邮箱](#邮箱)
@@ -45,6 +48,7 @@
 - [文章](#文章)
 - [其他](#其他)
 - [教程](#教程)
+- [建了一个群，想进的随缘](#建了一个群想进的随缘)
 - [Contributors](#contributors)
 - [Star History](#star-history)
 
@@ -169,6 +173,11 @@
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) |  一个快速入门指南,帮助您开始使用 Cloudflare Workers |  | 更新中 |
+| [cloudflare-tunnel](https://dmesg.app/cloudflare) |  一系列关于如何使用 Cloudflare Zero Trust 创建大内网以及解决被墙服务器问题的技术博客。 |  | 更新中 |
+
+## 建了一个群，想进的随缘
+
+![](./docs/qr.png)
 
 ## Contributors
 
@@ -177,3 +186,5 @@
 </a>
 
 ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)

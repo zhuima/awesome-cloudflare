@@ -32,6 +32,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 
 ## Contents
 
+- [Additionally, two other projects, if interested, can be checked out](#additionally-two-other-projects-if-interested-can-be-checked-out)
 - [Contents](#contents)
 - [Image Hosting](#image-hosting)
 - [Email](#email)
@@ -169,6 +170,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | Name | Features | Online Address | Status |
 | --- | --- | --- | --- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | A quick start guide to help you get started with Cloudflare Workers |  | Updating |
+| [cloudflare-tunnel](https://dmesg.app/cloudflare) | A series of technical blogs on using Cloudflare Zero Trust to create large intranets and solve issues with blocked servers. | | Updating |
 
 ## Contributors
 
