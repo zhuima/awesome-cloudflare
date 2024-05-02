@@ -30,9 +30,11 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 
 [Selected Columns by Xiaobao: If you need to purchase columns by Xiaobao, you can do so through the links on this site](https://xiaobaot.best/)
 
+[SEO Tool Navigation Site, Empowering Operators and Independent Developers](https://seo.chuhai.tools/)
+
+
 ## Contents
 
-- [Additionally, two other projects, if interested, can be checked out](#additionally-two-other-projects-if-interested-can-be-checked-out)
 - [Contents](#contents)
 - [Image Hosting](#image-hosting)
 - [Email](#email)
@@ -164,6 +166,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [prisma-with-cloudflare-d1](https://www.prisma.io/docs/orm/overview/databases/cloudflare-d1) |This article introduces how to interact with Prisma and Cloudflare D1 database. First, it introduces the basic concepts and architecture of Prisma, and then explains in detail how to connect to and query the Cloudflare D1 database. Finally, it provides some practical tips and best practices for using Prisma with Cloudflare D1 database. | | Active |
 | [cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) |This is a simple Cloudflare Worker that converts Cohere API to OpenAI API, and can be easily deployed to Cloudflare Workers. | | Under maintenance |
 | [cohere2openai](https://github.com/beanqi/cohere2openai) |Cloudflare Worker that converts Cohere API to OpenAI API. | | Under maintenance |
+| [locnode](https://github.com/minlearn/locnode) |selfhost light federated community app runs on cloudflare。| <https://locnode.com/> | Under maintenance|
 
 ## Tutorials
 
