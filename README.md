@@ -4,7 +4,7 @@
 
 本仓库只收录基于Cloudflare的开源工具，为独立开发者早期摸索期提供一个省心省时的工具集，持续整理中……
 
-[英文 README](./README-EN.md)
+[中文](./README.md) / [英文](./README-EN.md) / [西班牙语](./README-ES.md) / [德语](./README-DE.md)
 
 ![awesome-cloudflare](./docs/awesome-cloudflare.svg)
 
@@ -168,8 +168,6 @@
 | [cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) |这是一个简单的 Cloudflare Worker，可将 Cohere API 转换为 OpenAI API，可轻松部署到 Cloudflare Workers。| | 维护中|
 | [cohere2openai](https://github.com/beanqi/cohere2openai) |Cloudflare Worker 将 Cohere API 转换为 OpenAI API。| | 维护中|
 | [locnode](https://github.com/minlearn/locnode) |selfhost light federated community app runs on cloudflare,第一款能在cf上运行的自建轻量联合社区🚀🎉。| <https://locnode.com/> | 维护中|
-
-
 
 ## 教程
 

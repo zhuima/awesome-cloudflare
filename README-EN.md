@@ -4,7 +4,8 @@
 
 This repository only includes open source tools based on Cloudflare, to provide a time-saving toolset for independent developers in the early figuring out period, continue to organize ......
 
-[中文 README](./README.md)
+[Chinese](./README.md) / [English](./README-EN.md) / [Spanish](./README-ES.md) / [German](./README-DE.md)
+
 
 ![awesome-cloudflare](./docs/awesome-cloudflare-en.svg)
 
@@ -12,7 +13,7 @@ This repository only includes open source tools based on Cloudflare, to provide 
 
 # [<img src="https://img.techrk1688.eu.org/file/e44951f61086ae4dc9591.png" width="250" align="right" alt="Cloudflare">](https://www.cloudflare.com)
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&random=false&height=80&lines=%E7%B2%BE%E9%80%89%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%B9%8B%E5%85%89+Cloudflare+%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE;%E3%80%81%E6%8C%87%E5%8D%97%E3%80%81%E5%8D%9A%E5%AE%A2%E5%92%8C%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8%E3%80%82)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&random=false&height=80&lines=Selected+open+source+projects;+from+Cloudflare+guides,+blogs+and;+other+resources+listed.)](https://git.io/typing-svg)
 
 The entity known as the Cybersattva, Cloudflare, provides content delivery network (CDN) services, DDoS mitigation, internet security, and distributed domain name server (DNS) services. It sits between the visitor and the hosting provider of the Cloudflare user, acting as a reverse proxy for the website.
 
@@ -31,7 +32,6 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 [Selected Columns by Xiaobao: If you need to purchase columns by Xiaobao, you can do so through the links on this site](https://xiaobaot.best/)
 
 [SEO Tool Navigation Site, Empowering Operators and Independent Developers](https://seo.chuhai.tools/)
-
 
 ## Contents
 

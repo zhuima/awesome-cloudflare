@@ -1,0 +1,191 @@
+<div align="center">
+
+<h1 align="center">Awesome Cloudflare <img src="https://img.shields.io/github/stars/zhuima/awesome-cloudflare?label=Estrellas" alt="estrellas"></h1>
+
+Este repositorio solo incluye herramientas de código abierto basadas en Cloudflare, proporcionando un conjunto de herramientas que ahorran tiempo y esfuerzo para desarrolladores independientes en sus primeras etapas de exploración, en continua actualización...
+
+[Chino](./README.md) / [Inglés](./README-EN.md) / [Español](./README-ES.md) / [Alemán](./README-DE.md)
+
+![awesome-cloudflare](./docs/awesome-cloudflare-en.svg)
+
+</div>
+
+# [<img src="https://img.techrk1688.eu.org/file/e44951f61086ae4dc9591.png" width="250" align="right" alt="Cloudflare">](https://www.cloudflare.com)
+
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&random=false&height=80&lines=Proyectos+seleccionados+de;+Cloudflare+para+Internet+guías,;+blogs+y+otros+recursos+listados.)](https://git.io/typing-svg)
+
+Cloudflare, conocido como el Bodhisattva cibernético, ofrece servicios de red de entrega de contenido (CDN), mitigación de DDoS, seguridad en Internet y servicios de servidor de nombres de dominio distribuido (DNS), ubicado entre el visitante y el proveedor de hosting de los usuarios de Cloudflare, actuando como un proxy inverso para los sitios web.
+
+**Criterios de inclusión:**
+
+- Ayudar, pero no limitado a, desarrolladores independientes para mejorar la eficiencia del desarrollo
+- Ayudar, pero no limitado a, desarrolladores independientes para reducir costos
+- Suficientemente simple y conveniente
+
+Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún problema durante el despliegue o la operación, puedes crear un issue o contactar en privado para consultas.
+
+## Otros tres proyectos, si estás interesado, puedes darles un vistazo
+
+[Stack y herramientas para desarrolladores independientes que se internacionalizan: Primera parada para internacionalización, arregla el stack de herramientas](https://chuhai.tools/)
+
+[Selección de columnas de Newsboy: Si necesitas comprar columnas de Newsboy, puedes hacerlo a través de este enlace](https://xiaobaot.best/)
+
+[Estación de navegación de herramientas SEO, apoyando a operadores y desarrolladores independientes](https://seo.chuhai.tools/)
+
+## Contenidos
+
+- [Otros tres proyectos, si estás interesado, puedes darles un vistazo](#otros-tres-proyectos-si-estás-interesado-puedes-darles-un-vistazo)
+- [Contenidos](#contenidos)
+- [Hosting de imágenes](#hosting-de-imágenes)
+- [Correo electrónico](#correo-electrónico)
+- [Blog](#blog)
+- [Enlaces cortos](#enlaces-cortos)
+- [Análisis de sitios web](#análisis-de-sitios-web)
+- [Túneles](#túneles)
+- [Aceleración](#aceleración)
+- [Compartir archivos](#compartir-archivos)
+- [Pruebas de velocidad](#pruebas-de-velocidad)
+- [Artículos](#artículos)
+- [Otros](#otros)
+- [Tutoriales](#tutoriales)
+- [He creado un grupo, si estás interesado, únete como quieras](#he-creado-un-grupo-si-estás-interesado-únete-como-quieras)
+- [Contribuyentes](#contribuyentes)
+- [Historial de estrellas](#historial-de-estrellas)
+
+## Hosting de imágenes
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) | Uso de Telegraph para alojamiento gratuito de imágenes | | No se mantiene |
+| [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) | Alojamiento ilimitado y gratuito de imágenes en Telegraph, desplegado en Cloudflare. | <https://images.mingming.dev> | En mantenimiento |
+| [img-mom](https://github.com/beilunyang/img-mom) | Basado en Cloudflare Workers runtime, ligero y completamente gratuito, soporta múltiples hostings de imágenes (Telegram/Cloudflare R2/Backblaze B2, más hostings en soporte), despliegue rápido. Uso de Wrangler para despliegue rápido | | En mantenimiento |
+| [workers-image-hosting](https://github.com/iiop123/workers-image-hosting) | Hosting de imágenes basado en Cloudflare workers, datos almacenados en KV | | En mantenimiento |
+| [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) | Solución gratuita de hosting de imágenes, alternativa a Flickr/imgur. Usando Cloudflare Pages y Telegraph. | <https://im.gurl.eu.org/> | En mantenimiento |
+| [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) | Manejo de imágenes con Cloudflare Worker, depende de Photon, soporta escalado, recorte, marca de agua, filtros, etc. |  | En mantenimiento |
+| [tgState](https://github.com/csznet/tgState) | Sistema de enlaces de archivos usando Telegram como almacenamiento, sin límites de tamaño o formato de archivo. | <https://tgstate.vercel.app>  | En mantenimiento |
+
+## Correo electrónico
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [vmail](https://github.com/oiov/vmail) | 📫 Herramienta de correo electrónico temporal de código abierto. Soporta envío y recepción de correos. | <https://vmail.dev/> | En mantenimiento |
+| [smail](https://github.com/akazwz/smail) | Servicio de correo electrónico temporal | <https://smail.pw/> | En mantenimiento |
+| [Email.ML](https://email.ml/) | Un correo electrónico temporal que funciona en la red de Cloudflare |  | No es de código abierto |
+| [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | Uso del servicio gratuito de Cloudflare para establecer un correo electrónico temporal |  <https://temp-email.dreamhunter2333.xyz/> | En mantenimiento |
+| [mail2telegram](https://github.com/TBXark/mail2telegram) | Este es un bot de Telegram basado en Cloudflare Email Routing Worker que puede convertir correos electrónicos en mensajes de Telegram. Puedes reenviar correos electrónicos de cualquier prefijo al Bot, que luego creará un bot de correo electrónico temporal con direcciones ilimitadas. |  | En mantenimiento |
+
+## Blog
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) | Este es un programa de blog que funciona en cloudflare workers, usando cloudflare KV como base de datos, sin otras dependencias. Compatible con la velocidad de los blogs estáticos y la flexibilidad de los blogs dinámicos, fácil de configurar sin complicaciones. |   <https://blog.gezhong.vip/> | En mantenimiento |
+| [cloudflare-workers-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) | Sistema de blog dinámico implementado con Cloudflare workers + Github, utilizando computación en el borde, sin necesidad de servidores | | Parece que no se mantiene |
+| [microfeed](https://github.com/microfeed/microfeed) | Un sistema de gestión de contenidos (CMS) autoalojado y ligero en Cloudflare. Con microfeed, puedes publicar fácilmente varios contenidos (como audio, video, fotos, documentos, posts de blog y URLs externas) en formato web, RSS y JSON. Es la solución perfecta para individuos técnicamente competentes que desean autoalojar su propio CMS sin tener que operar sus propios servidores. | <https://www.microfeed.org/> | En mantenimiento |
+| [emaction.frontend](https://github.com/emaction/emaction.frontend) | Basado en Cloudflare D1, implementa la función de Reactions al estilo GitHub, este proyecto es el frontend. | <https://emaction.cool/>| En mantenimiento |
+| [emaction.backend](https://github.com/emaction/emaction.backend) | Basado en Cloudflare D1, implementa la función de Reactions al estilo GitHub, este proyecto es el backend. | <https://emaction.cool/> | En mantenimiento |
+
+## Enlaces cortos
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [short](https://github.com/igengdu/short/) | Un acortador de URL creado con Cloudflare Pages. | <https://d.igdu.xyz/> | En mantenimiento |
+| [short](https://github.com/x-dr/short) | Un acortador de URL creado con Cloudflare Pages. | <https://d.131213.xyz/> | En mantenimiento |
+| [linklet](https://github.com/harrisonwang/linklet) | Un acortador de URL creado con Cloudflare Pages. Este está basado en un modelo API, ofreciendo más escenarios de uso. | <https://wss.so/> | En mantenimiento |
+| [Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) | Acceso a la página de operaciones mediante una ruta secreta. Soporta enlaces cortos personalizados. Servicio API no público. Caché de página para enlaces cortos establecidos. Caja de texto de enlace largo con pre-búsqueda en localStorage. Añade un botón para eliminar un enlace corto específico. Añade un botón para leer KV. Se transforma en un bloc de notas en línea Pastebin. Se transforma en un host de imágenes Image Hosting. Un acortador de URL creado con Cloudflare worker y KV. | <https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci> | En mantenimiento |
+| [duanwangzhi](https://github.com/Closty/duanwangzhi) | Acorta tus enlaces sin necesidad de un servicio, ya que se basa en la funcionalidad de los trabajadores de Cloudflare, con un estilo minimalista. |  | Parece que no se mantiene |
+| [Url-Shorten-Worker](https://github.com/horsemail/Url-Shorten-Worker) | Este es un fork de Url-Shorten-Worker de crazypeace, utiliza una ruta secreta para acceder a la página de operaciones. Soporta enlaces cortos personalizados. Servicio API no público. Caché de página para enlaces cortos establecidos. Caja de texto de enlace largo con pre-búsqueda en localStorage. Añade un botón para eliminar un enlace corto específico. Añade un botón para leer KV. Se transforma en un bloc de notas en línea Pastebin. Se transforma en un host de imágenes Image Hosting. Un acortador de URL creado con Cloudflare worker y KV. | <https://1way.eu.org/bodongshouqulveweifengci> | En mantenimiento |
+| [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) | Una herramienta de enlace corto multifuncional. |  | En mantenimiento |
+| [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) | Optimización de la página sobre la base de la funcionalidad original y la rama de crazypeace, añadiendo usuarios administradores, identidades de visitantes, funcionalidad de coincidencia de expresiones regulares, soporte para configuración de variables de entorno, y otras mejoras detalladas. | <https://url-shortner-demo.iou.icu/> | En mantenimiento |
+| [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) | Un acortador de URL creado con Cloudflare Worker, soporta una página de inicio personalizada, Menu Short, y compartir URL de enlaces cortos, texto y páginas web. |  | En mantenimiento |
+
+## Análisis de sitios web
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) | Contador de visitantes de páginas web gratuito y de código abierto, Webviso es un servicio de estadísticas de visitantes web completamente gratuito implementado con el servicio worker de Cloudflare y la base de datos Cloudflare D1. Ofrece funcionalidades similares al contador minimalista de páginas web "No Garlic". Webviso es completamente de código abierto, permitiendo personalizaciones según tus necesidades. Desplegable rápidamente gracias a la arquitectura de microservicios de Cloudflare. | <https://webviso.yestool.org/> | En mantenimiento |
+| [counterscale](https://github.com/benvinegar/counterscale) | Counterscale es un rastreador y panel de análisis web simple, similar en efecto a umami, que puedes alojar tú mismo en Cloudflare. Está diseñado para ser fácil de desplegar y mantener, y tus costos operativos deberían ser casi nulos incluso bajo tráfico alto (asumiendo que el plan gratuito de Cloudflare puede manejar hasta 100,000 clics por día). | <https://counterscale.dev/> | En mantenimiento |
+| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluyendo el historial diario) y recibe notificaciones de Slack cuando el estado del sitio cambie. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
+
+## Túneles
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) | Cloudflared-web es una imagen de docker que empaqueta el CLI de cloudflared y una interfaz web simple para facilitar el inicio/detención de túneles de cloudflare. |  | En mantenimiento |
+
+## Aceleración
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [gh-proxy](https://github.com/hunshcn/gh-proxy) | Proyecto de aceleración para github release, archivos de proyecto y archivos de archivo, soporta clonación. Tiene versiones sin servidor en Cloudflare Workers y una versión en Python. | <https://gh.api.99988866.xyz/> | En mantenimiento |
+| [githubbox](https://github.com/dferber90/githubbox) | Abre rápidamente cualquier repositorio de GitHub en CodeSandbox. |  | Parece que no se mantiene |
+
+## Compartir archivos
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [pastebin-worker](https://github.com/SharzyL/pastebin-worker) | Presentando un Pastebin de código abierto desplegado en Cloudflare Workers, que permite compartir "texto" o "archivos" a través de URL. Como el plan gratuito de CF: permite 100,000 lecturas diarias, 1,000 escrituras y operaciones de eliminación, con un límite de tamaño de 25 MB, suficiente para uso ligero. Despliégalo tú mismo o úsalo directamente. También tiene funciones de "tiempo de eliminación" y "contraseña", permitiendo establecer un tiempo después del cual tu paste será eliminado. Excelente para compartir archivos y texto en Twitter. | <https://shz.al/> | En mantenimiento |
+| [FileWorker](https://github.com/yllhwa/FileWorker) | Un portapapeles en línea/archivo compartido que funciona en Cloudflare Worker. |  | En mantenimiento |
+| [dingding](https://github.com/iiop123/dingding) | Una herramienta de transferencia de archivos basada en Cloudflare Workers, con archivos almacenados en Cloudflare KV. |  | Parece que no se mantiene |
+
+## Pruebas de velocidad
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | Muchos sitios web internacionales utilizan Cloudflare CDN, pero las IP asignadas a los visitantes del interior de China no son amigables (alta latencia, muchas pérdidas de paquetes, velocidad lenta). Aunque Cloudflare ha publicado todos los rangos de IP, encontrar uno que se adapte a ti entre tantos puede ser agotador, por lo que se creó este software. |  | En mantenimiento |
+| [SpeedTest](https://speed.cloudflare.com/) | Herramienta oficial de SpeedTest. |  | En funcionamiento |
+
+## Artículos
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [workers](https://igdux.com/workers) | Colección de proyectos destacados de Cloudflare Workers. |  | Activo |
+| [accelerate-and-secure-with-cloudflared](https://nova.moe/accelerate-and-secure-with-cloudflared/) | Este es un blog que te enseña a usar Cloudflare Argo Tunnel (cloudflared) para acelerar y proteger tu sitio web. |  | Activo |
+| [jsonbin](https://www.owenyoung.com/blog/jsonbin/) | Despliega un servicio de almacenamiento JSON en Cloudflare Workers. |  | Activo |
+| [cronbin](https://www.owenyoung.com/blog/cronbin/) | Despliega un servicio Cron con Dashboard en Cloudflare Workers. |  | Activo |
+| [using-cloudflare-worker-proxy-google](https://xiaowangye.org/posts/using-cloudflare-worker-proxy-google/) | Usa un Cloudflare Worker para proxy de sitios de Google. |  | Activo |
+| [Use-Cloudflare-Zero-Trust-protect-your-web-applications](https://jiapan.me/2023/Use-Cloudflare-Zero-Trust-protect-your-web-applications/) | Usa Cloudflare Zero Trust para proteger tus aplicaciones web. |  | Activo |
+| [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) | Cómo usar Cloudflare R2 storage en el directorio app/ de Next.js 13. |  | Activo |
+| [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) | Configura WebSSH con Cloudflare ZeroTrust. |  | Activo |
+| [Alternativa gratuita a CAPTCHA](https://www.cloudflare.com/zh-cn/products/turnstile/) | Producto oficial, una alternativa gratuita a CAPTCHA. |  | Activo |
+
+## Otros
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [silk-privacy-pass-client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi) | Si frecuentemente enfrentas verificaciones CAPTCHA de Cloudflare, puedes usar este plugin oficial de Cloudflare para resolverlo. Una vez instalado, no tendrás que enfrentarte a CAPTCHAs constantemente. | | En mantenimiento |
+| [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | Este proyecto te permite usar WARP+ a través de una suscripción, soportando clientes como Clash y Shadowrocket. Incluye una función para acumular tráfico de WARP+ sin límites (obteniendo 1GB cada 18 segundos) y también ofrece una función de selección óptima de IP. Soporta despliegue automático con Docker compose, permitiéndote disfrutar de tu propio nodo privado de alta velocidad de WARP+ sin necesidad de configuraciones adicionales. | | En mantenimiento |
+| [ip-api](https://github.com/ccbikai/ip-api) | Rápidamente monta una API para obtener direcciones IP y información geográfica usando Cloudflare Workers, Vercel Edge o Netlify Edge. | <https://html.zone/ip> | En mantenimiento |
+| [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) | Despliega fácilmente tu propio bot de Telegram ChatGPT en Cloudflare Workers, con tutoriales detallados en video y texto, simple incluso para principiantes. | | En mantenimiento |
+| [RSSWorker](https://github.com/yllhwa/RSSWorker) | RSSWorker es una herramienta de suscripción RSS ligera que puede ser desplegada en Cloudflare Worker. | | En mantenimiento |
+| [deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) | Despliega DeepLX en Cloudflare. | <https://deeplx.mingming.dev/> | En mantenimiento |
+| [sub_converter_convert](https://github.com/zzNeutrino/sub_converter_convert) | Herramienta para convertir enlaces de suscripción de ssr/v2ray. | | Parece que no se mantiene |
+| [telegram-counter](https://github.com/iamshaynez/telegram-counter) | Un backend para Telegram escrito puramente en Cloudflare Worker y usando la base de datos D1, útil para llevar registros de asistencia en cualquier momento y lugar. | | Parece que no se mantiene |
+| [Cloudflare-No-Tracked](https://github.com/fwqaaq/Cloudflare-No-Tracked) | Elimina los enlaces de seguimiento de sitios como Bilibili y Xiaohongshu, también disponible en versión bot de Telegram. | <https://notracked.fwqaq.us/> | En mantenimiento |
+| [dnschecker](https://dnschecker.org/) | Herramienta recomendada oficialmente por Cloudflare para verificar la resolución de dominios. | | Activo |
+| [blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) | Herramienta recomendada oficialmente por Cloudflare para verificar si un dominio está bloqueado en China. | | Activo |
+| [Serverless Cloud Notepad](https://github.com/s0urcelab/serverless-cloud-notepad) | Un bloc de notas en la nube que funciona en Cloudflare, fácil de configurar, útil para transferencias de texto temporales y soporta sintaxis Markdown y cifrado. | | Parece que no se mantiene |
+| [prisma-with-cloudflare-d1](https://www.prisma.io/docs/orm/overview/databases/cloudflare-d1) | Este documento explica cómo interactuar con la base de datos Cloudflare D1 usando Prisma, comenzando con los conceptos básicos y la arquitectura de Prisma, seguido de detalles sobre cómo conectar y consultar la base de datos Cloudflare D1, y terminando con algunos consejos prácticos y mejores prácticas para usar Prisma con Cloudflare D1. | | Activo |
+| [cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) | Un simple Cloudflare Worker que convierte la API de Cohere en la API de OpenAI, fácil de desplegar en Cloudflare Workers. | | En mantenimiento |
+| [cohere2openai](https://github.com/beanqi/cohere2openai) | Cloudflare Worker que convierte la API de Cohere en la API de OpenAI. | | En mantenimiento |
+| [locnode](https://github.com/minlearn/locnode) | Aplicación comunitaria federada ligera y autoalojada que funciona en Cloudflare, la primera de su tipo que puede operar en CF. | <https://locnode.com/> | En mantenimiento |
+
+## Tutoriales
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | Una guía rápida para ayudarte a comenzar con Cloudflare Workers. | | Actualizando |
+| [cloudflare-tunnel](https://dmesg.app/cloudflare) | Una serie de blogs técnicos sobre cómo usar Cloudflare Zero Trust para crear una gran red interna y resolver problemas de servidores bloqueados. | | Actualizando |
+
+## He creado un grupo, si te interesa, únete cuando quieras
+
+![](./docs/qr.png)
+
+## Colaboradores
+
+<a href="https://github.com/zhuima/awesome-cloudflare/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
+</a>
+
+## Historial de Estrellas
+
+[![Gráfico del Historial de Estrellas](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
