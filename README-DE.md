@@ -160,6 +160,6 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
   <img src="https://contrib.rocks/image?repo=zhuima/awesome-cloudflare" />
 </a>
 
-## Sternverlauf
+## Sternenhistorie
 
 [![Sternverlauf Diagramm](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)

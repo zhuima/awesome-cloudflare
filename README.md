@@ -4,7 +4,7 @@
 
 本仓库只收录基于Cloudflare的开源工具，为独立开发者早期摸索期提供一个省心省时的工具集，持续整理中……
 
-[中文](./README.md) / [英文](./README-EN.md) / [西班牙语](./README-ES.md) / [德语](./README-DE.md)
+[中文](./README.md) / [English](./README-EN.md) / [Español](./README-ES.md) / [Deutsch](./README-DE.md)
 
 ![awesome-cloudflare](./docs/awesome-cloudflare.svg)
 
