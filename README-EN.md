@@ -152,6 +152,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) |How to use Cloudflare R2 storage in the app/ directory of Next.js 13. | | Active |
 | [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) |Build WebSSH with Cloudflare ZeroTrust. | | Active |
 | [Free CAPTCHA Alternative](https://www.cloudflare.com/zh-cn/products/turnstile/) |Officially produced, free CAPTCHA alternative. | | Active |
+| [Sending Messages to Telegram via Cloudflare Page Functions](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | This article introduces how to utilize page functions as GitHub webhook addresses to forward specific events to Telegram channels. | | Active |
 
 ## Others
 

@@ -106,7 +106,6 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) | Contador de visitantes de páginas web gratuito y de código abierto, Webviso es un servicio de estadísticas de visitantes web completamente gratuito implementado con el servicio worker de Cloudflare y la base de datos Cloudflare D1. Ofrece funcionalidades similares al contador minimalista de páginas web "No Garlic". Webviso es completamente de código abierto, permitiendo personalizaciones según tus necesidades. Desplegable rápidamente gracias a la arquitectura de microservicios de Cloudflare. | <https://webviso.yestool.org/> | En mantenimiento |
 | [counterscale](https://github.com/benvinegar/counterscale) | Counterscale es un rastreador y panel de análisis web simple, similar en efecto a umami, que puedes alojar tú mismo en Cloudflare. Está diseñado para ser fácil de desplegar y mantener, y tus costos operativos deberían ser casi nulos incluso bajo tráfico alto (asumiendo que el plan gratuito de Cloudflare puede manejar hasta 100,000 clics por día). | <https://counterscale.dev/> | En mantenimiento |
 
-
 ## Túneles
 
 | Nombre | Características | Dirección en línea | Estado |
@@ -155,6 +154,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) | Cómo usar Cloudflare R2 storage en el directorio app/ de Next.js 13. |  | Activo |
 | [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) | Configura WebSSH con Cloudflare ZeroTrust. |  | Activo |
 | [Alternativa gratuita a CAPTCHA](https://www.cloudflare.com/zh-cn/products/turnstile/) | Producto oficial, una alternativa gratuita a CAPTCHA. |  | Activo |
+| [Enviando mensajes a Telegram a través de las funciones de página de Cloudflare](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | Este artículo presenta cómo utilizar funciones de página como direcciones de webhook de GitHub para reenviar eventos específicos a canales de Telegram. | | Activo |
 
 ## Otros
 

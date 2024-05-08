@@ -128,7 +128,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Use-Cloudflare-Zero-Trust-protect-your-web-applications](https://jiapan.me/2023/Use-Cloudflare-Zero-Trust-protect-your-web-applications/) | Verwendung von Cloudflare Zero Trust zum Schutz Ihrer Webanwendungen. | | Aktiv |
 | [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) | Wie man Cloudflare R2 Storage im app/ Verzeichnis von Next.js 13 verwendet. | | Aktiv |
 | [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) | Aufbau von WebSSH mit Cloudflare ZeroTrust. | | Aktiv |
-| [免费的 CAPTCHA 替代品](https://www.cloudflare.com/zh-cn/products/turnstile/) | Offizielles Produkt, kostenlose CAPTCHA-Alternative. | | Aktiv |
+| [Kostenlose CAPTCHA-Alternative](https://www.cloudflare.com/zh-cn/products/turnstile/) | Offizielles Produkt, kostenlose CAPTCHA-Alternative. | | Aktiv |
+| [Nachrichten an Telegram über Cloudflare Page Functions senden](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | Dieser Artikel erklärt, wie man Seitenfunktionen als GitHub-
 
 ## Sonstiges
 
