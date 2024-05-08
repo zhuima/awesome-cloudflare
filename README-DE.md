@@ -41,9 +41,10 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 - [Beschleunigung](#beschleunigung)
 - [Dateifreigabe](#dateifreigabe)
 - [Geschwindigkeitstest](#geschwindigkeitstest)
+- [Ueberwachung](#ueberwachung)
 - [Artikel](#artikel)
 - [Sonstiges](#sonstiges)
-- [Anleitungen](#anleitungen)
+- [Tutorials](#tutorials)
 - [Eine Gruppe wurde erstellt, wer beitreten möchte, kann dies tun](#eine-gruppe-wurde-erstellt-wer-beitreten-m%C3%B6chte-kann-dies-tun)
 - [Mitwirkende](#mitwirkende)
 - [Sternenhistorie](#sternenhistorie)
@@ -107,6 +108,13 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | --- | --- | --- | --- |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | Viele ausländische Websites verwenden Cloudflare CDN, aber die für Besucher aus dem chinesischen Festland zugewiesenen IPs sind nicht benutzerfreundlich (hohe Latenz, viele Paketverluste, langsame Geschwindigkeit). Obwohl Cloudflare alle IP-Bereiche veröffentlicht hat, ist es mühsam, die passende IP aus so vielen herauszufinden, daher gibt es diese Software. | | Wird gewartet |
 | [SpeedTest](https://speed.cloudflare.com/) | Offizielles SpeedTest-Tool. | | Läuft |
+
+## Ueberwachung
+
+| Name | Funktionen | Online-Adresse | Status |
+| --- | --- | --- | --- |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Ein serverloses Website-Überwachungstool basierend auf Cloudflare Worker. Es unterstützt die Überwachung von Ports für mehrere Protokolle, einschließlich HTTP/HTTPS/TCP. Es kann geografisch spezifische Überprüfungen aus Hunderten von Städten weltweit durchführen, mit anpassbaren Anforderungsparametern und Regeln zur Validierung der Antwort, anpassbar für verschiedene Überwachungsszenarien. | | In Wartung |
+| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Überwachen Sie Ihre Website, zeigen Sie den Status (einschließlich täglicher Historie) an und erhalten Sie Slack-Benachrichtigungen, wenn sich der Status der Website ändert. Verwendet Cloudflare Workers, CRON-Auslöser und KV-Speicher. | <https://status-page.eidam.dev/> | In Wartung |
 
 ## Artikel
 

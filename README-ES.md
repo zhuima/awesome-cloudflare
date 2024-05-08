@@ -45,11 +45,12 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 - [Aceleración](#aceleración)
 - [Compartir archivos](#compartir-archivos)
 - [Pruebas de velocidad](#pruebas-de-velocidad)
+- [Monitoreo](#monitoreo)
 - [Artículos](#artículos)
 - [Otros](#otros)
 - [Tutoriales](#tutoriales)
 - [He creado un grupo, si estás interesado, únete como quieras](#he-creado-un-grupo-si-estás-interesado-únete-como-quieras)
-- [Contribuyentes](#contribuyentes)
+- [Colaboradores](#colaboradores)
 - [Historial de estrellas](#historial-de-estrellas)
 
 ## Hosting de imágenes
@@ -104,7 +105,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | --- | --- | --- | --- |
 | [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) | Contador de visitantes de páginas web gratuito y de código abierto, Webviso es un servicio de estadísticas de visitantes web completamente gratuito implementado con el servicio worker de Cloudflare y la base de datos Cloudflare D1. Ofrece funcionalidades similares al contador minimalista de páginas web "No Garlic". Webviso es completamente de código abierto, permitiendo personalizaciones según tus necesidades. Desplegable rápidamente gracias a la arquitectura de microservicios de Cloudflare. | <https://webviso.yestool.org/> | En mantenimiento |
 | [counterscale](https://github.com/benvinegar/counterscale) | Counterscale es un rastreador y panel de análisis web simple, similar en efecto a umami, que puedes alojar tú mismo en Cloudflare. Está diseñado para ser fácil de desplegar y mantener, y tus costos operativos deberían ser casi nulos incluso bajo tráfico alto (asumiendo que el plan gratuito de Cloudflare puede manejar hasta 100,000 clics por día). | <https://counterscale.dev/> | En mantenimiento |
-| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluyendo el historial diario) y recibe notificaciones de Slack cuando el estado del sitio cambie. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
+
 
 ## Túneles
 
@@ -133,6 +134,13 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | --- | --- | --- | --- |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | Muchos sitios web internacionales utilizan Cloudflare CDN, pero las IP asignadas a los visitantes del interior de China no son amigables (alta latencia, muchas pérdidas de paquetes, velocidad lenta). Aunque Cloudflare ha publicado todos los rangos de IP, encontrar uno que se adapte a ti entre tantos puede ser agotador, por lo que se creó este software. |  | En mantenimiento |
 | [SpeedTest](https://speed.cloudflare.com/) | Herramienta oficial de SpeedTest. |  | En funcionamiento |
+
+## Monitoreo
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Una herramienta de monitoreo de sitios web sin servidor basada en Cloudflare Worker. Admite monitoreo de puertos para múltiples protocolos, incluidos HTTP/HTTPS/TCP. Puede iniciar comprobaciones geográficamente específicas desde cientos de ciudades en todo el mundo, con parámetros de solicitud personalizables y reglas de validación de respuesta, adaptable para diversos escenarios de monitoreo. | | En mantenimiento |
+| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluido el historial diario) y recibe notificaciones de Slack cuando cambia el estado del sitio web. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
 
 ## Artículos
 

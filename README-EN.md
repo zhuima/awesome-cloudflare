@@ -6,7 +6,6 @@ This repository only includes open source tools based on Cloudflare, to provide 
 
 [Chinese](./README.md) / [English](./README-EN.md) / [Spanish](./README-ES.md) / [German](./README-DE.md)
 
-
 ![awesome-cloudflare](./docs/awesome-cloudflare-en.svg)
 
 </div>
@@ -45,6 +44,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 - [Acceleration](#acceleration)
 - [File Sharing](#file-sharing)
 - [Speed Test](#speed-test)
+- [Monitoring](#monitoring)
 - [Articles](#articles)
 - [Others](#others)
 - [Tutorials](#tutorials)
@@ -103,7 +103,6 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- |--- |
 | [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) |A free and open-source web visitor counter, Webviso is a completely free online web visitor statistics service based on Cloudflare Worker service + Cloudflare D1 database. Its functionality is similar to the minimalist web page counter Not Baidu - Webviso is completely open source, and you can implement custom requirements. Based on Cloudflare's microservices architecture, it can be quickly deployed and launched. | <https://webviso.yestool.org/> | Maintaining |
 | [counterscale](https://github.com/benvinegar/counterscale) |Counterscale is a simple web analytics tracker and dashboard, similar to Umami, that you can self-host on Cloudflare. Its design is easy to deploy and maintain, and even with high traffic, your operating costs should be close to zero (assuming Cloudflare's free plan can handle up to 100,000 clicks per day). | <https://counterscale.dev/> | Maintaining |
-| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) |Monitor your website, display status (including daily history), and receive Slack notifications when website status changes. Uses Cloudflare Workers, CRON triggers, and KV storage. | <https://status-page.eidam.dev/> | Maintaining |
 
 ## Tunnel
 
@@ -132,6 +131,13 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- |--- |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) |Many foreign websites use Cloudflare CDN, but the IPs allocated to visitors from mainland China are not friendly (high latency, packet loss, slow speed). Although Cloudflare has publicly released all IP ranges, it's daunting to find the right one among so many IPs, so this software was created. | | Maintaining |
 | [SpeedTest](https://speed.cloudflare.com/) |Official SpeedTest tool. | | Active |
+
+## Monitoring
+
+| Name | Features | Online Address | Status |
+| --- | --- | --- | --- |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | A serverless website monitoring tool based on Cloudflare Worker. It supports monitoring ports for multiple protocols including HTTP/HTTPS/TCP. It can initiate geographically specific checks from hundreds of cities worldwide, with customizable request parameters and response validation rules, adaptable for various monitoring scenarios. | | Under maintenance |
+| [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your website, display status (including daily history), and receive Slack notifications when the website status changes. Utilizes Cloudflare Workers, CRON triggers, and KV storage. | <https://status-page.eidam.dev/> | Under maintenance |
 
 ## Articles
 
