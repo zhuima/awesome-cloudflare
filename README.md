@@ -64,6 +64,7 @@
 | [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) |免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。 | <https://im.gurl.eu.org/> |维护中|
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |使用 Cloudflare Worker 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。 |  |维护中|
 | [tgState](https://github.com/csznet/tgState) |使用Telegram作为存储的文件外链系统，不限制文件大小和格式。 | <https://tgstate.vercel.app>  |维护中|
+| [telegraph-Image](https://github.com/x-dr/telegraph-Image) |一个图床。 | <https://img.131213.xyz/> |维护中|
 
 ## 邮箱
 
@@ -74,6 +75,7 @@
 | [Email.ML](https://email.ml/) | 一个运行在 Cloudflare 网络中的临时邮箱|  | 未开源 |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 使用 cloudflare 免费服务，搭建临时邮箱|  <https://temp-email.dreamhunter2333.xyz/> | 维护中 |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | 这是一个基于 Cloudflare Email Routing Worker 的 Telegram Bot，可以将电子邮件转换为 Telegram 消息。您可以将任何前缀的收件人的电子邮件转发到 Bot，然后将创建一个具有无限地址的临时邮箱 Bot。|  | 维护中 |
+| [cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email) | 又一个CloudFlare临时邮箱，D1 作为数据库，带有前端及后端，支持多国语言及自动回复功能。|  | 维护中 |
 
 ## 博客
 
