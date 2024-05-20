@@ -176,6 +176,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) | Un simple Cloudflare Worker que convierte la API de Cohere en la API de OpenAI, fácil de desplegar en Cloudflare Workers. | | En mantenimiento |
 | [cohere2openai](https://github.com/beanqi/cohere2openai) | Cloudflare Worker que convierte la API de Cohere en la API de OpenAI. | | En mantenimiento |
 | [locnode](https://github.com/minlearn/locnode) | Aplicación comunitaria federada ligera y autoalojada que funciona en Cloudflare, la primera de su tipo que puede operar en CF. | <https://locnode.com/> | En mantenimiento |
+| [Siri Ultra](https://github.com/fatwang2/siri-ultra) | El asistente se ejecuta en Cloudflare Workers y puede trabajar con cualquier modelo de LLM. | | En mantenimiento |
 
 ## Tutoriales
 
