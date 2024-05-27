@@ -96,9 +96,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) |A multifunctional URL shortening tool. |  | Maintaining |
 | [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) |Optimized the page based on the original branch and crazypeace branch, added administrator user, visitor identity, added regular expression matching function, supported environment variable configuration, and other detailed improvements. | <https://url-shortner-demo.iou.icu/> | Maintaining  |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) |A URL shortener created using Cloudflare Worker, supports custom homepage, Menu Short, supports short URLs, text, web page sharing URL. |  | Maintaining|
-| [Sink](https://github.com/ccbikai/Sink) |A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.|  | 维护中|
-
-
+| [Sink](https://github.com/ccbikai/Sink) |A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.| <https://sink.cool/> | 维护中|
 
 ## Website Analysis
 

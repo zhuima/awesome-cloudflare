@@ -98,7 +98,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) | Una herramienta de enlace corto multifuncional. |  | En mantenimiento |
 | [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) | Optimización de la página sobre la base de la funcionalidad original y la rama de crazypeace, añadiendo usuarios administradores, identidades de visitantes, funcionalidad de coincidencia de expresiones regulares, soporte para configuración de variables de entorno, y otras mejoras detalladas. | <https://url-shortner-demo.iou.icu/> | En mantenimiento |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) | Un acortador de URL creado con Cloudflare Worker, soporta una página de inicio personalizada, Menu Short, y compartir URL de enlaces cortos, texto y páginas web. |  | En mantenimiento |
-| [Sink](https://github.com/ccbikai/Sink)  |Un acortador de enlaces simple / rápido / seguro con análisis, 100% operado en Cloudflare.| | En mantenimiento|
+| [Sink](https://github.com/ccbikai/Sink)  |Un acortador de enlaces simple / rápido / seguro con análisis, 100% operado en Cloudflare.| <https://sink.cool/>| En mantenimiento|
 
 ## Análisis de sitios web
 
