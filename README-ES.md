@@ -119,6 +119,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | --- | --- | --- | --- |
 | [gh-proxy](https://github.com/hunshcn/gh-proxy) | Proyecto de aceleración para github release, archivos de proyecto y archivos de archivo, soporta clonación. Tiene versiones sin servidor en Cloudflare Workers y una versión en Python. | <https://gh.api.99988866.xyz/> | En mantenimiento |
 | [githubbox](https://github.com/dferber90/githubbox) | Abre rápidamente cualquier repositorio de GitHub en CodeSandbox. |  | Parece que no se mantiene |
+| [gh-proxy](https://github.com/crazypeace/gh-proxy) |Un proyecto para acelerar las versiones, archivos de archivo y archivos de proyecto de GitHub. Soporta api.github.com y git.io. | <https://ghproxy.lvedong.eu.org/> |Mantenido|
 
 ## Compartir archivos
 

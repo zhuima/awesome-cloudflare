@@ -120,6 +120,7 @@
 | --- | --- | --- |--- |
 | [gh-proxy](https://github.com/hunshcn/gh-proxy) |github release、archive以及项目文件的加速项目，支持clone，有Cloudflare Workers无服务器版本以及Python版本。 | <https://gh.api.99988866.xyz/> |维护中|
 | [githubbox](https://github.com/dferber90/githubbox) |在 CodeSandbox 中快速打开任何 GitHub 存储库。 |  |好像不维护了|
+| [gh-proxy](https://github.com/crazypeace/gh-proxy) |github release、archive以及项目文件的加速项目. 支持 api.github.com, git.io. | <https://ghproxy.lvedong.eu.org/> |维护中|
 
 ## 文件分享
 
