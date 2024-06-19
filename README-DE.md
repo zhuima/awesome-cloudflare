@@ -94,6 +94,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [gh-proxy](https://github.com/hunshcn/gh-proxy) | Beschleunigungsprojekt für GitHub Release, Archive und Projektdateien, unterstützt Clone. Verfügbar als serverlose Version auf Cloudflare Workers und als Python-Version. | <https://gh.api.99988866.xyz/> | Wird gewartet |
 | [githubbox](https://github.com/dferber90/githubbox) | Öffnet jedes GitHub-Repository schnell in CodeSandbox. | | Scheint nicht gewartet zu werden |
 | [gh-proxy](https://github.com/crazypeace/gh-proxy) |Ein Projekt zur Beschleunigung von GitHub-Versionen, Archiven und Projektdateien. Unterstützt api.github.com und git.io. | <https://ghproxy.lvedong.eu.org/> |Gepflegt|
+| [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>) |Cloudflare Super-Proxy, Einrichten eines kostenlosen Proxys mit dem Cloudflare-Worker. | <https://y.demo.wvusd.homes/> |Wird gepflegt|
 
 ## Dateifreigabe
 
