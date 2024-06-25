@@ -63,6 +63,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) |Free image hosting solution, alternative to Flickr/imgur. Uses Cloudflare Pages and Telegraph. | <https://im.gurl.eu.org/> | Maintaining |
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |Processes images using Cloudflare Worker, dependent on Photon, supports functions such as scaling, cropping, watermarking, filtering, etc. |  | Maintaining |
 | [tgState](https://github.com/csznet/tgState) |File external link system using Telegram as storage, with no restrictions on file size and format. | <https://tgstate.vercel.app>  | Maintaining |
+| [roim-picx](https://github.com/roimdev/roim-picx) |A free image hosting service based on CloudFlare Pages and R2. |  |Maintaining|
 
 ## Email
 
