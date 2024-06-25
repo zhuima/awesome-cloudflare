@@ -24,17 +24,12 @@
 
 欢迎提 pr 和 issues 更新。 部署或操作过程中有任何问题可以提issue或者私信咨询～
 
-## 另外三个项目，感兴趣的可以点点关注
+## 在线版本
 
-[独立开发者出海技术栈和工具: 出海第一站，搞定工具栈](https://chuhai.tools/)
-
-[小报童专栏甄选: 如果你需要购买小报童专栏，可以通过本站链接购买](https://xiaobaot.best/)
-
-[SEO工具导航站，助力运营人员和独立开发者](https://seo.chuhai.tools/)
+[Awesome Cloudflare 在线导航](https://cloudflare.chuhai.tools)
 
 ## Contents
 
-- [另外三个项目，感兴趣的可以点点关注](#另外三个项目感兴趣的可以点点关注)
 - [Contents](#contents)
 - [图床](#图床)
 - [邮箱](#邮箱)
@@ -51,6 +46,7 @@
 - [其他](#其他)
 - [教程](#教程)
 - [建了一个群，想进的随缘](#建了一个群想进的随缘)
+- [捐赠](#捐赠)
 - [Contributors](#contributors)
 - [Star History](#star-history)
 
@@ -199,7 +195,13 @@
 
 ## 建了一个群，想进的随缘
 
-![](./docs/qr.png)
+[一个群](https://t.me/indiehackertools)
+
+## 捐赠
+
+首先十分幸运能在Github上与你相识，其次十分感谢您对我的项目感兴趣，如果说我的项目能够对您有一些帮助，还希望您可以打赏支持一下，这将会对我有莫大的鼓励，谢谢！
+
+![](./docs/alipay_small.jpeg)
 
 ## Contributors
 
