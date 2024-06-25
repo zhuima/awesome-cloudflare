@@ -39,6 +39,7 @@
 - [图床](#图床)
 - [邮箱](#邮箱)
 - [博客](#博客)
+- [脚手架](#脚手架)
 - [短链](#短链)
 - [网站分析](#网站分析)
 - [隧道](#隧道)
@@ -85,6 +86,12 @@
 | [microfeed](https://github.com/microfeed/microfeed) |一个在 Cloudflare 上自托管的轻量级内容管理系统 (CMS)。通过 microfeed，您可以轻松地将各种内容（例如音频、视频、照片、文档、博客文章和外部 URL）以 Web、RSS 和 JSON 的形式发布到 feed。对于想要自行托管自己的 CMS 而无需运行自己的服务器的精通技术的个人来说，这是完美的解决方案。| <https://www.microfeed.org/> | 维护中|
 | [emaction.frontend](https://github.com/emaction/emaction.frontend) |基于Cloudflare D1实现的 GitHub 风格的 Reactions 点赞功能， 本项目是前端。| <https://emaction.cool/>| 维护中|
 | [emaction.backend](https://github.com/emaction/emaction.backend) |基于Cloudflare D1实现的 GitHub 风格的 Reactions 点赞功能， 本项目是后端。| <https://emaction.cool/> | 维护中|
+
+# 脚手架
+
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |---|
+| [nextflare](https://github.com/ccbikai/nextflare) |Next.js App running with Lemon Squeezy on Cloudflare. |   <https://nextflare-template.pages.dev/> | 维护中|
 
 ## 短链
 

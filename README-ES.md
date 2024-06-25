@@ -39,6 +39,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 - [Hosting de imágenes](#hosting-de-imágenes)
 - [Correo electrónico](#correo-electrónico)
 - [Blog](#blog)
+- [Andamiaje](#andamiaje)
 - [Enlaces cortos](#enlaces-cortos)
 - [Análisis de sitios web](#análisis-de-sitios-web)
 - [Túneles](#túneles)
@@ -85,6 +86,12 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [emaction.frontend](https://github.com/emaction/emaction.frontend) | Basado en Cloudflare D1, implementa la función de Reactions al estilo GitHub, este proyecto es el frontend. | <https://emaction.cool/>| En mantenimiento |
 | [emaction.backend](https://github.com/emaction/emaction.backend) | Basado en Cloudflare D1, implementa la función de Reactions al estilo GitHub, este proyecto es el backend. | <https://emaction.cool/> | En mantenimiento |
 
+# Andamiaje
+
+| Nombre | Características | Dirección en línea | Estado |
+| --- | --- | --- | --- |
+| [nextflare](https://github.com/ccbikai/nextflare) | Aplicación Next.js que se ejecuta con Lemon Squeezy en Cloudflare. | <https://nextflare-template.pages.dev/> | Mantenimiento |
+
 ## Enlaces cortos
 
 | Nombre | Características | Dirección en línea | Estado |
@@ -121,7 +128,6 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [githubbox](https://github.com/dferber90/githubbox) | Abre rápidamente cualquier repositorio de GitHub en CodeSandbox. |  | Parece que no se mantiene |
 | [gh-proxy](https://github.com/crazypeace/gh-proxy) |Un proyecto para acelerar las versiones, archivos de archivo y archivos de proyecto de GitHub. Soporta api.github.com y git.io. | <https://ghproxy.lvedong.eu.org/> |Mantenido|
 | [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>)  |Proxy super de Cloudflare, configurando un proxy gratuito usando el trabajador de Cloudflare. | <https://y.demo.wvusd.homes/> |Mantenido|
-
 
 ## Compartir archivos
 

@@ -38,6 +38,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 - [Image Hosting](#image-hosting)
 - [Email](#email)
 - [Blog](#blog)
+- [Scaffolding](#scaffolding)
 - [Short Links](#short-links)
 - [Website Analysis](#website-analysis)
 - [Tunnel](#tunnel)
@@ -82,6 +83,12 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [microfeed](https://github.com/microfeed/microfeed) |A lightweight Content Management System (CMS) self-hosted on Cloudflare. With microfeed, you can easily publish various content (such as audio, video, photos, documents, blog posts, and external URLs) in Web, RSS, and JSON formats to feeds. Perfect solution for individuals who want to self-host their CMS without running their own server. | <https://www.microfeed.org/> | Maintaining |
 | [emaction.frontend](https://github.com/emaction/emaction.frontend) |GitHub-style Reactions liking feature implemented based on Cloudflare D1, this project is the frontend. | <https://emaction.cool/>| Maintaining |
 | [emaction.backend](https://github.com/emaction/emaction.backend) |GitHub-style Reactions liking feature implemented based on Cloudflare D1, this project is the backend. | <https://emaction.cool/> | Maintaining |
+
+# Scaffolding
+
+| Name | Features | Online Address | Status |
+| --- | --- | --- | --- |
+| [nextflare](https://github.com/ccbikai/nextflare) | Next.js App running with Lemon Squeezy on Cloudflare. | <https://nextflare-template.pages.dev/> | Maintenance |
 
 ## Short Links
 
