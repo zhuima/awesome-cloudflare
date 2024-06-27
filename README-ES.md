@@ -24,17 +24,12 @@ Cloudflare, conocido como el Bodhisattva cibernético, ofrece servicios de red d
 
 Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún problema durante el despliegue o la operación, puedes crear un issue o contactar en privado para consultas.
 
-## Otros tres proyectos, si estás interesado, puedes darles un vistazo
+## Versión en línea
 
-[Stack y herramientas para desarrolladores independientes que se internacionalizan: Primera parada para internacionalización, arregla el stack de herramientas](https://chuhai.tools/)
-
-[Selección de columnas de Newsboy: Si necesitas comprar columnas de Newsboy, puedes hacerlo a través de este enlace](https://xiaobaot.best/)
-
-[Estación de navegación de herramientas SEO, apoyando a operadores y desarrolladores independientes](https://seo.chuhai.tools/)
+[Navegación en línea increíble de Cloudflare](https://cloudflare.chuhai.tools)
 
 ## Contenidos
 
-- [Otros tres proyectos, si estás interesado, puedes darles un vistazo](#otros-tres-proyectos-si-estás-interesado-puedes-darles-un-vistazo)
 - [Contenidos](#contenidos)
 - [Hosting de imágenes](#hosting-de-imágenes)
 - [Correo electrónico](#correo-electrónico)
@@ -50,7 +45,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 - [Artículos](#artículos)
 - [Otros](#otros)
 - [Tutoriales](#tutoriales)
-- [He creado un grupo, si estás interesado, únete como quieras](#he-creado-un-grupo-si-estás-interesado-únete-como-quieras)
+- [Grupo](#grupo)
 - [Colaboradores](#colaboradores)
 - [Historial de estrellas](#historial-de-estrellas)
 
@@ -128,6 +123,9 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [githubbox](https://github.com/dferber90/githubbox) | Abre rápidamente cualquier repositorio de GitHub en CodeSandbox. |  | Parece que no se mantiene |
 | [gh-proxy](https://github.com/crazypeace/gh-proxy) |Un proyecto para acelerar las versiones, archivos de archivo y archivos de proyecto de GitHub. Soporta api.github.com y git.io. | <https://ghproxy.lvedong.eu.org/> |Mantenido|
 | [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>)  |Proxy super de Cloudflare, configurando un proxy gratuito usando el trabajador de Cloudflare. | <https://y.demo.wvusd.homes/> |Mantenido|
+| [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Un proyecto llamado cloudflare-docker-proxy, que es un proxy de registro de Docker Hub que se ejecuta en Cloudflare Worker. |  | En mantenimiento |
+| [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Este proyecto es una herramienta de proxy de imagen de Docker basada en Cloudflare Workers. Puede retransmitir solicitudes al repositorio oficial de imágenes de Docker, resolviendo restricciones de acceso y acelerando el acceso. | <https://docker.fxxk.dedyn.io/> | En mantenimiento |
+
 
 ## Compartir archivos
 
@@ -194,10 +192,11 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | --- | --- | --- | --- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | Una guía rápida para ayudarte a comenzar con Cloudflare Workers. | | Actualizando |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) | Una serie de blogs técnicos sobre cómo usar Cloudflare Zero Trust para crear una gran red interna y resolver problemas de servidores bloqueados. | | Actualizando |
+| [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend: Obtén un correo electrónico empresarial gratuito en diez minutos fácilmente.|  | Actualizando |
 
-## He creado un grupo, si te interesa, únete cuando quieras
+## Grupo
 
-![](./docs/qr.png)
+[Un Grupo](https://t.me/indiehackertools)
 
 ## Colaboradores
 

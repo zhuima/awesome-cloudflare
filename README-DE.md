@@ -22,15 +22,12 @@ Cloudflare, auch bekannt als der Cyber-Bodhisattva, bietet Dienste für Content 
 
 Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstellung oder des Betriebs können Sie ein Issue erstellen oder uns für Beratung kontaktieren.
 
-## Weitere drei Projekte, die von Interesse sein könnten
+## Online-Version
 
-[Technologie-Stack und Tools für unabhängige Entwickler: Erste Station für den internationalen Markt, Werkzeuge bereitstellen](https://chuhai.tools/)
-[Ausgewählte Kolumnen des Zeitungsjungen: Wenn Sie eine Kolumne des Zeitungsjungen kaufen möchten, können Sie dies über diesen Link tun](https://xiaobaot.best/)
-[SEO-Tool-Navigationsseite, Unterstützung für Betriebsmitarbeiter und unabhängige Entwickler](https://seo.chuhai.tools/)
+[Großartige Cloudflare-Online-Navigation](https://cloudflare.chuhai.tools)
 
 ## Inhaltsverzeichnis
 
-- [Weitere drei Projekte, die von Interesse sein könnten](#weitere-drei-projekte-die-von-interesse-sein-k%C3%B6nnten)
 - [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Bildhosting](#bildhosting)
 - [E-Mail](#e-mail)
@@ -46,7 +43,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 - [Artikel](#artikel)
 - [Sonstiges](#sonstiges)
 - [Tutorials](#tutorials)
-- [Eine Gruppe wurde erstellt, wer beitreten möchte, kann dies tun](#eine-gruppe-wurde-erstellt-wer-beitreten-m%C3%B6chte-kann-dies-tun)
+- [Gruppe](#gruppe)
 - [Mitwirkende](#mitwirkende)
 - [Sternenhistorie](#sternenhistorie)
 
@@ -102,6 +99,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [githubbox](https://github.com/dferber90/githubbox) | Öffnet jedes GitHub-Repository schnell in CodeSandbox. | | Scheint nicht gewartet zu werden |
 | [gh-proxy](https://github.com/crazypeace/gh-proxy) |Ein Projekt zur Beschleunigung von GitHub-Versionen, Archiven und Projektdateien. Unterstützt api.github.com und git.io. | <https://ghproxy.lvedong.eu.org/> |Gepflegt|
 | [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>) |Cloudflare Super-Proxy, Einrichten eines kostenlosen Proxys mit dem Cloudflare-Worker. | <https://y.demo.wvusd.homes/> |Wird gepflegt|
+| [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Ein Projekt namens cloudflare-docker-proxy, das ein Docker Hub-Registry-Proxy ist, das auf Cloudflare Worker läuft. |  | In Wartung |
+| [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Dieses Projekt ist ein auf Cloudflare Workers basierendes Docker-Image-Proxy-Tool. Es kann Anfragen an das offizielle Docker-Image-Repository weiterleiten, Zugriffsrestriktionen lösen und den Zugriff beschleunigen. | <https://docker.fxxk.dedyn.io/> | In Wartung |
 
 ## Dateifreigabe
 
@@ -168,10 +167,11 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | --- | --- | --- | --- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | Ein Schnelleinstiegsführer, der Ihnen hilft, mit Cloudflare Workers zu beginnen. | | Wird aktualisiert |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) | Eine Reihe von technischen Blogs darüber, wie man Cloudflare Zero Trust verwendet, um ein großes internes Netzwerk zu erstellen und Probleme mit blockierten Servern zu lösen. | | Wird aktualisiert |
+| [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend: Holen Sie sich in zehn Minuten ganz einfach eine kostenlose Firmen-E-Mail. |  | Wird aktualisiert |
 
-## Ich habe eine Gruppe erstellt, wer beitreten möchte, kann dies tun
+## Gruppe
 
-![](./docs/qr.png)
+[Eine Gruppe](https://t.me/indiehackertools)
 
 ## Mitwirkende
 

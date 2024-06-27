@@ -24,13 +24,9 @@ The entity known as the Cybersattva, Cloudflare, provides content delivery netwo
 
 Feel free to submit PRs and issues to update the content. If you have any questions during deployment or operation, you can raise an issue or message me privately for consultation.
 
-## Additionally, two other projects, if interested, can be checked out
+## Online Version
 
-[Indie Developer's Overseas Technology Stack and Tools: The first stop for going global, mastering the tool stack](https://chuhai.tools/)
-
-[Selected Columns by Xiaobao: If you need to purchase columns by Xiaobao, you can do so through the links on this site](https://xiaobaot.best/)
-
-[SEO Tool Navigation Site, Empowering Operators and Independent Developers](https://seo.chuhai.tools/)
+[Awesome Cloudflare Online Navigation](https://cloudflare.chuhai.tools)
 
 ## Contents
 
@@ -49,6 +45,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 - [Articles](#articles)
 - [Others](#others)
 - [Tutorials](#tutorials)
+- [Group](#group)
 - [Contributors](#contributors)
 - [Star History](#star-history)
 
@@ -126,6 +123,8 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [githubbox](https://github.com/dferber90/githubbox) |Quickly open any GitHub repository in CodeSandbox. |  | Seems unmaintained |
 | [gh-proxy](https://github.com/crazypeace/gh-proxy) |A project for accelerating GitHub releases, archives, and project files. Supports api.github.com and git.io. | <https://ghproxy.lvedong.eu.org/> |Maintained|
 | [cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) |Cloudflare super proxy, setting up a free proxy by using Cloudflare worker. | <https://y.demo.wvusd.homes/> |Maintained|
+| [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | A project named cloudflare-docker-proxy, which is a Docker Hub registry proxy running on Cloudflare Worker. |  | Maintaining |
+| [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | This project is a Docker image proxy tool based on Cloudflare Workers. It can relay requests to the official Docker image repository, solving access restrictions and accelerating access. | <https://docker.fxxk.dedyn.io/> | Maintaining |
 
 ## File Sharing
 
@@ -192,6 +191,11 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- | --- |
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | A quick start guide to help you get started with Cloudflare Workers |  | Updating |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) | A series of technical blogs on using Cloudflare Zero Trust to create large intranets and solve issues with blocked servers. | | Updating |
+| [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend: Get a Free Enterprise Email in Ten Minutes with Ease. |  | Updating |
+
+## Group
+
+[A Group](https://t.me/indiehackertools)
 
 ## Contributors
 
