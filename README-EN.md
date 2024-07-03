@@ -163,6 +163,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) |Build WebSSH with Cloudflare ZeroTrust. | | Active |
 | [Free CAPTCHA Alternative](https://www.cloudflare.com/zh-cn/products/turnstile/) |Officially produced, free CAPTCHA alternative. | | Active |
 | [Sending Messages to Telegram via Cloudflare Page Functions](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | This article introduces how to utilize page functions as GitHub webhook addresses to forward specific events to Telegram channels. | | Active |
+| [Using Cloudflare Workers to create AI blog summaries](https://mabbs.github.io/2024/07/03/ai-summary.html) | Introduce the implementation of blog AI summarization using Cloudflare Workers + Workers AI + D1 database.| | Active |
 
 ## Others
 
