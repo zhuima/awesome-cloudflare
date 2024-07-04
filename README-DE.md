@@ -138,7 +138,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Nextjs-app-router-with-cloudflare-r2](https://juejin.cn/post/7306723921717166131) | Wie man Cloudflare R2 Storage im app/ Verzeichnis von Next.js 13 verwendet. | | Aktiv |
 | [cloudflare-webssh-zerotrust](https://josephcz.xyz/technology/network/cloudflare-webssh-zerotrust/) | Aufbau von WebSSH mit Cloudflare ZeroTrust. | | Aktiv |
 | [Kostenlose CAPTCHA-Alternative](https://www.cloudflare.com/zh-cn/products/turnstile/) | Offizielles Produkt, kostenlose CAPTCHA-Alternative. | | Aktiv |
-| [Nachrichten an Telegram über Cloudflare Page Functions senden](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | Dieser Artikel erklärt, wie man Seitenfunktionen als GitHub-
+| [Nachrichten an Telegram über Cloudflare Page Functions senden](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | Dieser Artikel erklärt, wie man Seitenfunktionen als GitHub- | | Aktiv |
+| [Erstellen einer Blog-AI-Zusammenfassung mit Cloudflare Workers](https://mabbs.github.io/2024/07/03/ai-summary.html) | Einführung der Blog-AI-Zusammenfassung mithilfe der Cloudflare Workers+Workers AI+D1-Datenbank.| | Aktiv |
 
 ## Sonstiges
 
