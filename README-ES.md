@@ -61,6 +61,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) | Manejo de imágenes con Cloudflare Worker, depende de Photon, soporta escalado, recorte, marca de agua, filtros, etc. |  | En mantenimiento |
 | [tgState](https://github.com/csznet/tgState) | Sistema de enlaces de archivos usando Telegram como almacenamiento, sin límites de tamaño o formato de archivo. | <https://tgstate.vercel.app>  | En mantenimiento |
 | [roim-picx](https://github.com/roimdev/roim-picx) |Una cama de imágenes gratuita basada en CloudFlare Pages y R2. |  |En mantenimiento|
+| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | Un servicio gratuito de alojamiento de imágenes basado en CloudFlare y Telegraph. Este repositorio se basa en <https://github.com/cf-pages/Telegraph-Image> y es una nueva versión de la página frontal del proyecto original. ¡Código abierto, claro, hermoso, animaciones suaves y versátil! | <https://demo-cloudflare-imgbed.pages.dev/> | En mantenimiento |
 
 ## Correo electrónico
 
@@ -127,7 +128,6 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Un proyecto llamado cloudflare-docker-proxy, que es un proxy de registro de Docker Hub que se ejecuta en Cloudflare Worker. |  | En mantenimiento |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Este proyecto es una herramienta de proxy de imagen de Docker basada en Cloudflare Workers. Puede retransmitir solicitudes al repositorio oficial de imágenes de Docker, resolviendo restricciones de acceso y acelerando el acceso. | <https://docker.fxxk.dedyn.io/> | En mantenimiento |
 
-
 ## Compartir archivos
 
 | Nombre | Características | Dirección en línea | Estado |
@@ -188,8 +188,6 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [locnode](https://github.com/minlearn/locnode) | Aplicación comunitaria federada ligera y autoalojada que funciona en Cloudflare, la primera de su tipo que puede operar en CF. | <https://locnode.com/> | En mantenimiento |
 | [Siri Ultra](https://github.com/fatwang2/siri-ultra) | El asistente se ejecuta en Cloudflare Workers y puede trabajar con cualquier modelo de LLM. | | En mantenimiento |
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Verifique el stack tecnológico de un sitio web. | | En mantenimiento |
-
-
 
 ## Tutoriales
 

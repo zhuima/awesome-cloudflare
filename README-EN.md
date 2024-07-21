@@ -61,6 +61,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |Processes images using Cloudflare Worker, dependent on Photon, supports functions such as scaling, cropping, watermarking, filtering, etc. |  | Maintaining |
 | [tgState](https://github.com/csznet/tgState) |File external link system using Telegram as storage, with no restrictions on file size and format. | <https://tgstate.vercel.app>  | Maintaining |
 | [roim-picx](https://github.com/roimdev/roim-picx) |A free image hosting service based on CloudFlare Pages and R2. |  |Maintaining|
+| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | A free image hosting service based on CloudFlare and Telegraph. This repository is based on <https://github.com/cf-pages/Telegraph-Image> and is a remake of the original project's front-end page. Open-source, clear, beautiful, smooth animations, and versatile! | <https://demo-cloudflare-imgbed.pages.dev/> | Maintaining |
 
 ## Email
 
