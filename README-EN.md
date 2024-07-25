@@ -55,7 +55,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- |---|
 | [Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) |Builds free image hosting using Telegraph.| | No longer maintained |
 | [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) |Host images unlimitedly for free on Telegraph, deployed on Cloudflare. | <https://images.mingming.dev> | Maintaining |
-| [img-mom](https://github.com/beilunyang/img-mom) |Built on Cloudflare Workers runtime, lightweight and completely free to use, supports multiple image hosting services (Telegram/Cloudfalre R2/Backblaze B2, more image hosting services are being supported), quick deployment with Wrangler. | | Maintaining |
+| [img-mom](https://github.com/beilunyang/img-mom) |Built on Cloudflare Workers runtime, lightweight and completely free to use, supports multiple image hosting services (Telegram/Cloudflare R2/Backblaze B2, more image hosting services are being supported), quick deployment with Wrangler. | | Maintaining |
 | [workers-image-hosting](https://github.com/iiop123/workers-image-hosting) |Image hosting based on Cloudflare Workers data stored in KV. | | Maintaining |
 | [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) |Free image hosting solution, alternative to Flickr/imgur. Uses Cloudflare Pages and Telegraph. | <https://im.gurl.eu.org/> | Maintaining |
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |Processes images using Cloudflare Worker, dependent on Photon, supports functions such as scaling, cropping, watermarking, filtering, etc. |  | Maintaining |
