@@ -103,6 +103,9 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) | Optimización de la página sobre la base de la funcionalidad original y la rama de crazypeace, añadiendo usuarios administradores, identidades de visitantes, funcionalidad de coincidencia de expresiones regulares, soporte para configuración de variables de entorno, y otras mejoras detalladas. | <https://url-shortner-demo.iou.icu/> | En mantenimiento |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) | Un acortador de URL creado con Cloudflare Worker, soporta una página de inicio personalizada, Menu Short, y compartir URL de enlaces cortos, texto y páginas web. |  | En mantenimiento |
 | [Sink](https://github.com/ccbikai/Sink)  |Un acortador de enlaces simple / rápido / seguro con análisis, 100% operado en Cloudflare.| <https://sink.cool/>| En mantenimiento|
+| [short](https://github.com/molikai-work/short) | Un proyecto modificado basado en x-dr/short, que añade funciones como la configuración de contraseñas para enlaces cortos, la gestión de enlaces cortos, el uso de CAPTCHA de Turnstile, la gestión de dominios en lista negra, la configuración de páginas de redirección y el uso de múltiples dominios. | [Demo](https://c1n.top/) | Mantenido |
+
+
 
 ## Análisis de sitios web
 
@@ -188,6 +191,10 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [locnode](https://github.com/minlearn/locnode) | Aplicación comunitaria federada ligera y autoalojada que funciona en Cloudflare, la primera de su tipo que puede operar en CF. | <https://locnode.com/> | En mantenimiento |
 | [Siri Ultra](https://github.com/fatwang2/siri-ultra) | El asistente se ejecuta en Cloudflare Workers y puede trabajar con cualquier modelo de LLM. | | En mantenimiento |
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Verifique el stack tecnológico de un sitio web. | | En mantenimiento |
+| [wr.do](https://github.com/oiov/wr.do) | Un sistema de distribución de DNS multiinquilino basado en Cloudflare. Código abierto y proporciona resolución de DNS y generación de enlaces cortos de forma gratuita. | https://wr.do |  En mantenimiento |
+| [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Un proxy web de Cloudflare Workers con método de acceso mediante subdominios. | [Demo](https://www.proxysites.ai.serp.ing/) | En mantenimiento |
+
+
 
 ## Tutoriales
 

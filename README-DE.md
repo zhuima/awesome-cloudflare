@@ -164,6 +164,10 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [locnode](https://github.com/minlearn/locnode) | Selfhosted light federated community app läuft auf Cloudflare, die erste App dieser Art, die auf CF läuft. | <https://locnode.com/> | Wird gewartet |
 | [Siri Ultra](<https://github.com/fatwang2/siri-ultra>) | Der Assistent wird auf Cloudflare Workers ausgeführt und kann mit jedem LLM-Modell arbeiten. | | Wird gewartet |
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Überprüfen Sie die Technologie-Stack einer Webseite. | | Wird gewartet |
+| [wr.do](https://github.com/oiov/wr.do) | Ein auf Cloudflare basierendes Multi-Tenant-DNS-Verteilungssystem. Open-Source und bietet kostenlose DNS-Auflösung und Kurzlink-Generierung an. |  https://wr.do |Aktiv |
+| [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Ein Cloudflare Workers-Web-Proxy mit Subdomain-Zugriffsmethode. | [Demo](https://www.proxysites.ai.serp.ing/) | Aktiv |
+
+
 
 ## Tutorials
 

@@ -102,7 +102,9 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) |A multifunctional URL shortening tool. |  | Maintaining |
 | [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) |Optimized the page based on the original branch and crazypeace branch, added administrator user, visitor identity, added regular expression matching function, supported environment variable configuration, and other detailed improvements. | <https://url-shortner-demo.iou.icu/> | Maintaining  |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) |A URL shortener created using Cloudflare Worker, supports custom homepage, Menu Short, supports short URLs, text, web page sharing URL. |  | Maintaining|
-| [Sink](https://github.com/ccbikai/Sink) |A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.| <https://sink.cool/> | 维护中|
+| [Sink](https://github.com/ccbikai/Sink) |A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.| <https://sink.cool/> |  Maintaining|
+| [short](https://github.com/molikai-work/short) | A project modified based on x-dr/short, adding features like setting short link passwords, managing short links, using Turnstile CAPTCHA, managing blacklisted domains, configuring redirect pages, and using multiple domain names. | [Demo](https://c1n.top/) | Maintained |
+
 
 ## Website Analysis
 
@@ -188,6 +190,9 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [locnode](https://github.com/minlearn/locnode) |selfhost light federated community app runs on cloudflare。| <https://locnode.com/> | Under maintenance|
 | [Siri Ultra](https://github.com/fatwang2/siri-ultra) |The assistant is run on Cloudflare Workers and can work with any LLM model。|  | Under maintenance|
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Check a website's technology stack. || Under maintenance |
+| [wr.do](https://github.com/oiov/wr.do) | A multi-tenant DNS distribution system based on Cloudflare. Open-source and freely provides DNS resolution and short link generation. |https://wr.do | Under maintenance|
+| [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | A Cloudflare Workers web proxy with subdomain access method. | [Demo](https://www.proxysites.ai.serp.ing/) | Under maintenance|
+
 
 ## Tutorials
 
