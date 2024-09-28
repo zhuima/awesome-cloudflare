@@ -130,6 +130,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>)  |Proxy super de Cloudflare, configurando un proxy gratuito usando el trabajador de Cloudflare. | <https://y.demo.wvusd.homes/> |Mantenido|
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Un proyecto llamado cloudflare-docker-proxy, que es un proxy de registro de Docker Hub que se ejecuta en Cloudflare Worker. |  | En mantenimiento |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Este proyecto es una herramienta de proxy de imagen de Docker basada en Cloudflare Workers. Puede retransmitir solicitudes al repositorio oficial de imágenes de Docker, resolviendo restricciones de acceso y acelerando el acceso. | <https://docker.fxxk.dedyn.io/> | En mantenimiento |
+| [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | En teoría, el proxy inverso HTTP de Cloudflare Workers admite la transferencia de cualquier nombre de dominio bloqueado. Solo necesita configurar la variable de entorno PROXY_HOSTNAME en el nombre de dominio bloqueado. |  | En mantenimiento |
 
 ## Compartir archivos
 
