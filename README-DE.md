@@ -103,6 +103,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cf-proxy-ex](<https://github.com/1234567Yang/cf-proxy-ex>) |Cloudflare Super-Proxy, Einrichten eines kostenlosen Proxys mit dem Cloudflare-Worker. | <https://y.demo.wvusd.homes/> |Wird gepflegt|
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Ein Projekt namens cloudflare-docker-proxy, das ein Docker Hub-Registry-Proxy ist, das auf Cloudflare Worker läuft. |  | In Wartung |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Dieses Projekt ist ein auf Cloudflare Workers basierendes Docker-Image-Proxy-Tool. Es kann Anfragen an das offizielle Docker-Image-Repository weiterleiten, Zugriffsrestriktionen lösen und den Zugriff beschleunigen. | <https://docker.fxxk.dedyn.io/> | In Wartung |
+| [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | Der HTTP-Reverse-Proxy von Cloudflare Workers unterstützt theoretisch das Proxying aller blockierten Domänennamen. Sie müssen lediglich die Umgebungsvariable PROXY_HOSTNAME auf den blockierten Domänennamen setzen. |  | In Wartung |
 
 ## Dateifreigabe
 
