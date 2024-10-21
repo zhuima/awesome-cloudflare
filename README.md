@@ -174,6 +174,7 @@
 | [免费的 CAPTCHA 替代品](https://www.cloudflare.com/zh-cn/products/turnstile/) |官方出品，免费的 CAPTCHA 替代品。| |有效中|
 | [通过 Cloudflare 页面函数向 Telegram 发消息](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | 介绍如何利用页面函数作为 GitHub 的 Webhook 地址，将指定事件转发到 Telegram 频道中。| |有效中|
 | [使用Cloudflare Workers制作博客AI摘要](https://mabbs.github.io/2024/07/03/ai-summary.html) | 介绍使用Cloudflare Workers + Workers AI + D1数据库实现博客AI摘要。| |有效中|
+| [Cloudflare Workers 指定区域运行](https://blog.lyc8503.net/post/cloudflare-worker-region/) | 介绍如何强制 Workers 代码在特定节点运行。| | 有效中|
 
 ## 其他
 
