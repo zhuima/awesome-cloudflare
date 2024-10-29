@@ -201,7 +201,7 @@
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | 看某个网站的技术栈。|  | 维护中|
 | [wr.do](https://github.com/oiov/wr.do) | 基于 Cloudflare 的多租户 DNS 分发系统。开源且免费提供 DNS 解析、短链接生成。| https://wr.do  | 维护中|
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Cloudflare Workers web proxy 二级域名访问方式。 | [Demo 地址](https://www.proxysites.ai.serp.ing/) | 维护中 |
-
+| [web-archive](https://github.com/Ray-D-Song/web-archive) | 基于 Cloudflare 的免费网页归档和分享工具。包含一个浏览器插件和运行在 Cloudflare page 上的服务 | https://github.com/Ray-D-Song/web-archive | 维护中 |
 
 
 
