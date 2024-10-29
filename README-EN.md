@@ -193,6 +193,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Check a website's technology stack. || Under maintenance |
 | [wr.do](https://github.com/oiov/wr.do) | A multi-tenant DNS distribution system based on Cloudflare. Open-source and freely provides DNS resolution and short link generation. |https://wr.do | Under maintenance|
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | A Cloudflare Workers web proxy with subdomain access method. | [Demo](https://www.proxysites.ai.serp.ing/) | Under maintenance|
+| [web-archive](https://github.com/Ray-D-Song/web-archive) | A free web archiving and sharing tool based on Cloudflare. It includes a browser plugin and a service running on Cloudflare pages. | https://github.com/Ray-D-Song/web-archive | Updating |
 
 
 ## Tutorials
@@ -202,7 +203,6 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | A quick start guide to help you get started with Cloudflare Workers |  | Updating |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) | A series of technical blogs on using Cloudflare Zero Trust to create large intranets and solve issues with blocked servers. | | Updating |
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend: Get a Free Enterprise Email in Ten Minutes with Ease. |  | Updating |
-| [web-archive](https://github.com/Ray-D-Song/web-archive) | A free web archiving and sharing tool based on Cloudflare. It includes a browser plugin and a service running on Cloudflare pages. | https://github.com/Ray-D-Song/web-archive | Updating |
 
 ## Group
 
