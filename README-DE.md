@@ -167,6 +167,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Überprüfen Sie die Technologie-Stack einer Webseite. | | Wird gewartet |
 | [wr.do](https://github.com/oiov/wr.do) | Ein auf Cloudflare basierendes Multi-Tenant-DNS-Verteilungssystem. Open-Source und bietet kostenlose DNS-Auflösung und Kurzlink-Generierung an. |  https://wr.do |Aktiv |
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Ein Cloudflare Workers-Web-Proxy mit Subdomain-Zugriffsmethode. | [Demo](https://www.proxysites.ai.serp.ing/) | Aktiv |
+| [web-archive](https://github.com/Ray-D-Song/web-archive) | Basierend auf Cloudflare ist ein kostenloses Tool zum Archivieren und Teilen von Webseiten. Es enthält ein Browser-Plugin und einen Dienst, der auf Cloudflare-Seiten läuft. | https://github.com/Ray-D-Song/web-archive | Aktiv |
 
 
 
