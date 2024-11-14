@@ -30,25 +30,27 @@
 
 ## Contents
 
-- [Contents](#contents)
-- [图床](#图床)
-- [邮箱](#邮箱)
-- [博客](#博客)
+- [](#)
+  - [在线版本](#在线版本)
+  - [Contents](#contents)
+  - [图床](#图床)
+  - [邮箱](#邮箱)
+  - [博客](#博客)
 - [脚手架](#脚手架)
-- [短链](#短链)
-- [网站分析](#网站分析)
-- [隧道](#隧道)
-- [加速](#加速)
-- [文件分享](#文件分享)
-- [测速](#测速)
-- [监控](#监控)
+  - [短链](#短链)
+  - [网站分析](#网站分析)
+  - [隧道](#隧道)
+  - [加速](#加速)
+  - [文件分享](#文件分享)
+  - [测速](#测速)
+  - [监控](#监控)
 - [文章](#文章)
-- [其他](#其他)
-- [教程](#教程)
-- [群组](#群组)
-- [捐赠](#捐赠)
-- [Contributors](#contributors)
-- [Star History](#star-history)
+  - [其他](#其他)
+  - [教程](#教程)
+  - [群组](#群组)
+  - [捐赠](#捐赠)
+  - [Contributors](#contributors)
+  - [Star History](#star-history)
 
 ## 图床
 
@@ -56,7 +58,7 @@
 | --- | --- | --- |---|
 | [Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) |使用 Telegraph 构建免费图像托管 | | 不再维护|
 | [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) |在 Telegraph 上免费无限制地托管图像，部署在 Cloudflare 上。 | <https://images.mingming.dev> |维护中|
-| [img-mom](https://github.com/beilunyang/img-mom) |基于 Cloudflare Workers 运行时构建, 轻量使用完全免费，支持多种图床（Telegram/Cloudflare R2/Backblaze B2, 更多图床正在支持中），快速部署。使用 Wrangler 可快速实现自部署 | |维护中|
+| [img-mom](https://github.com/beilunyang/img-mom) |基于 Cloudflare Workers 运行时构建, 轻量使用完全免费，支持多种图床（Telegram/Cloudfalre R2/Backblaze B2, 更多图床正在支持中），快速部署。使用 Wrangler 可快速实现自部署 | |维护中|
 | [workers-image-hosting](https://github.com/iiop123/workers-image-hosting) |基于cloudflare workers数据存储于KV的图床 | |维护中|
 | [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) |免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。 | <https://im.gurl.eu.org/> |维护中|
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |使用 Cloudflare Worker 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。 |  |维护中|
@@ -75,6 +77,9 @@
 | [Email.ML](https://email.ml/) | 一个运行在 Cloudflare 网络中的临时邮箱|  | 未开源 |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 使用 cloudflare 免费服务，搭建临时邮箱，D1 作为数据库，带有前端及后端，支持多国语言及自动回复功能，支持附件 IMAP SMTP|  <https://mail.awsl.uk/> | 维护中 |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | 这是一个基于 Cloudflare Email Routing Worker 的 Telegram Bot，可以将电子邮件转换为 Telegram 消息。您可以将任何前缀的收件人的电子邮件转发到 Bot，然后将创建一个具有无限地址的临时邮箱 Bot。|  | 维护中 |
+| [AuthInbox](https://github.com/TooonyChen/AuthInbox) | 一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。它可以自动处理收到的邮件，提取验证码或链接，并将其存储在数据库中。管理员可以通过一个用户友好的网页界面轻松查看提取的信息。AuthInbox 还支持通过 Bark 进行实时通知，使其成为一个全面且省心的邮件认证管理解决方案。|  | 维护中 |
+
+
 
 ## 博客
 
@@ -118,6 +123,9 @@
 | --- | --- | --- |--- |
 | [analytics_with_cloudflare](https://github.com/yestool/analytics_with_cloudflare) |免费开源网页访客计数器, Webviso 是一个基于Cloudflare worker服务+Cloudflare D1数据库实现的完全免费的在线web访客统计服务。 功能与目前常用的 不蒜子 - 极简网页计数器 相同。Webviso完全开源，你可以实现自定义需求。 基于Cloudflare的微服务架构可快速自行部署上线。 | <https://webviso.yestool.org/> |维护中|
 | [counterscale](https://github.com/benvinegar/counterscale) |Counterscale 是一个简单的 Web 分析跟踪器和仪表板，效果和 umami 类似，您可以在 Cloudflare 上自行托管。它的设计易于部署和维护，即使在高流量的情况下，您的操作成本也应该接近于零（Cloudflare 的免费套餐假设可以支持每天高达 10 万次点击）。 | <https://counterscale.dev/> |维护中|
+| [HanAnalytics](https://github.com/uxiaohan/HanAnalytics) |一个部署在Cloudflare Pages上的简单的网络分析跟踪器和仪表板，是umami的精简版，它支持设备查看、来源查看、国家地区及设备OS等数据查看分析，支持密码访问，域名白名单等功能。 |  |维护中|
+
+
 
 ## 隧道
 
@@ -135,16 +143,18 @@
 | [cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) |Cloudflare超级代理，Duckduckgo代理（可用AI聊天），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free proxy by using Cloudflare worker. | <https://y.demo.wvusd.homes/> |维护中|
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) |一个名为 cloudflare-docker-proxy 的项目，这是一个在 Cloudflare Worker 上运行的 Docker Hub 注册代理. |  |维护中|
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) |这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题. | <https://docker.fxxk.dedyn.io/> |维护中|
-| [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | Cloudflare Workers HTTP 反向代理，理论上支持代理任何被屏蔽的域名，只需要设置环境变量 PROXY_HOSTNAME 为被屏蔽的域名 |  | 维护中 |
+
 
 ## 文件分享
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
 | [pastebin-worker](https://github.com/SharzyL/pastebin-worker) |介绍一个部署在 Cloudflare Workers 上的开源 Pastebin，通过URL分享"文本"或"文件"。如CF免费套餐：每天允许 10W 次读取、1000 次写入和 删除操作，大小限制在 25 MB 以下，轻量用足够了。自己部署或直接用。它还有“删除时间设置”和“密码”功能，可以设置一段时间后删除您的paste。用于twitter分享文件和文本，极好 | <https://shz.al/> |维护中|
-| [cf-files-sharing-worker](https://github.com/joyance-professional/cf-files-sharing/) |一个运行在 Cloudflare Workers 上的简单文件分享工具，支持 R2 和 D1 双存储解决方案。|  |维护中|
 | [FileWorker](https://github.com/yllhwa/FileWorker) |运行在Cloudflare Worker上的在线剪贴板/文件共享 |  |维护中|
 | [dingding](https://github.com/iiop123/dingding) |一款基于cloudflare workers的文件传输工具，文件存储在cloudflare KV中 |  |好像不维护了|
+| [cf-files-sharing](https://github.com/joyance-professional/cf-files-sharing) |在该项目中，利用 Cloudflare Workers 的全球加速优势，实现了一个支持密码保护的文件分享工具，并集成了 Cloudflare 的 D1 数据库和 R2 存储，以满足不同大小文件的存储需求 |  |维护中|
+
+
 
 ## 测速
 
@@ -157,7 +167,7 @@
 
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |--- |
-| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) |基于 Cloudflare Worker 的无服务器站点监控工具， 支持 HTTP/HTTPS/TCP 多种协议的端口监控， 可以从全球数百个城市发起地理位置特定的检查， 自定义的请求参数和响应校验规则,灵活适配各类监控场景。 | <https://uptimeflare.pages.dev/> |维护中|
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) |基于 Cloudflare Worker 的无服务器站点监控工具， 支持 HTTP/HTTPS/TCP 多种协议的端口监控， 可以从全球数百个城市发起地理位置特定的检查， 自定义的请求参数和响应校验规则,灵活适配各类监控场景。 | |维护中|
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) |监控您的网站，展示状态（包括每日历史记录），并在网站状态发生变化时收到 Slack 通知。使用 Cloudflare Workers、CRON 触发器和 KV 存储。 | <https://status-page.eidam.dev/> |维护中|
 
 # 文章
@@ -175,7 +185,6 @@
 | [免费的 CAPTCHA 替代品](https://www.cloudflare.com/zh-cn/products/turnstile/) |官方出品，免费的 CAPTCHA 替代品。| |有效中|
 | [通过 Cloudflare 页面函数向 Telegram 发消息](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | 介绍如何利用页面函数作为 GitHub 的 Webhook 地址，将指定事件转发到 Telegram 频道中。| |有效中|
 | [使用Cloudflare Workers制作博客AI摘要](https://mabbs.github.io/2024/07/03/ai-summary.html) | 介绍使用Cloudflare Workers + Workers AI + D1数据库实现博客AI摘要。| |有效中|
-| [Cloudflare Workers 指定区域运行](https://blog.lyc8503.net/post/cloudflare-worker-region/) | 介绍如何强制 Workers 代码在特定节点运行。| | 有效中|
 
 ## 其他
 
@@ -202,7 +211,7 @@
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | 看某个网站的技术栈。|  | 维护中|
 | [wr.do](https://github.com/oiov/wr.do) | 基于 Cloudflare 的多租户 DNS 分发系统。开源且免费提供 DNS 解析、短链接生成。| https://wr.do  | 维护中|
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Cloudflare Workers web proxy 二级域名访问方式。 | [Demo 地址](https://www.proxysites.ai.serp.ing/) | 维护中 |
-| [web-archive](https://github.com/Ray-D-Song/web-archive) | 基于 Cloudflare 的免费网页归档和分享工具。包含一个浏览器插件和运行在 Cloudflare page 上的服务 | https://github.com/Ray-D-Song/web-archive | 维护中 |
+| [sublink-worker](https://github.com/7Sageer/sublink-worker) | 一个部署在Cloudflare worker上的轻量级代理节点订阅转换工具，它可以将各种代理协议的分享 URL 转换为不同客户端可用的订阅链接。同时还提供灵活的自定义规则与API支持。 | | 维护中 |
 
 
 
