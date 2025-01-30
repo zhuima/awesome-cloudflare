@@ -92,7 +92,7 @@
 | [emaction.backend](https://github.com/emaction/emaction.backend) |基于Cloudflare D1实现的 GitHub 风格的 Reactions 点赞功能， 本项目是后端。| <https://emaction.cool/> | 维护中|
 | [serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) |基于 Cloudflare Worker 实现的Serverless Cloud Notepad 云笔记。| <https://note.src.moe/y6y> | 维护中|
 | [Rin](https://github.com/openRin/Rin/) |Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。| <https://docs.openrin.org/> | 维护中|
-| [cf-comment](https://github.com/openRin/Rin/) |一个基于 Cloudflare Workers 运行的简单评论系统，支持回复、点赞、举报以及管理员后台管理功能；同时提供中英双语切换，方便更广泛地使用。| <https://comment.joyance.page/area/test-4> | 维护中|
+| [cf-comment](https://github.com/joyance-professional/cf-comment) |一个基于 Cloudflare Workers 运行的简单评论系统，支持回复、点赞、举报以及管理员后台管理功能；同时提供中英双语切换，方便更广泛地使用。| <https://comment.joyance.page/area/test-4> | 维护中|
 
 
 
