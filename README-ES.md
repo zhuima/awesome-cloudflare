@@ -197,6 +197,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [wr.do](https://github.com/oiov/wr.do) | Un sistema de distribución de DNS multiinquilino basado en Cloudflare. Código abierto y proporciona resolución de DNS y generación de enlaces cortos de forma gratuita. | https://wr.do |  En mantenimiento |
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Un proxy web de Cloudflare Workers con método de acceso mediante subdominios. | [Demo](https://www.proxysites.ai.serp.ing/) | En mantenimiento |
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | Herramienta gratuita de archivo y compartición de páginas web basada en Cloudflare. Incluye un complemento de navegador y un servicio que se ejecuta en la página de Cloudflare. | https://github.com/Ray-D-Song/web-archive | Aktiv |
+| [melody-auth](https://github.com/ValueMelody/melody-auth) | Un sistema de autenticación y oauth basado en Cloudflare workers, D1 y KV. | <https://auth.valuemelody.com/> | Activo |
 
 
 ## Tutoriales
