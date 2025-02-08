@@ -48,7 +48,6 @@
   - [其他](#其他)
   - [教程](#教程)
   - [群组](#群组)
-  - [捐赠](#捐赠)
   - [Contributors](#contributors)
   - [Star History](#star-history)
 
@@ -233,11 +232,6 @@
 
 [一个群](https://t.me/indiehackertools)
 
-## 捐赠
-
-首先十分幸运能在Github上与你相识，其次十分感谢您对我的项目感兴趣，如果说我的项目能够对您有一些帮助，还希望您可以打赏支持一下，这将会对我有莫大的鼓励，谢谢！
-
-![](./docs/alipay_small.jpeg)
 
 ## Contributors
 
