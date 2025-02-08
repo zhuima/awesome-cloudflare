@@ -30,24 +30,26 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 
 ## Contents
 
-- [Contents](#contents)
-- [Image Hosting](#image-hosting)
-- [Email](#email)
-- [Blog](#blog)
+- [](#)
+  - [Online Version](#online-version)
+  - [Contents](#contents)
+  - [Image Hosting](#image-hosting)
+  - [Email](#email)
+  - [Blog](#blog)
 - [Scaffolding](#scaffolding)
-- [Short Links](#short-links)
-- [Website Analysis](#website-analysis)
-- [Tunnel](#tunnel)
-- [Acceleration](#acceleration)
-- [File Sharing](#file-sharing)
-- [Speed Test](#speed-test)
-- [Monitoring](#monitoring)
-- [Articles](#articles)
-- [Others](#others)
-- [Tutorials](#tutorials)
-- [Group](#group)
-- [Contributors](#contributors)
-- [Star History](#star-history)
+  - [Short Links](#short-links)
+  - [Website Analysis](#website-analysis)
+  - [Tunnel](#tunnel)
+  - [Acceleration](#acceleration)
+  - [File Sharing](#file-sharing)
+  - [Speed Test](#speed-test)
+  - [Monitoring](#monitoring)
+  - [Articles](#articles)
+  - [Others](#others)
+  - [Tutorials](#tutorials)
+  - [Group](#group)
+  - [Contributors](#contributors)
+  - [Star History](#star-history)
 
 ## Image Hosting
 
@@ -100,7 +102,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [duanwangzhi](https://github.com/Closty/duanwangzhi) |Shorten your links without services, as it is based on Cloudflare Workers with minimalist style. |  | Seems to be not maintained |
 | [Url-Shorten-Worker](https://github.com/horsemail/Url-Shorten-Worker) |This is a fork of crazypeace's Url-Shorten-Worker. Access the operation page using a secret path. Supports custom short links. API not publicly available. Cache pages with set short links. Long link text box pre-searches localStorage. Add a button to delete a short link. Add a button to read KV. Transform into a network notepad Pastebin. Transform into an image bed Image Hosting. A URL Shortener created using Cloudflare worker and KV. | <https://1way.eu.org/bodongshouqulveweifengci> | Maintaining |
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) |A multifunctional URL shortening tool. |  | Maintaining |
-| [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) |Optimized the page based on the original branch and crazypeace branch, added administrator user, visitor identity, added regular expression matching function, supported environment variable configuration, and other detailed improvements. | <https://url-shortner-demo.iou.icu/> | Maintaining  |
+| [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) |Optimized the page based on the original branch and crazypeace branch, added administrator user, visitor identity, added regular expression matching function, supported environment variable configuration, and other detailed improvements. | <https://url-shortener-demo.jhw.li/> | Maintaining  |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) |A URL shortener created using Cloudflare Worker, supports custom homepage, Menu Short, supports short URLs, text, web page sharing URL. |  | Maintaining|
 | [Sink](https://github.com/ccbikai/Sink) |A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.| <https://sink.cool/> |  Maintaining|
 | [short](https://github.com/molikai-work/short) | A project modified based on x-dr/short, adding features like setting short link passwords, managing short links, using Turnstile CAPTCHA, managing blacklisted domains, configuring redirect pages, and using multiple domain names. | [Demo](https://c1n.top/) | Maintained |
@@ -150,7 +152,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 
 | Name | Features | Online Address | Status |
 | --- | --- | --- | --- |
-| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | A serverless website monitoring tool based on Cloudflare Worker. It supports monitoring ports for multiple protocols including HTTP/HTTPS/TCP. It can initiate geographically specific checks from hundreds of cities worldwide, with customizable request parameters and response validation rules, adaptable for various monitoring scenarios. | | Under maintenance |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | A serverless website monitoring tool based on Cloudflare Worker. It supports monitoring ports for multiple protocols including HTTP/HTTPS/TCP. It can initiate geographically specific checks from hundreds of cities worldwide, with customizable request parameters and response validation rules, adaptable for various monitoring scenarios. | <https://uptimeflare.pages.dev/> | Under maintenance |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your website, display status (including daily history), and receive Slack notifications when the website status changes. Utilizes Cloudflare Workers, CRON triggers, and KV storage. | <https://status-page.eidam.dev/> | Under maintenance |
 
 ## Articles
@@ -194,6 +196,8 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [wr.do](https://github.com/oiov/wr.do) | A multi-tenant DNS distribution system based on Cloudflare. Open-source and freely provides DNS resolution and short link generation. |https://wr.do | Under maintenance|
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | A Cloudflare Workers web proxy with subdomain access method. | [Demo](https://www.proxysites.ai.serp.ing/) | Under maintenance|
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | A free web archiving and sharing tool based on Cloudflare. It includes a browser plugin and a service running on Cloudflare pages. | https://github.com/Ray-D-Song/web-archive | Updating |
+| [melody-auth](https://github.com/ValueMelody/melody-auth) | An oauth and authentication system based on Cloudflare workers, D1 and KV. | <https://auth.valuemelody.com/> | Active |
+
 
 
 ## Tutorials

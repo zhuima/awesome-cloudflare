@@ -30,24 +30,26 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 
 ## Contenidos
 
-- [Contenidos](#contenidos)
-- [Hosting de imágenes](#hosting-de-imágenes)
-- [Correo electrónico](#correo-electrónico)
-- [Blog](#blog)
+- [](#)
+  - [Versión en línea](#versión-en-línea)
+  - [Contenidos](#contenidos)
+  - [Hosting de imágenes](#hosting-de-imágenes)
+  - [Correo electrónico](#correo-electrónico)
+  - [Blog](#blog)
 - [Andamiaje](#andamiaje)
-- [Enlaces cortos](#enlaces-cortos)
-- [Análisis de sitios web](#análisis-de-sitios-web)
-- [Túneles](#túneles)
-- [Aceleración](#aceleración)
-- [Compartir archivos](#compartir-archivos)
-- [Pruebas de velocidad](#pruebas-de-velocidad)
-- [Monitoreo](#monitoreo)
-- [Artículos](#artículos)
-- [Otros](#otros)
-- [Tutoriales](#tutoriales)
-- [Grupo](#grupo)
-- [Colaboradores](#colaboradores)
-- [Historial de estrellas](#historial-de-estrellas)
+  - [Enlaces cortos](#enlaces-cortos)
+  - [Análisis de sitios web](#análisis-de-sitios-web)
+  - [Túneles](#túneles)
+  - [Aceleración](#aceleración)
+  - [Compartir archivos](#compartir-archivos)
+  - [Pruebas de velocidad](#pruebas-de-velocidad)
+  - [Monitoreo](#monitoreo)
+  - [Artículos](#artículos)
+  - [Otros](#otros)
+  - [Tutoriales](#tutoriales)
+  - [Grupo](#grupo)
+  - [Colaboradores](#colaboradores)
+  - [Historial de Estrellas](#historial-de-estrellas)
 
 ## Hosting de imágenes
 
@@ -100,7 +102,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [duanwangzhi](https://github.com/Closty/duanwangzhi) | Acorta tus enlaces sin necesidad de un servicio, ya que se basa en la funcionalidad de los trabajadores de Cloudflare, con un estilo minimalista. |  | Parece que no se mantiene |
 | [Url-Shorten-Worker](https://github.com/horsemail/Url-Shorten-Worker) | Este es un fork de Url-Shorten-Worker de crazypeace, utiliza una ruta secreta para acceder a la página de operaciones. Soporta enlaces cortos personalizados. Servicio API no público. Caché de página para enlaces cortos establecidos. Caja de texto de enlace largo con pre-búsqueda en localStorage. Añade un botón para eliminar un enlace corto específico. Añade un botón para leer KV. Se transforma en un bloc de notas en línea Pastebin. Se transforma en un host de imágenes Image Hosting. Un acortador de URL creado con Cloudflare worker y KV. | <https://1way.eu.org/bodongshouqulveweifengci> | En mantenimiento |
 | [CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten) | Una herramienta de enlace corto multifuncional. |  | En mantenimiento |
-| [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) | Optimización de la página sobre la base de la funcionalidad original y la rama de crazypeace, añadiendo usuarios administradores, identidades de visitantes, funcionalidad de coincidencia de expresiones regulares, soporte para configuración de variables de entorno, y otras mejoras detalladas. | <https://url-shortner-demo.iou.icu/> | En mantenimiento |
+| [Url-Shorten-Worker](https://github.com/Monopink/Url-Shorten-Worker/) | Optimización de la página sobre la base de la funcionalidad original y la rama de crazypeace, añadiendo usuarios administradores, identidades de visitantes, funcionalidad de coincidencia de expresiones regulares, soporte para configuración de variables de entorno, y otras mejoras detalladas. | <https://url-shortener-demo.jhw.li/> | En mantenimiento |
 | [CloudflareWorker-KV-UrlShort](https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort) | Un acortador de URL creado con Cloudflare Worker, soporta una página de inicio personalizada, Menu Short, y compartir URL de enlaces cortos, texto y páginas web. |  | En mantenimiento |
 | [Sink](https://github.com/ccbikai/Sink)  |Un acortador de enlaces simple / rápido / seguro con análisis, 100% operado en Cloudflare.| <https://sink.cool/>| En mantenimiento|
 | [short](https://github.com/molikai-work/short) | Un proyecto modificado basado en x-dr/short, que añade funciones como la configuración de contraseñas para enlaces cortos, la gestión de enlaces cortos, el uso de CAPTCHA de Turnstile, la gestión de dominios en lista negra, la configuración de páginas de redirección y el uso de múltiples dominios. | [Demo](https://c1n.top/) | Mantenido |
@@ -151,7 +153,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 
 | Nombre | Características | Dirección en línea | Estado |
 | --- | --- | --- | --- |
-| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Una herramienta de monitoreo de sitios web sin servidor basada en Cloudflare Worker. Admite monitoreo de puertos para múltiples protocolos, incluidos HTTP/HTTPS/TCP. Puede iniciar comprobaciones geográficamente específicas desde cientos de ciudades en todo el mundo, con parámetros de solicitud personalizables y reglas de validación de respuesta, adaptable para diversos escenarios de monitoreo. | | En mantenimiento |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Una herramienta de monitoreo de sitios web sin servidor basada en Cloudflare Worker. Admite monitoreo de puertos para múltiples protocolos, incluidos HTTP/HTTPS/TCP. Puede iniciar comprobaciones geográficamente específicas desde cientos de ciudades en todo el mundo, con parámetros de solicitud personalizables y reglas de validación de respuesta, adaptable para diversos escenarios de monitoreo. | <https://uptimeflare.pages.dev/> | En mantenimiento |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluido el historial diario) y recibe notificaciones de Slack cuando cambia el estado del sitio web. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
 
 ## Artículos
@@ -195,6 +197,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [wr.do](https://github.com/oiov/wr.do) | Un sistema de distribución de DNS multiinquilino basado en Cloudflare. Código abierto y proporciona resolución de DNS y generación de enlaces cortos de forma gratuita. | https://wr.do |  En mantenimiento |
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Un proxy web de Cloudflare Workers con método de acceso mediante subdominios. | [Demo](https://www.proxysites.ai.serp.ing/) | En mantenimiento |
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | Herramienta gratuita de archivo y compartición de páginas web basada en Cloudflare. Incluye un complemento de navegador y un servicio que se ejecuta en la página de Cloudflare. | https://github.com/Ray-D-Song/web-archive | Aktiv |
+| [melody-auth](https://github.com/ValueMelody/melody-auth) | Un sistema de autenticación y oauth basado en Cloudflare workers, D1 y KV. | <https://auth.valuemelody.com/> | Activo |
 
 
 ## Tutoriales

@@ -28,24 +28,24 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 
 ## Inhaltsverzeichnis
 
-- [Inhaltsverzeichnis](#inhaltsverzeichnis)
-- [Bildhosting](#bildhosting)
-- [E-Mail](#e-mail)
-- [Blog](#blog)
+- [](#)
+  - [Online-Version](#online-version)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Bildhosting](#bildhosting)
+  - [E-Mail](#e-mail)
+  - [Blog](#blog)
 - [Gerüst](#gerüst)
-- [Kurzlink](#kurzlink)
-- [Website-Analyse](#website-analyse)
-- [Tunnel](#tunnel)
-- [Beschleunigung](#beschleunigung)
-- [Dateifreigabe](#dateifreigabe)
-- [Geschwindigkeitstest](#geschwindigkeitstest)
-- [Ueberwachung](#ueberwachung)
-- [Artikel](#artikel)
-- [Sonstiges](#sonstiges)
-- [Tutorials](#tutorials)
-- [Gruppe](#gruppe)
-- [Mitwirkende](#mitwirkende)
-- [Sternenhistorie](#sternenhistorie)
+  - [Tunnel](#tunnel)
+  - [Beschleunigung](#beschleunigung)
+  - [Dateifreigabe](#dateifreigabe)
+  - [Geschwindigkeitstest](#geschwindigkeitstest)
+  - [Ueberwachung](#ueberwachung)
+  - [Artikel](#artikel)
+  - [Sonstiges](#sonstiges)
+  - [Tutorials](#tutorials)
+  - [Gruppe](#gruppe)
+  - [Mitwirkende](#mitwirkende)
+  - [Sternenhistorie](#sternenhistorie)
 
 ## Bildhosting
 
@@ -124,7 +124,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 
 | Name | Funktionen | Online-Adresse | Status |
 | --- | --- | --- | --- |
-| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Ein serverloses Website-Überwachungstool basierend auf Cloudflare Worker. Es unterstützt die Überwachung von Ports für mehrere Protokolle, einschließlich HTTP/HTTPS/TCP. Es kann geografisch spezifische Überprüfungen aus Hunderten von Städten weltweit durchführen, mit anpassbaren Anforderungsparametern und Regeln zur Validierung der Antwort, anpassbar für verschiedene Überwachungsszenarien. | | In Wartung |
+| [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Ein serverloses Website-Überwachungstool basierend auf Cloudflare Worker. Es unterstützt die Überwachung von Ports für mehrere Protokolle, einschließlich HTTP/HTTPS/TCP. Es kann geografisch spezifische Überprüfungen aus Hunderten von Städten weltweit durchführen, mit anpassbaren Anforderungsparametern und Regeln zur Validierung der Antwort, anpassbar für verschiedene Überwachungsszenarien. | <https://uptimeflare.pages.dev/>| In Wartung |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Überwachen Sie Ihre Website, zeigen Sie den Status (einschließlich täglicher Historie) an und erhalten Sie Slack-Benachrichtigungen, wenn sich der Status der Website ändert. Verwendet Cloudflare Workers, CRON-Auslöser und KV-Speicher. | <https://status-page.eidam.dev/> | In Wartung |
 
 ## Artikel
@@ -168,6 +168,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [wr.do](https://github.com/oiov/wr.do) | Ein auf Cloudflare basierendes Multi-Tenant-DNS-Verteilungssystem. Open-Source und bietet kostenlose DNS-Auflösung und Kurzlink-Generierung an. |  https://wr.do |Aktiv |
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Ein Cloudflare Workers-Web-Proxy mit Subdomain-Zugriffsmethode. | [Demo](https://www.proxysites.ai.serp.ing/) | Aktiv |
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | Basierend auf Cloudflare ist ein kostenloses Tool zum Archivieren und Teilen von Webseiten. Es enthält ein Browser-Plugin und einen Dienst, der auf Cloudflare-Seiten läuft. | https://github.com/Ray-D-Song/web-archive | Aktiv |
+| [melody-auth](https://github.com/ValueMelody/melody-auth) | Ein OAuth- und Authentifizierungssystem basierend auf Cloudflare Workers, D1 und KV. | <https://auth.valuemelody.com/> | Aktiv |
 
 
 
