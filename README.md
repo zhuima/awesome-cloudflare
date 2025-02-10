@@ -71,6 +71,7 @@
 | [telegraph-Image](https://github.com/x-dr/telegraph-Image) |一个图床。 | <https://img.131213.xyz/> |维护中|
 | [roim-picx](https://github.com/roimdev/roim-picx) |基于CloudFlare Pages和R2实现的免费图床。 |  |维护中|
 | [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) |基于CloudFlare和Telegraph的免费图床，本仓库基于<https://github.com/cf-pages/Telegraph-Image> ，是原项目前端页面的重制版。开源、清晰、美观、动画丝滑、玩法多样！ |  <https://demo-cloudflare-imgbed.pages.dev/> |维护中|
+| [imgUU](https://github.com/yestool/imgUU) |一个基于Cloudflare D1和R2构建的免费图片上传应用Github登陆管理。 |  <https://imguu.net/> |维护中|
 
 
 ## 邮箱
@@ -198,6 +199,10 @@
 | [免费的 CAPTCHA 替代品](https://www.cloudflare.com/zh-cn/products/turnstile/) |官方出品，免费的 CAPTCHA 替代品。| |有效中|
 | [通过 Cloudflare 页面函数向 Telegram 发消息](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | 介绍如何利用页面函数作为 GitHub 的 Webhook 地址，将指定事件转发到 Telegram 频道中。| |有效中|
 | [使用Cloudflare Workers制作博客AI摘要](https://mabbs.github.io/2024/07/03/ai-summary.html) | 介绍使用Cloudflare Workers + Workers AI + D1数据库实现博客AI摘要。| |有效中|
+| [使用CF Workers Cron触发器进行签到](https://mabbs.github.io/2023/02/22/cron.html) | 这篇文章讲述了作者在云原神签到脚本被Github Actions禁用后，选择使用Cloudflare Workers Cron触发器的原因。| |有效中|
+| [用Workers免服务器部署挪车二维码，可微信通知、拨打电话](https://www.dujin.org/23105.html) | 基于微信推送实现消息通知。| |有效中|
+
+
 
 ## 其他
 
