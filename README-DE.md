@@ -169,7 +169,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | Ein Cloudflare Workers-Web-Proxy mit Subdomain-Zugriffsmethode. | [Demo](https://www.proxysites.ai.serp.ing/) | Aktiv |
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | Basierend auf Cloudflare ist ein kostenloses Tool zum Archivieren und Teilen von Webseiten. Es enthält ein Browser-Plugin und einen Dienst, der auf Cloudflare-Seiten läuft. | https://github.com/Ray-D-Song/web-archive | Aktiv |
 | [melody-auth](https://github.com/ValueMelody/melody-auth) | Ein OAuth- und Authentifizierungssystem basierend auf Cloudflare Workers, D1 und KV. | <https://auth.valuemelody.com/> | Aktiv |
-| [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | Das fehlende Tool für Ihre Cloudflare KV. Eine vollständigere und einfachere Lösung zum Verwalten von Cloudflare KV-Speicher. Enthält eine Weboberfläche und eine kleine Python-Bibliothek. | | Aktiv |
+| [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | Das fehlende Tool für Ihre Cloudflare KV. Eine vollständigere und einfachere Lösung zum Verwalten von Cloudflare KV-Speicher. Enthält eine Weboberfläche und eine kleine Python-Bibliothek. | <https://kv-demo.somecanadian.com> | Aktiv |
 
 ## Tutorials
 
