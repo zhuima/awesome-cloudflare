@@ -192,6 +192,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cohere2openai](https://github.com/beanqi/cohere2openai) |Cloudflare Worker that converts Cohere API to OpenAI API. | | Under maintenance |
 | [locnode](https://github.com/minlearn/locnode) |selfhost light federated community app runs on cloudflare。| <https://locnode.com/> | Under maintenance|
 | [Siri Ultra](https://github.com/fatwang2/siri-ultra) |The assistant is run on Cloudflare Workers and can work with any LLM model。|  | Under maintenance|
+| [GitPush](https://github.com/fatwang2/gitpush) |A GitHub project update subscription tool built on Cloudflare Workflow, Workers AI and Email Routing. You can subscribe to GitHub projects you follow, and receive email notifications with AI-summarized update content.| | Under maintenance|
 | [CloudFlare Radar](https://radar.cloudflare.com/scan) | Check a website's technology stack. || Under maintenance |
 | [wr.do](https://github.com/oiov/wr.do) | A multi-tenant DNS distribution system based on Cloudflare. Open-source and freely provides DNS resolution and short link generation. |https://wr.do | Under maintenance|
 | [cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) | A Cloudflare Workers web proxy with subdomain access method. | [Demo](https://www.proxysites.ai.serp.ing/) | Under maintenance|
