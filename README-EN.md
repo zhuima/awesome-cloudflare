@@ -74,6 +74,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Email.ML](https://email.ml/) |A temporary email running on the Cloudflare network.|  | Not open sourced |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) |Set up a temporary email using Cloudflare's free services.|  <https://temp-email.dreamhunter2333.xyz/> | Maintaining |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) |A Telegram Bot based on Cloudflare Email Routing Worker that converts emails to Telegram messages. You can forward emails to the Bot with any recipient prefix, and then create a Bot with an infinite number of temporary email addresses. |  | Maintaining |
+| [zmail](https://github.com/zaunist/zmail) | Z-Mail - A minimalist temporary email service built on CloudFlare's pages, worker, and D1 SQL, supporting attachment reception. | <https://mail.mdzz.uk/> | Maintaining |
 
 ## Blog
 

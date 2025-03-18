@@ -85,6 +85,7 @@
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | 这是一个基于 Cloudflare Email Routing Worker 的 Telegram Bot，可以将电子邮件转换为 Telegram 消息。您可以将任何前缀的收件人的电子邮件转发到 Bot，然后将创建一个具有无限地址的临时邮箱 Bot。|  | 维护中 |
 | [AuthInbox](https://github.com/TooonyChen/AuthInbox) | 一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。它可以自动处理收到的邮件，提取验证码或链接，并将其存储在数据库中。管理员可以通过一个用户友好的网页界面轻松查看提取的信息。AuthInbox 还支持通过 Bark 进行实时通知，使其成为一个全面且省心的邮件认证管理解决方案。|  | 维护中 |
 | [moemail](https://github.com/beilunyang/moemail) | MoeMail - 基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务 。| <https://moemail.app> | 维护中 |
+| [zmail](https://github.com/zaunist/zmail) | Z-Mail - 基于 CloudFlare 的 pages、worker 以及 D1 SQL 搭建的极简临时邮箱服务，支持接收附件。| <https://mail.mdzz.uk/> | 维护中 |
 
 
 ## 博客
