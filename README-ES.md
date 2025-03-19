@@ -74,6 +74,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Email.ML](https://email.ml/) | Un correo electrónico temporal que funciona en la red de Cloudflare |  | No es de código abierto |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | Uso del servicio gratuito de Cloudflare para establecer un correo electrónico temporal |  <https://temp-email.dreamhunter2333.xyz/> | En mantenimiento |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | Este es un bot de Telegram basado en Cloudflare Email Routing Worker que puede convertir correos electrónicos en mensajes de Telegram. Puedes reenviar correos electrónicos de cualquier prefijo al Bot, que luego creará un bot de correo electrónico temporal con direcciones ilimitadas. |  | En mantenimiento |
+| [zmail](https://github.com/zaunist/zmail) | Z-Mail - Un servicio de correo electrónico temporal minimalista construido con pages, worker y D1 SQL de CloudFlare, con soporte para recepción de archivos adjuntos. | <https://mail.mdzz.uk/> | En mantenimiento |
 
 ## Blog
 

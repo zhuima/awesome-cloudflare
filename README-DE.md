@@ -70,6 +70,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Email.ML](https://email.ml/) | Ein temporärer E-Mail-Dienst, der im Cloudflare-Netzwerk läuft | | Nicht offen Quelle |
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | Erstellung temporärer E-Mails mit Cloudflare's kostenlosen Diensten | <https://temp-email.dreamhunter2333.xyz/> | Wird gewartet |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | Ein Telegram Bot basierend auf Cloudflare Email Routing Worker, der E-Mails in Telegram-Nachrichten umwandelt. Ermöglicht die Erstellung eines temporären E-Mail-Bots mit unbegrenzten Adressen. | | Wird gewartet |
+| [zmail](https://github.com/zaunist/zmail) | Z-Mail - Ein minimalistischer temporärer E-Mail-Dienst, der auf CloudFlare-Seiten, Worker und D1 SQL basiert und den Empfang von Anhängen unterstützt. | <https://mail.mdzz.uk/> | Wird gewartet |
 
 ## Blog
 
