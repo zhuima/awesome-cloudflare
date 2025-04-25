@@ -149,6 +149,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | --- | --- | --- | --- |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | Muchos sitios web internacionales utilizan Cloudflare CDN, pero las IP asignadas a los visitantes del interior de China no son amigables (alta latencia, muchas pérdidas de paquetes, velocidad lenta). Aunque Cloudflare ha publicado todos los rangos de IP, encontrar uno que se adapte a ti entre tantos puede ser agotador, por lo que se creó este software. |  | En mantenimiento |
 | [SpeedTest](https://speed.cloudflare.com/) | Herramienta oficial de SpeedTest. |  | En funcionamiento |
+| [ip-check](https://github.com/lovegitgit/ip-check) | Una herramienta de prueba de velocidad de CDN de Cloudflare basada en Python que admite múltiples formas de ingresar IPs (archivos de texto, IPv4/IPv6, puertos, dominios preferidos, etc.), puertos personalizables, filtrado por ubicación geográfica de IP y filtrado por nombre de organización de IP. | | En mantenimiento |
 
 ## Monitoreo
 
