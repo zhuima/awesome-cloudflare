@@ -177,6 +177,7 @@
 | --- | --- | --- |--- |
 | [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) |国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。 | |维护中|
 | [SpeedTest](https://speed.cloudflare.com/) |官方的SpeedTest工具。 | |运行中|
+| [ip-check](https://github.com/lovegitgit/ip-check) |Python 实现的Cloudflare CDN 测速工具，支持多种方式传入ip（文本、ipv4/ipv6、端口、优选域名等）、自定义端口、ip 归属地筛选、ip 组织名筛选等。 | |维护中|
 
 ## 监控
 
