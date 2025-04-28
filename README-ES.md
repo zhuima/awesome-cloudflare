@@ -174,6 +174,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Alternativa gratuita a CAPTCHA](https://www.cloudflare.com/zh-cn/products/turnstile/) | Producto oficial, una alternativa gratuita a CAPTCHA. |  | Activo |
 | [Enviando mensajes a Telegram a través de las funciones de página de Cloudflare](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | Este artículo presenta cómo utilizar funciones de página como direcciones de webhook de GitHub para reenviar eventos específicos a canales de Telegram. | | Activo |
 | [Hacer un resumen de la IA del blog con cloudflare Workers](https://mabbs.github.io/2024/07/03/ai-summary.html) | Introduce el uso de la base de datos cloudflare Workers + Workers Ai + D1 para implementar el resumen de Ia del blog.| | Activo |
+| [Construir un sistema de suscripción y push RSS con Cloudflare Worker, Hono y Telegram Bot API](https://calpa.me/blog/build-rss-subscription-push-system-with-cloudflare-worker-hono-telegram-bot-api/) | Guía detallada sobre cómo usar Cloudflare Worker, el framework Hono y la API de Telegram Bot para crear un sistema serverless que monitorea fuentes RSS y envía actualizaciones a canales de Telegram. Totalmente sin servidor, ideal para desarrolladores individuales y pequeños equipos, soporta tareas programadas y evita mensajes duplicados. | |Activo|
 
 ## Otros
 
