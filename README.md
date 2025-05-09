@@ -167,7 +167,7 @@
 | [FileWorker](https://github.com/yllhwa/FileWorker) |运行在Cloudflare Worker上的在线剪贴板/文件共享 |  |维护中|
 | [dingding](https://github.com/iiop123/dingding) |一款基于cloudflare workers的文件传输工具，文件存储在cloudflare KV中 |  |好像不维护了|
 | [cf-files-sharing](https://github.com/joyance-professional/cf-files-sharing) |在该项目中，利用 Cloudflare Workers 的全球加速优势，实现了一个支持密码保护的文件分享工具，并集成了 Cloudflare 的 D1 数据库和 R2 存储，以满足不同大小文件的存储需求 |  |维护中|
-| [CloudPaste](https://github.com/ling-drag0n/CloudPaste) |基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、密码保护、文件上传等功能| <https://copy.vw50.ggff.net/share/paste/example>  |维护中|
+| [CloudPaste](https://github.com/ling-drag0n/CloudPaste) |基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能，支持多种部署方式，可作为WebDav挂载| <https://copy.730888.xyz/paste/demo>  |维护中|
 | [cf-drop](https://github.com/lyonbot/cf-drop) |一个「文件传输助手」，运行在 Cloudflare Worker + R2 + D1。具备PWA移动端优化、支持多线程文件下载、访问密码、打包下载tarball 等功能。界面简单易用，可放到浏览器侧栏，或者添加到手机桌面上快速使用。|   |维护中|
 
 
