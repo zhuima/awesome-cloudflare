@@ -87,6 +87,7 @@
 | [AuthInbox](https://github.com/TooonyChen/AuthInbox) | 一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。它可以自动处理收到的邮件，提取验证码或链接，并将其存储在数据库中。管理员可以通过一个用户友好的网页界面轻松查看提取的信息。AuthInbox 还支持通过 Bark 进行实时通知，使其成为一个全面且省心的邮件认证管理解决方案。|  | 维护中 |
 | [moemail](https://github.com/beilunyang/moemail) | MoeMail - 基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务 。| <https://moemail.app> | 维护中 |
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - 基于 CloudFlare 的 pages、worker 以及 D1 SQL 搭建的极简临时邮箱服务，支持接收附件。| <https://mail.mdzz.uk/> | 维护中 |
+| [cloud-mail](https://github.com/LaziestRen/cloud-mail) | 用Vue3开发的响应式简约邮箱服务，支持邮件发送附件收发，可以部署到Cloudflare云平台。| <https://skymail.ink> | 维护中 |
 
 
 ## 博客
@@ -156,6 +157,7 @@
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) |一个名为 cloudflare-docker-proxy 的项目，这是一个在 Cloudflare Worker 上运行的 Docker Hub 注册代理. |  |维护中|
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) |这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题. | <https://docker.fxxk.dedyn.io/> |维护中|
 | [Page-api-forwarder](https://github.com/xinjianzhanghao/page-api-forwarder) | 它可以帮助您绕过某些API上的IP限制，并且由于它通过Cloudflare，因此速度很快。 |  |维护中|
+| [AI-worker](https://github.com/qyjoy/AI-worker) | 通过Cloudflare免费、私有化访问和管理Gemini~摆脱地域限制无烦恼，完全由自己掌控。 |  |维护中|
 
 
 
@@ -187,6 +189,7 @@
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) |基于 Cloudflare Worker 的无服务器站点监控工具， 支持 HTTP/HTTPS/TCP 多种协议的端口监控， 可以从全球数百个城市发起地理位置特定的检查， 自定义的请求参数和响应校验规则,灵活适配各类监控场景。 | <https://uptimeflare.pages.dev/> |维护中|
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) |监控您的网站，展示状态（包括每日历史记录），并在网站状态发生变化时收到 Slack 通知。使用 Cloudflare Workers、CRON 触发器和 KV 存储。 | <https://status-page.eidam.dev/> |维护中|
 | [xugou](https://github.com/zaunist/xugou)| 基于 CloudFlare 的站点监控以及服务器监控工具。 | https://xugou.mdzz.uk/ |  维护中
+| [cf-vps-monitor](https://github.com/kadidalax/cf-vps-monitor)| 一个部署在 Cloudflare Workers 上的简单 VPS 监控 + 网站监测 面板，使用 Cloudflare D1 数据库存储数据。 | <https://vps-monitor.abo-vendor289.workers.dev/> |  维护中
 
 # 文章
 
@@ -239,6 +242,7 @@
 | [CFWorkerACME](https://github.com/PIKACHUIM/CFWorkerACME) | SSL证书助手是一个免费、开源的全自动化SSL证书申请和下发平台，依托于Cloudflare运行 | <https://newssl.524228.xyz/> | 有效中 |
 | [LibreTV](https://github.com/bestZwei/LibreTV) | LibreTV - 免费在线视频搜索与观看平台 |  | 有效中 |
 | [MoePush](https://github.com/beilunyang/moepush) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ | <https://moepush.app/> | 有效中 |
+| [Text2img-Cloudflare-Workers](https://github.com/huarzone/Text2img-Cloudflare-Workers) | 一个基于 Cloudflare AI & Workers 的在线文生图服务✨ | <https://text2img.huarzone.com/> | 有效中 |
 
 
 
