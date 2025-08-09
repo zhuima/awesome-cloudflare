@@ -64,6 +64,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [tgState](https://github.com/csznet/tgState) | Sistema de enlaces de archivos usando Telegram como almacenamiento, sin límites de tamaño o formato de archivo. | <https://tgstate.vercel.app>  | En mantenimiento |
 | [roim-picx](https://github.com/roimdev/roim-picx) |Una cama de imágenes gratuita basada en CloudFlare Pages y R2. |  |En mantenimiento|
 | [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | Un servicio gratuito de alojamiento de imágenes basado en CloudFlare y Telegraph. Este repositorio se basa en <https://github.com/cf-pages/Telegraph-Image> y es una nueva versión de la página frontal del proyecto original. ¡Código abierto, claro, hermoso, animaciones suaves y versátil! | <https://demo-cloudflare-imgbed.pages.dev/> | En mantenimiento |
+| [PixR2](https://github.com/WangQueXL/PixR2) |Plataforma de alojamiento y gestión de imágenes con múltiples puntos de entrada basada en Cloudflare Workers + R2 |   |En mantenimiento|
 
 ## Correo electrónico
 
