@@ -159,6 +159,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Una herramienta de monitoreo de sitios web sin servidor basada en Cloudflare Worker. Admite monitoreo de puertos para múltiples protocolos, incluidos HTTP/HTTPS/TCP. Puede iniciar comprobaciones geográficamente específicas desde cientos de ciudades en todo el mundo, con parámetros de solicitud personalizables y reglas de validación de respuesta, adaptable para diversos escenarios de monitoreo. | <https://uptimeflare.pages.dev/> | En mantenimiento |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluido el historial diario) y recibe notificaciones de Slack cuando cambia el estado del sitio web. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
 | [xugou](https://github.com/zaunist/xugou)| Una herramienta de monitoreo de sitios web y servidores basada en CloudFlare. | https://xugou.mdzz.uk/ |  En mantenimiento |
+| [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Rastreador universal de despliegues para asistentes de IA con insignias de estado en vivo y monitoreo de despliegues, incluyendo soporte para Cloudflare Pages. | https://deploy-mcp.io | Activo |
 
 ## Artículos
 

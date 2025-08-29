@@ -130,6 +130,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Ein serverloses Website-Überwachungstool basierend auf Cloudflare Worker. Es unterstützt die Überwachung von Ports für mehrere Protokolle, einschließlich HTTP/HTTPS/TCP. Es kann geografisch spezifische Überprüfungen aus Hunderten von Städten weltweit durchführen, mit anpassbaren Anforderungsparametern und Regeln zur Validierung der Antwort, anpassbar für verschiedene Überwachungsszenarien. | <https://uptimeflare.pages.dev/>| In Wartung |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Überwachen Sie Ihre Website, zeigen Sie den Status (einschließlich täglicher Historie) an und erhalten Sie Slack-Benachrichtigungen, wenn sich der Status der Website ändert. Verwendet Cloudflare Workers, CRON-Auslöser und KV-Speicher. | <https://status-page.eidam.dev/> | In Wartung |
 | [xugou](https://github.com/zaunist/xugou)| Ein auf CloudFlare basierendes Website- und Server-Überwachungstool. | https://xugou.mdzz.uk/ | In Wartung |
+| [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universeller Deployment-Tracker für KI-Assistenten mit Live-Status-Badges und Deployment-Überwachung, einschließlich Cloudflare Pages-Unterstützung. | https://deploy-mcp.io | Aktiv |
 
 ## Artikel
 
