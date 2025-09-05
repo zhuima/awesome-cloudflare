@@ -158,6 +158,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | A serverless website monitoring tool based on Cloudflare Worker. It supports monitoring ports for multiple protocols including HTTP/HTTPS/TCP. It can initiate geographically specific checks from hundreds of cities worldwide, with customizable request parameters and response validation rules, adaptable for various monitoring scenarios. | <https://uptimeflare.pages.dev/> | Under maintenance |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your website, display status (including daily history), and receive Slack notifications when the website status changes. Utilizes Cloudflare Workers, CRON triggers, and KV storage. | <https://status-page.eidam.dev/> | Under maintenance |
 | [xugou](https://github.com/zaunist/xugou)| A website monitoring and server monitoring tool based on CloudFlare. | https://xugou.mdzz.uk/ |  Under maintenance |
+| [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universal deployment tracker for AI assistants with live status badges and deployment monitoring, including Cloudflare Pages support. | https://deploy-mcp.io | Active |
 
 ## Articles
 
