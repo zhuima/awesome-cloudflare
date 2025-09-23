@@ -134,6 +134,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | A project named cloudflare-docker-proxy, which is a Docker Hub registry proxy running on Cloudflare Worker. |  | Maintaining |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | This project is a Docker image proxy tool based on Cloudflare Workers. It can relay requests to the official Docker image repository, solving access restrictions and accelerating access. | <https://docker.fxxk.dedyn.io/> | Maintaining |
 | [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | Cloudflare Workers HTTP reverse proxy, theoretically supports proxying any blocked domain name, just set the environment variable PROXY_HOSTNAME to the blocked domain name |  | Maintaining |
+| [gemini-balance-do](https://github.com/zaunist/gemini-balance-do) | Based on Cloudflare Worker and Durable Objects, this project implements a Gemini API relay (multi-key load balancing) for stable US IP access to Gemini. | https://github.com/zaunist/gemini-balance-do | Maintained |
 
 ## File Sharing
 
