@@ -245,6 +245,7 @@
 | [LibreTV](https://github.com/bestZwei/LibreTV) | LibreTV - 免费在线视频搜索与观看平台 |  | 有效中 |
 | [MoePush](https://github.com/beilunyang/moepush) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ | <https://moepush.app/> | 有效中 |
 | [Text2img-Cloudflare-Workers](https://github.com/huarzone/Text2img-Cloudflare-Workers) | 一个基于 Cloudflare AI & Workers 的在线文生图服务✨ | <https://text2img.huarzone.com/> | 有效中 |
+| [Edgebin](https://github.com/jiacai2050/edgebin) | 类似与 httpbin 的 HTTP 测试服务 | <https://edgebin.liujiacai.net> | 有效中 |
 
 
 
