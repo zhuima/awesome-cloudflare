@@ -208,6 +208,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [melody-auth](https://github.com/ValueMelody/melody-auth) | Un sistema de autenticación y oauth basado en Cloudflare workers, D1 y KV. | <https://auth.valuemelody.com/> | Activo |
 | [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | La herramienta que falta para tu Cloudflare KV. Una solución más completa y sencilla para gestionar el almacenamiento de Cloudflare KV. Incluye una interfaz web y una pequeña biblioteca de Python. | <https://kv-demo.somecanadian.com> | Activo |
 | [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrigi oftajn programadilon kaj AI-asistantojn. | <https://cf-tools.tianyao.qzz.io/> | Actualizando |
+| [subpool-worker](https://github.com/illusionlie/subpool-worker) | Servicio ligero para la gestión y distribución de suscripciones proxy. |  | Mantenido activamente |
 
 ## Tutoriales
 
