@@ -248,7 +248,7 @@
 | [Edgebin](https://github.com/jiacai2050/edgebin) | 类似与 httpbin 的 HTTP 测试服务 | <https://edgebin.liujiacai.net> | 有效中 |
 | [CF-TOOLS](https://github.com/MainPoser/cf-tools) | 整合常用开发工具，AI 助手等。 | <https://cf-tools.tianyao.qzz.io/> | 有效中 |
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | 轻量级订阅池服务，用于管理和分发代理订阅链接 |  | 维护中 |
-
+| [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS 多账号管理和登录服务 |  | 维护中 |
 
 
 ## 教程
