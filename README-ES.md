@@ -209,6 +209,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | La herramienta que falta para tu Cloudflare KV. Una solución más completa y sencilla para gestionar el almacenamiento de Cloudflare KV. Incluye una interfaz web y una pequeña biblioteca de Python. | <https://kv-demo.somecanadian.com> | Activo |
 | [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrigi oftajn programadilon kaj AI-asistantojn. | <https://cf-tools.tianyao.qzz.io/> | Actualizando |
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Servicio ligero para la gestión y distribución de suscripciones proxy. |  | Mantenido activamente |
+| [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | Gestión y acceso de múltiples cuentas de AWS |  | Mantenido activamente |
 
 ## Tutoriales
 
