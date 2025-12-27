@@ -64,6 +64,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [tgState](https://github.com/csznet/tgState) |File external link system using Telegram as storage, with no restrictions on file size and format. | <https://tgstate.vercel.app>  | Maintaining |
 | [roim-picx](https://github.com/roimdev/roim-picx) |A free image hosting service based on CloudFlare Pages and R2. |  |Maintaining|
 | [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | A free image hosting service based on CloudFlare and Telegraph. This repository is based on <https://github.com/cf-pages/Telegraph-Image> and is a remake of the original project's front-end page. Open-source, clear, beautiful, smooth animations, and versatile! | <https://demo-cloudflare-imgbed.pages.dev/> | Maintaining |
+| [PixR2](https://github.com/WangQueXL/PixR2) |Multi-entry image hosting and management platform based on Cloudflare Workers + R2 |   |Maintaining|
 
 ## Email
 
@@ -133,6 +134,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | A project named cloudflare-docker-proxy, which is a Docker Hub registry proxy running on Cloudflare Worker. |  | Maintaining |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | This project is a Docker image proxy tool based on Cloudflare Workers. It can relay requests to the official Docker image repository, solving access restrictions and accelerating access. | <https://docker.fxxk.dedyn.io/> | Maintaining |
 | [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | Cloudflare Workers HTTP reverse proxy, theoretically supports proxying any blocked domain name, just set the environment variable PROXY_HOSTNAME to the blocked domain name |  | Maintaining |
+| [gemini-balance-do](https://github.com/zaunist/gemini-balance-do) | Based on Cloudflare Worker and Durable Objects, this project implements a Gemini API relay (multi-key load balancing) for stable US IP access to Gemini. | https://github.com/zaunist/gemini-balance-do | Maintained |
 
 ## File Sharing
 
@@ -157,6 +159,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | A serverless website monitoring tool based on Cloudflare Worker. It supports monitoring ports for multiple protocols including HTTP/HTTPS/TCP. It can initiate geographically specific checks from hundreds of cities worldwide, with customizable request parameters and response validation rules, adaptable for various monitoring scenarios. | <https://uptimeflare.pages.dev/> | Under maintenance |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your website, display status (including daily history), and receive Slack notifications when the website status changes. Utilizes Cloudflare Workers, CRON triggers, and KV storage. | <https://status-page.eidam.dev/> | Under maintenance |
 | [xugou](https://github.com/zaunist/xugou)| A website monitoring and server monitoring tool based on CloudFlare. | https://xugou.mdzz.uk/ |  Under maintenance |
+| [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universal deployment tracker for AI assistants with live status badges and deployment monitoring, including Cloudflare Pages support. | https://deploy-mcp.io | Active |
 
 ## Articles
 
@@ -203,6 +206,9 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | A free web archiving and sharing tool based on Cloudflare. It includes a browser plugin and a service running on Cloudflare pages. | https://github.com/Ray-D-Song/web-archive | Updating |
 | [melody-auth](https://github.com/ValueMelody/melody-auth) | An oauth and authentication system based on Cloudflare workers, D1 and KV. | <https://auth.valuemelody.com/> | Active |
 | [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | The missing tool for your Cloudflare KV. A more complete and simple solution for managing Cloudflare KV storage. Include a web interface and a small python lib. | <https://kv-demo.somecanadian.com> | Active |
+| [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrate commonly used development tools, AI assistants, etc. | <https://cf-tools.tianyao.qzz.io/> | Updating |
+| [subpool-worker](https://github.com/illusionlie/subpool-worker) | Lightweight subscription pool service for managing and distributing proxy subscription links. | | Actively Maintained |
+| [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS multi-accounts management and login |  | Actively Maintained |
 
 ## Tutorials
 

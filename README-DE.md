@@ -60,6 +60,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [tgState](https://github.com/csznet/tgState) | Nutzt Telegram als Speichersystem für externe Dateilinks, keine Beschränkungen für Dateigröße und -format. | <https://tgstate.vercel.app> | Wird gewartet |
 | [roim-picx](https://github.com/roimdev/roim-picx) |Ein kostenloses Bildbett basierend auf CloudFlare Pages und R2. |  |Wird gewartet|
 | [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | Ein kostenloser Bildhosting-Dienst basierend auf CloudFlare und Telegraph. Dieses Repository basiert auf <https://github.com/cf-pages/Telegraph-Image> und ist eine Neuauflage der ursprünglichen Front-End-Seite des Projekts. Open-Source, klar, schön, geschmeidige Animationen und vielseitig! | <https://demo-cloudflare-imgbed.pages.dev/> | In Wartung |
+| [PixR2](https://github.com/WangQueXL/PixR2) | Mehrfacheinstiegs-Bildhost- und Verwaltungsplattform basierend auf Cloudflare Workers + R2 |   | Wird gewartet |
 
 ## E-Mail
 
@@ -105,6 +106,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) | Ein Projekt namens cloudflare-docker-proxy, das ein Docker Hub-Registry-Proxy ist, das auf Cloudflare Worker läuft. |  | In Wartung |
 | [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | Dieses Projekt ist ein auf Cloudflare Workers basierendes Docker-Image-Proxy-Tool. Es kann Anfragen an das offizielle Docker-Image-Repository weiterleiten, Zugriffsrestriktionen lösen und den Zugriff beschleunigen. | <https://docker.fxxk.dedyn.io/> | In Wartung |
 | [cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) | Der HTTP-Reverse-Proxy von Cloudflare Workers unterstützt theoretisch das Proxying aller blockierten Domänennamen. Sie müssen lediglich die Umgebungsvariable PROXY_HOSTNAME auf den blockierten Domänennamen setzen. |  | In Wartung |
+| [gemini-balance-do](https://github.com/zaunist/gemini-balance-do) | Basierend auf Cloudflare Worker und Durable Objects implementiert dieses Projekt ein Gemini-API-Relay (Multi-Key-Lastenausgleich) für stabilen US-IP-Zugriff auf Gemini. | https://github.com/zaunist/gemini-balance-do | Wird gewartet |
 
 ## Dateifreigabe
 
@@ -129,6 +131,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [UptimeFlare](https://github.com/lyc8503/UptimeFlare) | Ein serverloses Website-Überwachungstool basierend auf Cloudflare Worker. Es unterstützt die Überwachung von Ports für mehrere Protokolle, einschließlich HTTP/HTTPS/TCP. Es kann geografisch spezifische Überprüfungen aus Hunderten von Städten weltweit durchführen, mit anpassbaren Anforderungsparametern und Regeln zur Validierung der Antwort, anpassbar für verschiedene Überwachungsszenarien. | <https://uptimeflare.pages.dev/>| In Wartung |
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Überwachen Sie Ihre Website, zeigen Sie den Status (einschließlich täglicher Historie) an und erhalten Sie Slack-Benachrichtigungen, wenn sich der Status der Website ändert. Verwendet Cloudflare Workers, CRON-Auslöser und KV-Speicher. | <https://status-page.eidam.dev/> | In Wartung |
 | [xugou](https://github.com/zaunist/xugou)| Ein auf CloudFlare basierendes Website- und Server-Überwachungstool. | https://xugou.mdzz.uk/ | In Wartung |
+| [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universeller Deployment-Tracker für KI-Assistenten mit Live-Status-Badges und Deployment-Überwachung, einschließlich Cloudflare Pages-Unterstützung. | https://deploy-mcp.io | Aktiv |
 
 ## Artikel
 
@@ -175,6 +178,9 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [web-archive](https://github.com/Ray-D-Song/web-archive) | Basierend auf Cloudflare ist ein kostenloses Tool zum Archivieren und Teilen von Webseiten. Es enthält ein Browser-Plugin und einen Dienst, der auf Cloudflare-Seiten läuft. | https://github.com/Ray-D-Song/web-archive | Aktiv |
 | [melody-auth](https://github.com/ValueMelody/melody-auth) | Ein OAuth- und Authentifizierungssystem basierend auf Cloudflare Workers, D1 und KV. | <https://auth.valuemelody.com/> | Aktiv |
 | [Cloudflare-KV-Manager](https://github.com/som3canadian/Cloudflare-KV-Manager) | Das fehlende Tool für Ihre Cloudflare KV. Eine vollständigere und einfachere Lösung zum Verwalten von Cloudflare KV-Speicher. Enthält eine Weboberfläche und eine kleine Python-Bibliothek. | <https://kv-demo.somecanadian.com> | Aktiv |
+| [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrieren Sie gängige Entwicklungstools, KI-Assistenten usw. | <https://cf-tools.tianyao.qzz.io/> | Wird aktualisiert |
+| [subpool-worker](https://github.com/illusionlie/subpool-worker) | Leichtgewichtiger Abonnement-Pool-Dienst zum Verwalten und Verteilen von Proxy-Abonnement-Links. |  | Aktiv gepflegt |
+| [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS Multi-Accounts-Verwaltung und Anmeldung |  | Aktiv gepflegt |
 
 ## Tutorials
 
