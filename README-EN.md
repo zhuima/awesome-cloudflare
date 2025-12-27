@@ -142,6 +142,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- |--- |
 | [pastebin-worker](https://github.com/SharzyL/pastebin-worker) |Introduces an open-source Pastebin deployed on Cloudflare Workers, allowing sharing of "text" or "files" via URL. For CF's free tier: allows 100k reads, 1000 writes, and deletes per day, with a size limit of under 25 MB, sufficient for lightweight use. Can be self-hosted or used directly. It also features "deletion time settings" and "password" functionality, allowing you to set a time for your paste to be deleted. Great for sharing files and text on Twitter. | <https://shz.al/> | Maintaining |
 | [FileWorker](https://github.com/yllhwa/FileWorker) |An online clipboard/file sharing service running on Cloudflare Worker. |  | Maintaining |
+| [CloudPaste](https://github.com/ling-drag0n/CloudPaste) | A Cloudflare-based online text/large file sharing platform supporting multiple syntax Markdown rendering, self-destruct after reading, multi-storage aggregation (S3/WebDav/TG/OneDrive), password protection, and more. Can be mounted as WebDav and supports Docker deployment. | <https://doc.cloudpaste.qzz.io/> | Maintenance |
 | [dingding](https://github.com/iiop123/dingding) |A file transfer tool based on Cloudflare Workers, storing files in Cloudflare KV. |  | Seems unmaintained |
 
 ## Speed Test
