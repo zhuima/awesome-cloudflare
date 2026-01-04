@@ -210,6 +210,8 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrigi oftajn programadilon kaj AI-asistantojn. | <https://cf-tools.tianyao.qzz.io/> | Actualizando |
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Servicio ligero para la gestión y distribución de suscripciones proxy. |  | Mantenido activamente |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | Gestión y acceso de múltiples cuentas de AWS |  | Mantenido activamente |
+| [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | Un servicio de gestión de almacenamiento agregado similar a alist basado en Cloudflare Workers | <https://down.ohyraw.qzz.io> | Mantenido activamente |
+
 
 ## Tutoriales
 
