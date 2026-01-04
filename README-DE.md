@@ -181,6 +181,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [CF-TOOLS](https://github.com/MainPoser/cf-tools) | Integrieren Sie gängige Entwicklungstools, KI-Assistenten usw. | <https://cf-tools.tianyao.qzz.io/> | Wird aktualisiert |
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Leichtgewichtiger Abonnement-Pool-Dienst zum Verwalten und Verteilen von Proxy-Abonnement-Links. |  | Aktiv gepflegt |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS Multi-Accounts-Verwaltung und Anmeldung |  | Aktiv gepflegt |
+| [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | Ein alist-ähnlicher aggregierter Speicherverwaltungsdienst auf Basis von Cloudflare Workers | <https://down.ohyraw.qzz.io> | Aktiv gepflegt |
+
 
 ## Tutorials
 
