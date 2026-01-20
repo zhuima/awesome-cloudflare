@@ -76,6 +76,8 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | Uso del servicio gratuito de Cloudflare para establecer un correo electrónico temporal |  <https://temp-email.dreamhunter2333.xyz/> | En mantenimiento |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | Este es un bot de Telegram basado en Cloudflare Email Routing Worker que puede convertir correos electrónicos en mensajes de Telegram. Puedes reenviar correos electrónicos de cualquier prefijo al Bot, que luego creará un bot de correo electrónico temporal con direcciones ilimitadas. |  | En mantenimiento |
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - Un servicio de correo electrónico temporal minimalista construido con pages, worker y D1 SQL de CloudFlare, con soporte para recepción de archivos adjuntos. | <https://mail.mdzz.uk/> | En mantenimiento |
+| [Alle](https://github.com/bestruirui/Alle) | Cliente de agregación de correo electrónico con IA que incluye extracción de códigos de verificación y clasificación de enlaces. Ofrece servicio de correo temporal. Construido sobre Cloudflare Workers + Next.js, despliegue sin servidor con solo un dominio. | | En mantenimiento |
+| [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | Un servicio de correo temporal gratuito permanente de estilo limpio y minimalista. Protege la privacidad del usuario, soporta internacionalización i18n, listo para usar. Desarrollado con plantilla NuxtPro y Cloudflare. | <https://mail.aitre.cc> | En mantenimiento |
 
 ## Blog
 
@@ -211,6 +213,15 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Servicio ligero para la gestión y distribución de suscripciones proxy. |  | Mantenido activamente |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | Gestión y acceso de múltiples cuentas de AWS |  | Mantenido activamente |
 | [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | Un servicio de gestión de almacenamiento agregado similar a alist basado en Cloudflare Workers | <https://down.ohyraw.qzz.io> | Mantenido activamente |
+| [sync-your-cookie](https://github.com/jackluson/sync-your-cookie) | Extensión de navegador para sincronizar cookies con Cloudflare KV o GitHub Gist. Soporta LocalStorage, reglas Auto Merge y Auto Push para diferentes sitios, transmisión codificada en protobuf y panel de gestión. | | En mantenimiento |
+| [myip](https://github.com/hoa-js/examples/tree/master/myip) | Sitio web de detección de información IP basado en Cloudflare Workers. Soporta despliegue con un clic, construido con hoajs. | <https://myip.hoa-js.com/> | En mantenimiento |
+| [2fa](https://github.com/hoa-js/examples/blob/master/2fa/index.js) | Sitio web de generación 2FA basado en Cloudflare Workers. Soporta despliegue con un clic, construido con hoajs. | <https://2fa.hoa-js.com/> | En mantenimiento |
+| [tempnote](https://github.com/hoa-js/examples/blob/master/tempnote/tempnote.js) | Sitio web de notas temporales basado en Cloudflare Workers & KV. Genera direcciones de notas aleatorias, diseño responsivo, soporta direcciones de notas personalizadas, despliegue con un clic, construido con hoajs. | <https://tempnote.hoa-js.com/> | En mantenimiento |
+| [CloudNav-](https://github.com/sese972010/CloudNav-) | Navegación que puede ser alojada en Cloudflare, con complemento de Chrome para guardar favoritos en la navegación con un clic. Navegación ligera enfocada en practicidad. | | En mantenimiento |
+| [memos-worker](https://github.com/souvenp/memos-worker) | Notas y base de conocimientos impulsada por Cloudflare. Soporte completo de Markdown, archivos y adjuntos, intercambio público, integración con Telegram, poderosa organización, base de conocimientos, altamente personalizable, rendimiento extremo y bajo costo, soberanía de datos. | | En mantenimiento |
+| [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | Herramienta de transcripción de audio en línea basada en el modelo Whisper, desplegada en Cloudflare. Convierte archivos de audio a texto y soporta generación de subtítulos SRT. | | En mantenimiento |
+| [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini bloc de notas, implementación de Cloudflare Worker de [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | En mantenimiento |
+| [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Herramienta MCP de publicación de páginas Cloudflare que puede publicar páginas HTML en Cloudflare Workers. Puede conectarse a IA a través de MCP. | | En mantenimiento |
 
 
 ## Tutoriales

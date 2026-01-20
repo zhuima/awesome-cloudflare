@@ -72,6 +72,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | Erstellung temporärer E-Mails mit Cloudflare's kostenlosen Diensten | <https://temp-email.dreamhunter2333.xyz/> | Wird gewartet |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) | Ein Telegram Bot basierend auf Cloudflare Email Routing Worker, der E-Mails in Telegram-Nachrichten umwandelt. Ermöglicht die Erstellung eines temporären E-Mail-Bots mit unbegrenzten Adressen. | | Wird gewartet |
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - Ein minimalistischer temporärer E-Mail-Dienst, der auf CloudFlare-Seiten, Worker und D1 SQL basiert und den Empfang von Anhängen unterstützt. | <https://mail.mdzz.uk/> | Wird gewartet |
+| [Alle](https://github.com/bestruirui/Alle) | KI-gesteuerter E-Mail-Aggregations-Client mit Verifizierungscode-Extraktion und Link-Klassifizierung. Bietet temporären E-Mail-Dienst. Basierend auf Cloudflare Workers + Next.js, serverlose Bereitstellung mit nur einer Domain. | | Wird gewartet |
+| [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | Ein sauberer und minimalistischer permanenter kostenloser temporärer E-Mail-Dienst. Schützt Benutzerdaten, unterstützt i18n-Internationalisierung, sofort einsatzbereit. Mit NuxtPro-Template und Cloudflare entwickelt. | <https://mail.aitre.cc> | Wird gewartet |
 
 ## Blog
 
@@ -182,6 +184,15 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Leichtgewichtiger Abonnement-Pool-Dienst zum Verwalten und Verteilen von Proxy-Abonnement-Links. |  | Aktiv gepflegt |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS Multi-Accounts-Verwaltung und Anmeldung |  | Aktiv gepflegt |
 | [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | Ein alist-ähnlicher aggregierter Speicherverwaltungsdienst auf Basis von Cloudflare Workers | <https://down.ohyraw.qzz.io> | Aktiv gepflegt |
+| [sync-your-cookie](https://github.com/jackluson/sync-your-cookie) | Browser-Erweiterung zum Synchronisieren von Cookies mit Cloudflare KV oder GitHub Gist. Unterstützt LocalStorage, Auto Merge und Auto Push Regeln für verschiedene Websites, protobuf-verschlüsselte Übertragung und Verwaltungspanel. | | Wird gewartet |
+| [myip](https://github.com/hoa-js/examples/tree/master/myip) | IP-Informationserkennungs-Website basierend auf Cloudflare Workers. Unterstützt One-Click-Bereitstellung, erstellt mit hoajs. | <https://myip.hoa-js.com/> | Wird gewartet |
+| [2fa](https://github.com/hoa-js/examples/blob/master/2fa/index.js) | 2FA-Generierungs-Website basierend auf Cloudflare Workers. Unterstützt One-Click-Bereitstellung, erstellt mit hoajs. | <https://2fa.hoa-js.com/> | Wird gewartet |
+| [tempnote](https://github.com/hoa-js/examples/blob/master/tempnote/tempnote.js) | Temporäre Notiz-Website basierend auf Cloudflare Workers & KV. Generiert zufällige Notizadressen, responsives Design, unterstützt benutzerdefinierte Notizadressen, One-Click-Bereitstellung, erstellt mit hoajs. | <https://tempnote.hoa-js.com/> | Wird gewartet |
+| [CloudNav-](https://github.com/sese972010/CloudNav-) | Navigation, die auf Cloudflare gehostet werden kann, mit Chrome-Plugin für One-Click-Bookmarking. Leichtgewichtige Navigation, fokussiert auf Praktikabilität. | | Wird gewartet |
+| [memos-worker](https://github.com/souvenp/memos-worker) | Notizen- und Wissensbasis powered by Cloudflare. Vollständige Markdown-Unterstützung, Dateianhänge, öffentliche Freigabe, Telegram-Integration, leistungsstarke Organisation, Wissensbasis, hochgradig anpassbar, extreme Leistung und niedrige Kosten, Datensouveränität. | | Wird gewartet |
+| [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | Online-Audio-Transkriptionstool basierend auf Whisper-Modell, auf Cloudflare bereitgestellt. Konvertiert Audiodateien in Text und unterstützt SRT-Untertitelgenerierung. | | Wird gewartet |
+| [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini-Notizblock, Cloudflare-Worker-Implementierung von [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Wird gewartet |
+| [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare-Seitenveröffentlichungs-MCP-Tool, das HTML-Seiten auf Cloudflare Workers veröffentlichen kann. Kann über MCP mit KI verbinden. | | Wird gewartet |
 
 
 ## Tutorials

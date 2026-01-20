@@ -89,6 +89,8 @@
 | [moemail](https://github.com/beilunyang/moemail) | MoeMail - 基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务 。| <https://moemail.app> | 维护中 |
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - 基于 CloudFlare 的 pages、worker 以及 D1 SQL 搭建的极简临时邮箱服务，支持接收附件。| <https://mail.mdzz.uk/> | 维护中 |
 | [cloud-mail](https://github.com/LaziestRen/cloud-mail) | 用Vue3开发的响应式简约邮箱服务，支持邮件发送附件收发，可以部署到Cloudflare云平台。| <https://skymail.ink> | 维护中 |
+| [Alle](https://github.com/bestruirui/Alle) | AI识别的邮件聚合客户端，支持验证码提取、链接分类、临时邮箱服务。基于Cloudflare Workers + Next.js构建，无需服务器，仅需一个域名即可部署。| | 维护中 |
+| [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | 清爽简约风的永久免费临时邮件服务。保护用户隐私数据，支持i18n国际化，即用即走。基于NuxtPro模板和CF开发。| <https://mail.aitre.cc> | 维护中 |
 
 
 ## 博客
@@ -251,6 +253,16 @@
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | 轻量级订阅池服务，用于管理和分发代理订阅链接 |  | 维护中 |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS 多账号管理和登录服务 |  | 维护中 |
 | [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | 基于cloudflare worker的类alist聚合存储管理服务 | <https://down.ohyraw.qzz.io> | 维护中 |
+| [sync-your-cookie](https://github.com/jackluson/sync-your-cookie) | 基于cloudflare KV、Github Gist Cookie同步浏览器拓展。支持同步 Cookie 到 Cloudflare 或者 github Gist (支持LocalStorage)，支持为不同站点配置Auto Merge和Auto Push规则，Cookie数据经过 protobuf 编码传输，提供了管理面板。| | 维护中 |
+| [myip](https://github.com/hoa-js/examples/tree/master/myip) | 基于Cloudflare Workers的IP信息探测网站。支持一键部署，基于hoajs实现。| <https://myip.hoa-js.com/> | 维护中 |
+| [2fa](https://github.com/hoa-js/examples/blob/master/2fa/index.js) | 基于Cloudflare Workers的2FA生成网站。支持一键部署，基于hoajs实现。| <https://2fa.hoa-js.com/> | 维护中 |
+| [tempnote](https://github.com/hoa-js/examples/blob/master/tempnote/tempnote.js) | 基于Cloudflare Workers & KV 的随记网站。随机生成笔记地址、响应式设计、支持自定义笔记地址、支持一键部署，基于hoajs实现。| <https://tempnote.hoa-js.com/> | 维护中 |
+| [CloudNav-](https://github.com/sese972010/CloudNav-) | 可以托管在cloudflare上的导航，带chrome插件，可一键收藏网页到导航。轻量级导航，主打实用。| | 维护中 |
+| [cf-tools](https://github.com/MainPoser/cf-tools) | Cloudflare驱动的在线工具平台，集成常用开发工具和Worker AI。整合常用开发工具、AI 助手等。| <https://cf-tools.tianyao.qzz.io/> | 维护中 |
+| [memos-worker](https://github.com/souvenp/memos-worker) | 由 Cloudflare 驱动的笔记与知识库。Markdown 全功能支持、文件与附件、公开分享、Telegram 集成、强大组织能力、知识库、高度可定制、极致性能与低成本、数据自主。| | 维护中 |
+| [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | 基于 Whisper 模型的在线音频转写工具，部署在 Cloudflare 上。可以将音频文件转换为文字，并支持生成 SRT 格式的字幕文件。| | 维护中 |
+| [micro-notepad](https://github.com/thun888/micro-notepad/) | 迷你笔记本，对 [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) 的cloudflare worker实现。| | 维护中 |
+| [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | cloudflare 页面发布 mcp 工具，可以将 html 页面发布到 cloudflare，worker 上。可以mcp对接ai。| | 维护中 |
 
 ## 教程
 

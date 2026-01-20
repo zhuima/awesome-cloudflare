@@ -76,6 +76,8 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) |Set up a temporary email using Cloudflare's free services.|  <https://temp-email.dreamhunter2333.xyz/> | Maintaining |
 | [mail2telegram](https://github.com/TBXark/mail2telegram) |A Telegram Bot based on Cloudflare Email Routing Worker that converts emails to Telegram messages. You can forward emails to the Bot with any recipient prefix, and then create a Bot with an infinite number of temporary email addresses. |  | Maintaining |
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - A minimalist temporary email service built on CloudFlare's pages, worker, and D1 SQL, supporting attachment reception. | <https://mail.mdzz.uk/> | Maintaining |
+| [Alle](https://github.com/bestruirui/Alle) | AI-powered email aggregation client with verification code extraction and link classification. Features temporary email service. Built on Cloudflare Workers + Next.js, serverless deployment with just a domain. | | Maintaining |
+| [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | A clean and minimalist permanent free temporary email service. Protects user privacy, supports i18n internationalization, use and go. Built with NuxtPro template and Cloudflare. | <https://mail.aitre.cc> | Maintaining |
 
 ## Blog
 
@@ -211,6 +213,15 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [subpool-worker](https://github.com/illusionlie/subpool-worker) | Lightweight subscription pool service for managing and distributing proxy subscription links. | | Actively Maintained |
 | [AWS-AccessBridge](https://github.com/Rexezuge-CloudflareWorkers/AWS-AccessBridge) | AWS multi-accounts management and login |  | Actively Maintained |
 | [Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) | An alist-like aggregated storage management service based on Cloudflare Workers | <https://down.ohyraw.qzz.io> | Actively Maintained |
+| [sync-your-cookie](https://github.com/jackluson/sync-your-cookie) | Browser extension for syncing cookies to Cloudflare KV or GitHub Gist. Supports LocalStorage, Auto Merge and Auto Push rules for different sites, protobuf encoded transmission, and management panel. | | Maintaining |
+| [myip](https://github.com/hoa-js/examples/tree/master/myip) | IP information detection website based on Cloudflare Workers. Supports one-click deployment, built on hoajs. | <https://myip.hoa-js.com/> | Maintaining |
+| [2fa](https://github.com/hoa-js/examples/blob/master/2fa/index.js) | 2FA generation website based on Cloudflare Workers. Supports one-click deployment, built on hoajs. | <https://2fa.hoa-js.com/> | Maintaining |
+| [tempnote](https://github.com/hoa-js/examples/blob/master/tempnote/tempnote.js) | Temporary note website based on Cloudflare Workers & KV. Randomly generates note addresses, responsive design, supports custom note addresses, one-click deployment, built on hoajs. | <https://tempnote.hoa-js.com/> | Maintaining |
+| [CloudNav-](https://github.com/sese972010/CloudNav-) | Navigation that can be hosted on Cloudflare, with Chrome plugin for one-click bookmarking to navigation. Lightweight navigation focused on practicality. | | Maintaining |
+| [memos-worker](https://github.com/souvenp/memos-worker) | Note and knowledge base powered by Cloudflare. Full Markdown support, file attachments, public sharing, Telegram integration, powerful organization, knowledge base, highly customizable, extreme performance and low cost, data sovereignty. | | Maintaining |
+| [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | Online audio transcription tool based on Whisper model, deployed on Cloudflare. Converts audio files to text and supports SRT subtitle generation. | | Maintaining |
+| [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini notepad, Cloudflare Worker implementation of [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Maintaining |
+| [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare page publishing mcp tool that can publish HTML pages to Cloudflare Workers. Can connect to AI via MCP. | | Maintaining |
 
 
 ## Tutorials
