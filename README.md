@@ -264,6 +264,7 @@
 | [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | 基于 Whisper 模型的在线音频转写工具，部署在 Cloudflare 上。可以将音频文件转换为文字，并支持生成 SRT 格式的字幕文件。| | 维护中 |
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | 迷你笔记本，对 [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) 的cloudflare worker实现。| | 维护中 |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | cloudflare 页面发布 mcp 工具，可以将 html 页面发布到 cloudflare，worker 上。可以mcp对接ai。| | 维护中 |
+| [ShotOG](https://github.com/nicepkg/shotog) | 基于 Cloudflare Workers + D1 的 OG 图片生成 API，内置 8 个模板，支持自定义标题/副标题/作者等参数，边缘渲染无需 Puppeteer，响应速度 ~50ms。| <https://shotog.2214962083.workers.dev> | 维护中 |
 
 ## 教程
 

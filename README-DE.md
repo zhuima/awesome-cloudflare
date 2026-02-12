@@ -193,6 +193,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | Online-Audio-Transkriptionstool basierend auf Whisper-Modell, auf Cloudflare bereitgestellt. Konvertiert Audiodateien in Text und unterstützt SRT-Untertitelgenerierung. | | Wird gewartet |
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini-Notizblock, Cloudflare-Worker-Implementierung von [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Wird gewartet |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare-Seitenveröffentlichungs-MCP-Tool, das HTML-Seiten auf Cloudflare Workers veröffentlichen kann. Kann über MCP mit KI verbinden. | | Wird gewartet |
+| [ShotOG](https://github.com/nicepkg/shotog) | Edge-native OG-Bildgenerierungs-API auf Workers + D1. 8 integrierte Vorlagen, anpassbare Titel/Untertitel/Autor-Parameter, ~50ms Edge-Rendering ohne Puppeteer. | <https://shotog.2214962083.workers.dev> | Wird gewartet |
 
 
 ## Tutorials
