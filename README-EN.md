@@ -222,6 +222,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | Online audio transcription tool based on Whisper model, deployed on Cloudflare. Converts audio files to text and supports SRT subtitle generation. | | Maintaining |
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini notepad, Cloudflare Worker implementation of [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Maintaining |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare page publishing mcp tool that can publish HTML pages to Cloudflare Workers. Can connect to AI via MCP. | | Maintaining |
+| [ShotOG](https://github.com/nicepkg/shotog) | Open source OG image generation API running on Cloudflare Workers. 8 templates, batch generation, custom fonts, edge rendering ~50ms. | <https://shotog.2214962083.workers.dev> | Maintaining |
 
 
 ## Tutorials
