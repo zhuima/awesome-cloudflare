@@ -88,6 +88,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [microfeed](https://github.com/microfeed/microfeed) |A lightweight Content Management System (CMS) self-hosted on Cloudflare. With microfeed, you can easily publish various content (such as audio, video, photos, documents, blog posts, and external URLs) in Web, RSS, and JSON formats to feeds. Perfect solution for individuals who want to self-host their CMS without running their own server. | <https://www.microfeed.org/> | Maintaining |
 | [emaction.frontend](https://github.com/emaction/emaction.frontend) |GitHub-style Reactions liking feature implemented based on Cloudflare D1, this project is the frontend. | <https://emaction.cool/>| Maintaining |
 | [emaction.backend](https://github.com/emaction/emaction.backend) |GitHub-style Reactions liking feature implemented based on Cloudflare D1, this project is the backend. | <https://emaction.cool/> | Maintaining |
+| [Gins-Blog](https://github.com/IchimaruGin728/Gins-Blog) | A high-performance, Agentic-First blog platform. Built on Cloudflare ecosystem. Supports MCP and Zero-Touch Deployment via OpenClaw. | <https://blog.ichimarugin728.com> | Maintaining |
 
 # Scaffolding
 
