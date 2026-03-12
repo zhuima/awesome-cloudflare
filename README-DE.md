@@ -195,6 +195,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini-Notizblock, Cloudflare-Worker-Implementierung von [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Wird gewartet |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare-Seitenveröffentlichungs-MCP-Tool, das HTML-Seiten auf Cloudflare Workers veröffentlichen kann. Kann über MCP mit KI verbinden. | | Wird gewartet |
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-Source OG-Bildgenerierungs-API auf Cloudflare Workers. 8 Vorlagen, Stapelgenerierung, benutzerdefinierte Schriftarten, Edge-Rendering ~50ms. | <https://shotog.2214962083.workers.dev> | Wird gewartet |
+| [Keep My Claw](https://github.com/Ryce/keepmyclaw) | Verschlüsseltes Cloud-Backup-Tool für KI-Agenten, basierend auf Cloudflare Workers + D1 + R2. Unterstützt automatische geplante Backups, clientseitige AES-256-Verschlüsselung und Wiederherstellung auf jedem Gerät mit einem Befehl. Entwickelt für OpenClaw-Arbeitsbereiche. | <https://keepmyclaw.com> | Wird gewartet |
 
 
 ## Tutorials

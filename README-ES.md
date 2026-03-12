@@ -224,6 +224,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini bloc de notas, implementación de Cloudflare Worker de [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | En mantenimiento |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Herramienta MCP de publicación de páginas Cloudflare que puede publicar páginas HTML en Cloudflare Workers. Puede conectarse a IA a través de MCP. | | En mantenimiento |
 | [ShotOG](https://github.com/nicepkg/shotog) | API de generación de imágenes OG de código abierto que se ejecuta en Cloudflare Workers. 8 plantillas, generación por lotes, fuentes personalizadas, renderizado en el borde ~50ms. | <https://shotog.2214962083.workers.dev> | En mantenimiento |
+| [Keep My Claw](https://github.com/Ryce/keepmyclaw) | Herramienta de respaldo en la nube cifrado para agentes de IA construida sobre Cloudflare Workers + D1 + R2. Soporta copias de seguridad automáticas programadas, cifrado AES-256 del lado del cliente y restauración con un solo comando en cualquier dispositivo. Diseñada para espacios de trabajo OpenClaw. | <https://keepmyclaw.com> | En mantenimiento |
 
 
 ## Tutoriales
