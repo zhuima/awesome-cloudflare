@@ -225,6 +225,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | Mini notepad, Cloudflare Worker implementation of [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad). | | Maintaining |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | Cloudflare page publishing mcp tool that can publish HTML pages to Cloudflare Workers. Can connect to AI via MCP. | | Maintaining |
 | [ShotOG](https://github.com/nicepkg/shotog) | Open source OG image generation API running on Cloudflare Workers. 8 templates, batch generation, custom fonts, edge rendering ~50ms. | <https://shotog.2214962083.workers.dev> | Maintaining |
+| [Keep My Claw](https://github.com/Ryce/keepmyclaw) | Encrypted cloud backup tool for AI agents built on Cloudflare Workers + D1 + R2. Supports automated scheduled backups, client-side AES-256 encryption, one-command restore to any device. Designed for OpenClaw workspaces. | <https://keepmyclaw.com> | Maintaining |
 
 
 ## Tutorials
