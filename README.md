@@ -24,6 +24,7 @@
 
 欢迎提 pr 和 issues 更新。 部署或操作过程中有任何问题可以提issue或者私信咨询～
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=zhuima_awesome-cloudflare) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## 在线版本
 
 [Awesome Cloudflare 在线导航](https://cloudflare.chuhai.tools)
