@@ -244,6 +244,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Slitherlinks](https://slitherlinks.com) | Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, global leaderboards, and a Cloudflare Workers + D1 stack. | <https://slitherlinks.com> | Maintaining |
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | AI-powered study platform that converts PDFs into high-quality Anki flashcards with export-ready decks. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | Maintaining |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Free online conversion toolbox deployed on Cloudflare Pages + Workers. Supports file conversion, unit conversion, PWA, multilingual UI, and API/MCP access. | <https://tools.sagasu.art> | Maintaining |
+| [Dualmark](https://github.com/dodopayments/dualmark) | Open-source AEO (Answer Engine Optimization) infrastructure. The `@dualmark/cloudflare` adapter wraps any upstream Worker and serves clean Markdown twins to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 more known UAs) at the edge via HTTP content negotiation, while humans get HTML — same URL, two formats. Apache 2.0, npm provenance attested. | <https://dualmark.dev> | Maintaining |
 
 
 ## Tutorials
