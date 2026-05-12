@@ -230,6 +230,7 @@
 | [Cloudflare-WeChat-Notifier](https://github.com/krapnikkk/Cloudflare-WeChat-Notifier) | 基于 Cloudflare Workers + Hono + D1 + Queues 的微信通知桥接服务。支持扫码登录、Webhook 入站、异步投递、失败重试和日志追踪，适用于 CI/CD、监控告警等通知场景。 |  | 维护中 |
 | [GetWeb](https://github.com/ZhangShengFan/GetWeb) | 基于 Cloudflare Workers + GitHub Actions + Electron 的网页打包 EXE 工具。在线填写网址即可生成 Windows 桌面应用，支持自定义图标、构建历史和多 Token 负载均衡。 | <https://jishuguai.cc.cd/> | 维护中 |
 | [HackMyIP](https://hackmyip.com/) |基于 Cloudflare Workers 构建的在线隐私与网络工具集，提供 IP 查询、DNS/WebRTC 泄露检测、端口扫描、邮箱泄露检查、密码强度检测、网速测试等 20+ 工具，免费无需注册。 | <https://hackmyip.com/> | 维护中 |
+| [Dualmark](https://github.com/dodopayments/dualmark) | 开源 AEO（Answer Engine Optimization）基础设施。`@dualmark/cloudflare` 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 | <https://dualmark.dev> | 维护中 |
 
 # 文章
 
