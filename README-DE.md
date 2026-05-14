@@ -59,7 +59,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) | Bildverarbeitung mit Cloudflare Worker, abhängig von Photon, unterstützt Skalierung, Zuschneiden, Wasserzeichen, Filter und andere Funktionen. | | Wird gewartet |
 | [tgState](https://github.com/csznet/tgState) | Nutzt Telegram als Speichersystem für externe Dateilinks, keine Beschränkungen für Dateigröße und -format. | <https://tgstate.vercel.app> | Wird gewartet |
 | [roim-picx](https://github.com/roimdev/roim-picx) |Ein kostenloses Bildbett basierend auf CloudFlare Pages und R2. |  |Wird gewartet|
-| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | Ein kostenloser Bildhosting-Dienst basierend auf CloudFlare und Telegraph. Dieses Repository basiert auf <https://github.com/cf-pages/Telegraph-Image> und ist eine Neuauflage der ursprünglichen Front-End-Seite des Projekts. Open-Source, klar, schön, geschmeidige Animationen und vielseitig! | <https://demo-cloudflare-imgbed.pages.dev/> | In Wartung |
+| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | Ein kostenloser Image-Hosting-Dienst basierend auf dem Cloudflare Workers Tech-Stack, mit einem ästhetischen und benutzerfreundlichen modernen Frontend. Er unterstützt verschiedene Bereitstellungsmethoden wie Cloudflare und Docker sowie zahlreiche Speichermedien wie Telegram, Discord, S3, R2, Hugging Face und WebDAV, ohne Einschränkungen bei Dateiformat oder -größe. | <https://cfbed.1314883.xyz/> | In Wartung |
 | [PixR2](https://github.com/WangQueXL/PixR2) | Mehrfacheinstiegs-Bildhost- und Verwaltungsplattform basierend auf Cloudflare Workers + R2 |   | Wird gewartet |
 
 ## E-Mail
