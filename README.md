@@ -76,7 +76,7 @@
 | [tgState](https://github.com/csznet/tgState) |使用Telegram作为存储的外链系统，不限制大小和格式。 | <https://tgstate.vercel.app>  |维护中|
 | [telegraph-Image](https://github.com/x-dr/telegraph-Image) |一个图床。 | <https://img.131213.xyz/> |维护中|
 | [roim-picx](https://github.com/roimdev/roim-picx) |基于CloudFlare Pages和R2实现的免费图床。 |  |维护中|
-| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) |基于CloudFlare和Telegraph的免费图床，本仓库基于<https://github.com/cf-pages/Telegraph-Image> ，是原项目前端页面的重制版。开源、清晰、美观、动画丝滑、玩法多样！ |  <https://demo-cloudflare-imgbed.pages.dev/> |维护中|
+| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 基于Cloudflare Worker技术栈的免费图床，具有美观、易用的现代化前端，支持Cloudflare, Docker等部署方式，支持Telegram, Discord, S3, R2, Huggingface, Webdav等多个存储渠道，不限制文件格式和大小 | <https://cfbed.1314883.xyz/> |维护中|
 | [imgUU](https://github.com/yestool/imgUU) |一个基于Cloudflare D1和R2构建的免费图片上传应用Github登陆管理。 |  <https://imguu.net/> |维护中|
 | [cloudflare-r2-telegram-bot](https://github.com/xinycai/cloudflare-r2-telegram-bot) |基于cloudflare worker与R2存储桶的图床机器人。 |   |维护中|
 | [PixR2](https://github.com/WangQueXL/PixR2) |基于 Cloudflare Workers + R2 的多入口图床与图片管理平台 |   |维护中|
