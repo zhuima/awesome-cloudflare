@@ -63,7 +63,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) |Processes images using Cloudflare Worker, dependent on Photon, supports functions such as scaling, cropping, watermarking, filtering, etc. |  | Maintaining |
 | [tgState](https://github.com/csznet/tgState) |File external link system using Telegram as storage, with no restrictions on file size and format. | <https://tgstate.vercel.app>  | Maintaining |
 | [roim-picx](https://github.com/roimdev/roim-picx) |A free image hosting service based on CloudFlare Pages and R2. |  |Maintaining|
-| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | A free image hosting service based on CloudFlare and Telegraph. This repository is based on <https://github.com/cf-pages/Telegraph-Image> and is a remake of the original project's front-end page. Open-source, clear, beautiful, smooth animations, and versatile! | <https://demo-cloudflare-imgbed.pages.dev/> | Maintaining |
+| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)  | A free image hosting service based on the Cloudflare Workers tech stack, featuring a sleek and intuitive modern frontend. It supports various deployment methods like Cloudflare and Docker, and integrates with multiple storage backends including Telegram, Discord, S3, R2, Hugging Face, and WebDAV, with no restrictions on file formats or sizes. | <https://cfbed.1314883.xyz/> | Maintaining |
 | [PixR2](https://github.com/WangQueXL/PixR2) |Multi-entry image hosting and management platform based on Cloudflare Workers + R2 |   |Maintaining|
 
 ## Email
