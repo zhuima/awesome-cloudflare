@@ -174,6 +174,7 @@
 | [AI-worker](https://github.com/qyjoy/AI-worker) | 通过Cloudflare免费、私有化访问和管理Gemini~摆脱地域限制无烦恼，完全由自己掌控。 |  |维护中|
 | [gemini-balance-do](https://github.com/zaunist/gemini-balance-do) | 基于 Cloudflare Worker 和 Durable Objects 实现的 Gemini API 中转（多key负载均衡），稳定美国 IP 访问 Gemini | https://github.com/zaunist/gemini-balance-do | 维护中 |
 | [LLMKit](https://github.com/smigolsmigol/llmkit) | Open-source AI API gateway built on CF Workers + Durable Objects. Cost tracking, budget enforcement, rate limiting for 11 LLM providers (OpenAI, Anthropic, Gemini, etc). TypeScript SDK, CLI, MCP server. MIT license. | <https://github.com/smigolsmigol/llmkit> | 维护中 |
+| [AnyRouter](https://anyrouter.dev) | 基于 Cloudflare Workers + D1 + KV 构建的通用 AI 模型路由器。一个 OpenAI 兼容的 API 网关，路由到 150+ 模型（28+ 供应商），支持统一计费、BYOK 和自动供应商回退。 | <https://anyrouter.dev> | 维护中 |
 
 
 ## 文件分享
