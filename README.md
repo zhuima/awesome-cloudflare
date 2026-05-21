@@ -334,3 +334,5 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution server running on Cloudflare Workers. EU AI Act compliance without LLMs. / 基于 Cloudflare Workers 的确定性 AI 责任归属服务器，用于欧盟 AI 法案合规。
