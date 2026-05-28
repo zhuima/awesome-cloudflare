@@ -244,6 +244,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Slitherlinks](https://slitherlinks.com) | Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, global leaderboards, and a Cloudflare Workers + D1 stack. | <https://slitherlinks.com> | Maintaining |
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | AI-powered study platform that converts PDFs into high-quality Anki flashcards with export-ready decks. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | Maintaining |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Free online conversion toolbox deployed on Cloudflare Pages + Workers. Supports file conversion, unit conversion, PWA, multilingual UI, and API/MCP access. | <https://tools.sagasu.art> | Maintaining |
+| [Agora Cosmica](https://github.com/chipmates/agoracosmica) | Self-hostable educational platform built on Cloudflare Pages + 4 Workers (LLM proxy, audio proxy, community, stats) + R2. 30 historical figures from philosophy, science, art, mysticism, and activism for stories, dialogues, and multi-figure councils. AGPL-3.0, BYOK LLM, no user tracking. | <https://agoracosmica.org> | Maintaining |
 
 
 ## Tutorials

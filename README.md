@@ -314,6 +314,7 @@
 | [Slitherlinks](https://slitherlinks.com) | 免费在线 Slitherlink 数字回路谜题平台，提供 1900+ 谜题、每日挑战、全球排行榜，技术栈包含 Cloudflare Workers + D1。 | <https://slitherlinks.com> | 维护中 |
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | AI 驱动的学习工具，可将 PDF 学习资料转换为高质量 Anki 闪卡并导出卡组。 | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | 维护中 |
 | [Voidly Messenger](https://github.com/voidly-ai) | 完全基于 Cloudflare 构建的端到端加密消息 PWA（Pages + Workers + D1 + KV）。采用 Signal Protocol（Double Ratchet + X3DH）与 ML-KEM-768 后量子混合加密，全部加密在客户端完成，Workers 无法读取明文。 | <https://msg.voidly.ai> | 维护中 |
+| [Agora Cosmica](https://github.com/chipmates/agoracosmica) | Self-hostable educational platform built on Cloudflare Pages + 4 Workers (LLM proxy, audio proxy, community, stats) + R2. 30 historical figures from philosophy, science, art, mysticism, and activism for stories, dialogues, and multi-figure councils. AGPL-3.0, BYOK LLM, no user tracking. | <https://agoracosmica.org> | 维护中 |
 
 ## 教程
 
