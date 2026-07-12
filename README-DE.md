@@ -92,6 +92,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | Name | Merkmale | Online-Adresse | Status |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App, die mit Lemon Squeezy auf Cloudflare läuft. | <https://nextflare-template.pages.dev/> | Wartung |
+| [Lunora](https://github.com/anolilab/lunora) | Typsicheres Echtzeit-Backend-Framework für Cloudflare Workers + Durable Objects. Definiere ein Schema und schreibe query/mutation/action-Funktionen; Clients erhalten Ende-zu-Ende typisierte Daten mit Live-Subscriptions, optimistischen Updates und einer Offline-Queue. Convex-artige DX, Vite-first, in deinem eigenen Cloudflare-Konto. | <https://lunora.sh> | Wartung |
 
 ## Tunnel
 

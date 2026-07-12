@@ -96,6 +96,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | Nombre | Características | Dirección en línea | Estado |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Aplicación Next.js que se ejecuta con Lemon Squeezy en Cloudflare. | <https://nextflare-template.pages.dev/> | Mantenimiento |
+| [Lunora](https://github.com/anolilab/lunora) | Framework de backend en tiempo real y con tipado seguro para Cloudflare Workers + Durable Objects. Define un esquema y escribe funciones query/mutation/action; los clientes obtienen datos tipados de extremo a extremo con suscripciones en vivo, actualizaciones optimistas y una cola sin conexión. Experiencia de desarrollo estilo Convex, con Vite, en tu propia cuenta de Cloudflare. | <https://lunora.sh> | Mantenimiento |
 
 ## Enlaces cortos
 
