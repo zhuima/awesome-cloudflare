@@ -120,6 +120,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
 | [nextflare](https://github.com/ccbikai/nextflare)                                                                            | Next.js App running with Lemon Squeezy on Cloudflare.                                                                      | <https://nextflare-template.pages.dev/> | 维护中 |
 | [create-microservices-app](https://github.com/microservices-sh/microservices-sh/tree/main/packages/create-microservices-app) | Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. | <https://microservices.sh>              | 维护中 |
+| [Lunora](https://github.com/anolilab/lunora)                                                                                 | 基于 Cloudflare Workers + Durable Objects 的类型安全实时后端框架。定义 schema 并编写 query/mutation/action 函数，客户端即可获得端到端类型安全数据，支持实时订阅、乐观更新与离线队列。Convex 风格开发体验，Vite 优先，部署在你自己的 Cloudflare 账号上。 | <https://lunora.sh>                     | 维护中 |
 
 ## 短链
 
