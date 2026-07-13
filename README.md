@@ -231,6 +231,10 @@
 | [HackMyIP](https://hackmyip.com/) | 基于 Cloudflare Workers 构建的在线隐私与网络工具集，提供 IP 查询、DNS/WebRTC 泄露检测、端口扫描、邮箱泄露检查、密码强度检测、网速测试等 20+ 工具，免费无需注册。 | <https://hackmyip.com/> | 维护中 |
 | [Dualmark](https://github.com/dodopayments/dualmark) | 开源 AEO（Answer Engine Optimization）基础设施。`@dualmark/cloudflare` 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 | <https://dualmark.dev> | 维护中 |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | 基于 Cloudflare Workers + D1 的边缘数据收集后端，用于构建开放、透明的 Shopify iOS 归因差距基准。服务端计算归因差距、人工审核机制、中位数聚合，无需服务器。 | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | 维护中 |
+| [workers-ai-cost-calculator](https://github.com/Richend0913/workers-ai-cost-calculator) | Workers AI 免费额度（每日 10,000 Neurons）预估计算器。输入预计请求数与 token 数即可无需登录一键估算是否超出免费额度，内置 23 个模型的官方价格数据（附数据来源与更新日期）。 | <https://workers-ai-cost-calculator.burningbros.workers.dev> | 维护中 |
+| [cf-error-explainer](https://github.com/Richend0913/cf-error-explainer) | 基于 Cloudflare Workers AI 实时推理的错误代码诊断工具，覆盖 17 种官方错误码（500-504/520-526/1000-1002/1006/1101）。AI 仅依据官方文档事实作答，无匹配时不生成推测内容。 | <https://cf-error-explainer.burningbros.workers.dev> | 维护中 |
+| [cf-storage-advisor](https://github.com/Richend0913/cf-storage-advisor) | 基于 Cloudflare Workers AI 的存储选型顾问。输入自然语言场景描述，从 KV/D1/R2/Durable Objects 中给出有官方文档依据的推荐方案。 | <https://cf-storage-advisor.burningbros.workers.dev> | 维护中 |
+| [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | 基于 Cloudflare Workers AI 的异步架构选型顾问。帮助在 Queues/Workflows(V2)/Durable Objects/Cron Triggers 间做决策，回答基于官方文档实际限制值。 | <https://cf-async-advisor.burningbros.workers.dev> | 维护中 |
 
 ## 文章
 
