@@ -120,6 +120,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
 | [nextflare](https://github.com/ccbikai/nextflare)                                                                            | Next.js App running with Lemon Squeezy on Cloudflare.                                                                      | <https://nextflare-template.pages.dev/> | 维护中 |
 | [create-microservices-app](https://github.com/microservices-sh/microservices-sh/tree/main/packages/create-microservices-app) | Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. | <https://microservices.sh>              | 维护中 |
+| [FlareStarter](https://github.com/FlareStarter/flarestarter)                                                                 | TanStack Start + Cloudflare Workers 的全栈 SaaS 起步模板。Workers + D1 + KV + R2，内置认证(better-auth)、计费(Stripe)、邮件(Resend)、i18n、SEO、运营后台，无 mock、有测试、优雅降级，fork 即用。 | <https://flarestarter.com>              | 维护中 |
 
 ## 短链
 
