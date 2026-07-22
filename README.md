@@ -94,6 +94,7 @@
 | [cloud-mail](https://github.com/LaziestRen/cloud-mail)                            | 用Vue3开发的响应式简约邮箱服务，支持邮件发送附件收发，可以部署到Cloudflare云平台。                                                                                                                                                                                                 | <https://skymail.ink>   | 维护中 |
 | [Alle](https://github.com/bestruirui/Alle)                                        | AI识别的邮件聚合客户端，支持验证码提取、链接分类、临时邮箱服务。基于Cloudflare Workers + Next.js构建，无需服务器，仅需一个域名即可部署。                                                                                                                                           |                         | 维护中 |
 | [FreeTempMail](https://github.com/PennyJoly/FreeTempMail)                         | 清爽简约风的永久免费临时邮件服务。保护用户隐私数据，支持i18n国际化，即用即走。基于NuxtPro模板和CF开发。                                                                                                                                                                            | <https://mail.aitre.cc> | 维护中 |
+| [Flowmails](https://github.com/wms-why/flowmails-cf)                              | 开源自托管邮件 API，基于 Cloudflare Workers + D1 + R2 部署。邮件路由、收件箱与发件箱全部跑在你自己的 Cloudflare 账号里，无需 SMTP、无第三方锁定；支持自定义域名、REST + Webhook 自动化，AI 草稿与回复规划中（Q3 2026）。                                                                                                                                          | <https://flowmails.net>   | 维护中 |
 
 
 ## 博客
