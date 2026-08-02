@@ -92,6 +92,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | Name | Merkmale | Online-Adresse | Status |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App, die mit Lemon Squeezy auf Cloudflare läuft. | <https://nextflare-template.pages.dev/> | Wartung |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare-Workers-Backend für das Kommentarsystem Waline, Daten liegen in D1, ohne eigenen Server. Kompatibel mit dem @waline/client-Frontend und dem @waline/admin-Panel, mit Social Login, 2FA, Spam-Filterung über Akismet und LLM, RSS sowie Datenimport und -export. |  | Wird gewartet |
 
 ## Tunnel
 

@@ -111,6 +111,7 @@
 | [Gins-Blog](https://github.com/IchimaruGin728/Gins-Blog)                           | 一个高性能、Agentic-First 的博客平台。完全基于 Cloudflare 生态 (Workers, Pages, D1, KV, R2, Vectorize)。内置 MCP 协议，支持通过 OpenClaw 零人工自动部署。                                                                                                                        | <https://blog.ichimarugin728.com>          | 维护中         |
 | [讀角獸](https://ducorn.com)                                                       | 使用 Cloudflare Pages + Workers + D1 + KV + R2 全家桶構建的繁體中文深度分析出版物。Astro 4 hybrid SSR，零外部服務依賴。                                                                                                                                                          | <https://ducorn.com/>                      | 维护中         |
 | [One Stroke Fan](https://github.com/lson-lee/one-stroke)                           | 基于 Astro 构建并部署在 Cloudflare Pages 的多语言粉丝站。支持 9 种语言、100+ 页面、sitemap / hreflang / JSON-LD / llms.txt，纯静态零成本运行。                                                                                                                                   | <https://one-stroke.savetimefor.fun>       | 维护中         |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Waline 评论系统的 Cloudflare Workers 服务端实现，数据存 D1，无需独立服务器。兼容 @waline/client 前端与 @waline/admin 管理面板，支持社交登录、两步验证、Akismet 与 LLM 两档反垃圾、RSS 与数据导入导出。 |  | 维护中 |
 
 
 
