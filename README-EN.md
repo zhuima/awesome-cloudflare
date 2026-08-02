@@ -96,6 +96,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | Name | Features | Online Address | Status |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App running with Lemon Squeezy on Cloudflare. | <https://nextflare-template.pages.dev/> | Maintenance |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare Workers backend for the Waline comment system, storing data in D1 with no separate server. Compatible with the @waline/client frontend and the @waline/admin panel, with social login, 2FA, Akismet and LLM spam filtering, RSS and data import/export. |  | Maintaining |
 
 ## Short Links
 
@@ -249,6 +250,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Free online conversion toolbox deployed on Cloudflare Pages + Workers. Supports file conversion, unit conversion, PWA, multilingual UI, and API/MCP access. | <https://tools.sagasu.art> | Maintaining |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Open-source AEO (Answer Engine Optimization) infrastructure. The `@dualmark/cloudflare` adapter wraps any upstream Worker and serves clean Markdown twins to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 more known UAs) at the edge via HTTP content negotiation, while humans get HTML — same URL, two formats. Apache 2.0, npm provenance attested. | <https://dualmark.dev> | Maintaining |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | Edge data-collection backend on Cloudflare Workers + D1 for an open Shopify iOS attribution-gap benchmark. Server-side gap computation, manual review gate, median aggregation, no server needed. | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | Maintaining |
+| [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Subsonic-compatible music streaming server running entirely on Cloudflare Workers, with no always-on host. Metadata lives in D1 and audio in R2, with WebDAV / S3 also supported as storage backends; works with native clients such as DSub and Symfonium, and ships a web UI for tag editing and library management. | <https://edgesonic-demo.wuyilingwei.workers.dev> | Maintaining |
 
 
 ## Tutorials

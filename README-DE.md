@@ -92,6 +92,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | Name | Merkmale | Online-Adresse | Status |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App, die mit Lemon Squeezy auf Cloudflare läuft. | <https://nextflare-template.pages.dev/> | Wartung |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare-Workers-Backend für das Kommentarsystem Waline, Daten liegen in D1, ohne eigenen Server. Kompatibel mit dem @waline/client-Frontend und dem @waline/admin-Panel, mit Social Login, 2FA, Spam-Filterung über Akismet und LLM, RSS sowie Datenimport und -export. |  | Wird gewartet |
 
 ## Tunnel
 
@@ -214,6 +215,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | KI-gestützte Lernplattform, die PDFs in hochwertige Anki-Karteikarten mit exportierbaren Decks umwandelt. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | Wird gewartet |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Kostenloser Online-Konvertierungsbaukasten auf Cloudflare Pages + Workers. Unterstützt Dateikonvertierung, Einheitenumrechnung, PWA, mehrsprachige Oberfläche und API/MCP-Zugriff. | <https://tools.sagasu.art> | Wird gewartet |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Open-Source-AEO-Infrastruktur (Answer Engine Optimization). Der `@dualmark/cloudflare`-Adapter umschließt jeden Upstream-Worker und liefert KI-Crawlern (GPTBot, ClaudeBot, PerplexityBot, +16 bekannte UAs) am Edge via HTTP-Content-Negotiation sauberes Markdown, Menschen erhalten HTML — gleiche URL, zwei Formate. Apache 2.0, mit npm provenance signiert. | <https://dualmark.dev> | Wird gewartet |
+| [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Subsonic-kompatibler Musik-Streaming-Server, der vollständig auf Cloudflare Workers läuft, ohne dauerhaft laufenden Host. Metadaten liegen in D1 und Audio in R2, WebDAV / S3 werden ebenfalls als Speicher-Backends unterstützt; funktioniert mit nativen Clients wie DSub und Symfonium und bringt eine Weboberfläche zum Bearbeiten von Tags und Verwalten der Bibliothek mit. | <https://edgesonic-demo.wuyilingwei.workers.dev> | Wird gewartet |
 
 
 ## Tutorials
