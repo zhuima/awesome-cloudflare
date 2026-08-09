@@ -129,6 +129,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- |--- |
 | [Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) |Cloudflared-web is a Docker image that bundles the Cloudflared CLI and a simple web UI for easily starting/stopping Cloudflare tunnels. |  | Maintaining |
 | [cfzt](https://github.com/casablanque-code/cfzt) | CLI tool that wraps Cloudflare Tunnel, DNS, and Access into single commands for streamlined Zero Trust deployments. Written in Go. | | Maintaining |
+| [cfex-cli](https://github.com/muthuishere/cfex-cli) | CLI to expose local services to the internet via Cloudflare Tunnels on your own domain, in one command — no port forwarding, no static IP. | | Maintaining |
 
 ## Acceleration
 

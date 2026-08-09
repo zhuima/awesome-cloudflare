@@ -157,6 +157,7 @@
 | 名称                                                            | 特性                                                                                                              | 在线地址 | 状态   |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------ |
 | [Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) | Cloudflared-web 是一个 docker 镜像，它打包了 cloudflared cli 和简单的 Web UI，以便轻松启动/停止 cloudflare 隧道。 |          | 维护中 |
+| [cfex-cli](https://github.com/muthuishere/cfex-cli)             | 命令行工具，通过 Cloudflare Tunnel 将本地服务用自己的域名暴露到公网，无需端口转发或静态 IP，一条命令即可创建 HTTPS 端点。                                        |          | 维护中 |
 
 ## 加速
 
