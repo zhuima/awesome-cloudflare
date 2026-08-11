@@ -244,6 +244,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | Plataforma de estudio con IA que convierte PDFs en tarjetas Anki de alta calidad con mazos listos para exportar. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | En mantenimiento |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Caja de herramientas gratuita de conversión en línea desplegada en Cloudflare Pages + Workers. Soporta conversión de archivos, unidades, PWA, interfaz multilingüe y acceso API/MCP. | <https://tools.sagasu.art> | En mantenimiento |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Infraestructura AEO (Answer Engine Optimization) de código abierto. El adaptador `@dualmark/cloudflare` envuelve cualquier Worker y sirve copias en Markdown a rastreadores de IA (GPTBot, ClaudeBot, PerplexityBot, +16 UAs conocidas) mediante negociación de contenido HTTP en el edge, mientras los humanos reciben HTML — misma URL, dos formatos. Apache 2.0, atestado con npm provenance. | <https://dualmark.dev> | En mantenimiento |
+| [EdgeEver](https://github.com/tianma-if/edgeever) | Alternativa open-source serverless a Evernote sobre Cloudflare Workers + D1 + R2. Sin servidor, autoalojable en el plan gratuito, diseño clásico de tres paneles, MCP/agentes de IA, sincronización multi-dispositivo, Web Clipper y clientes nativos. | <https://demo.edgeever.org> | En mantenimiento |
 
 
 ## Tutoriales
