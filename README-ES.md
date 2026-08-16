@@ -266,4 +266,4 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 
 ## Historial de Estrellas
 
-[![Gráfico del Historial de Estrellas](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+[![Gráfico del Historial de Estrellas](https://star-history.dera.page/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.dera.page/#zhuima/awesome-cloudflare&type=Timeline)

@@ -236,4 +236,4 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 
 ## Sternenhistorie
 
-[![Sternverlauf Diagramm](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+[![Sternverlauf Diagramm](https://star-history.dera.page/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.dera.page/#zhuima/awesome-cloudflare&type=Timeline)

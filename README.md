@@ -336,4 +336,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.dera.page/#zhuima/awesome-cloudflare&type=Timeline)
