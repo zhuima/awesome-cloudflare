@@ -214,6 +214,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | KI-gestützte Lernplattform, die PDFs in hochwertige Anki-Karteikarten mit exportierbaren Decks umwandelt. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | Wird gewartet |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Kostenloser Online-Konvertierungsbaukasten auf Cloudflare Pages + Workers. Unterstützt Dateikonvertierung, Einheitenumrechnung, PWA, mehrsprachige Oberfläche und API/MCP-Zugriff. | <https://tools.sagasu.art> | Wird gewartet |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Open-Source-AEO-Infrastruktur (Answer Engine Optimization). Der `@dualmark/cloudflare`-Adapter umschließt jeden Upstream-Worker und liefert KI-Crawlern (GPTBot, ClaudeBot, PerplexityBot, +16 bekannte UAs) am Edge via HTTP-Content-Negotiation sauberes Markdown, Menschen erhalten HTML — gleiche URL, zwei Formate. Apache 2.0, mit npm provenance signiert. | <https://dualmark.dev> | Wird gewartet |
+| [mdgate/converters](https://github.com/mdgate/converters) | Reine TypeScript-Konverter fuer DOCX, PDF, Office, iWork, HWP, E-Mail und 150+ Dateitypen. Laeuft in Cloudflare Workers, Node und Browsern. Kein Python, kein WASM, keine nativen Addons. | <https://convert.mdgate.dev> | Wird gewartet |
 
 
 ## Tutorials
