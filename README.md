@@ -325,6 +325,7 @@
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart)                                                         | 一个快速入门指南,帮助您开始使用 Cloudflare Workers                                    |          | 更新中 |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare)                                                                                    | 一系列关于如何使用 Cloudflare Zero Trust 创建大内网以及解决被墙服务器问题的技术博客。 |          | 更新中 |
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱。                            |          | 更新中 |
+| [Cloudflare Pages SEO 发布检查](https://yicekit.com/entries/cloudflare-pages/)                                                     | 用六个本站实际 HTTP 响应核对 200、301、404、canonical、robots.txt 和 sitemap.xml，附只读 curl 命令与 JSON 记录。 | [检查清单](https://yicekit.com/assets/checklists/cloudflare-pages-seo.txt) | 更新中 |
 
 
 
