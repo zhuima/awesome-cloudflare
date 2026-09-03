@@ -237,3 +237,4 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 ## Sternenhistorie
 
 [![Sternverlauf Diagramm](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+- [Plinth](https://plinthrun.com) - Open-core Forms, Catch, and Schema on Cloudflare Workers + D1.
