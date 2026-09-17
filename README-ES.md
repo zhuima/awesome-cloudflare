@@ -167,7 +167,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitorea tu sitio web, muestra el estado (incluido el historial diario) y recibe notificaciones de Slack cuando cambia el estado del sitio web. Utiliza Cloudflare Workers, disparadores CRON y almacenamiento KV. | <https://status-page.eidam.dev/> | En mantenimiento |
 | [xugou](https://github.com/zaunist/xugou)| Una herramienta de monitoreo de sitios web y servidores basada en CloudFlare. | https://xugou.mdzz.uk/ |  En mantenimiento |
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Rastreador universal de despliegues para asistentes de IA con insignias de estado en vivo y monitoreo de despliegues, incluyendo soporte para Cloudflare Pages. | https://deploy-mcp.io | Activo |
-| [oddin-status](https://github.com/oddinpay/oddin-status) | Preciosa página de estado y monitor de tiempo de actividad. Lista para producción nada más instalarla. | <https://status.oddinpay.com/> | Activo |
+| [ohstatus](https://github.com/oddinpay/ohstatus) | Preciosa página de estado y monitor de tiempo de actividad. Lista para producción nada más instalarla. | <https://status.oddinpay.com/> | Activo |
 
 
 ## Artículos
