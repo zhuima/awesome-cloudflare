@@ -220,6 +220,7 @@
 | [oddin-status](https://github.com/oddinpay/oddin-status)                        | 精美的状态页与在线率监控系统。生产级环境就绪，开箱即用。                                                                                                                                                                           | <https://status.oddinpay.com/>                             | 运行正常 |
 | [AIWatch](https://github.com/bentleypark/aiwatch)                               | 30 个 AI 服务（Claude、OpenAI、Gemini、Mistral、Groq、ElevenLabs 等）的实时状态监控仪表板。基于 Cloudflare Workers + KV + Workers AI（Gemma 4 26B 用于事件分析）构建，提供 Discord/Slack 告警、AI 驱动的事件分析和综合可靠性评分。 | <https://ai-watch.dev/>                                    | 维护中   |
 | [Prismix](https://prismix.dev)                                                  | AI monitoring for 76 services (OpenAI, Anthropic, Cursor...) on Cloudflare Workers+KV. Email/webhook alerts, 30-day uptime, status badges, news aggregation, MCP directory.                                                        | <https://prismix.dev>                                      | Active   |
+| [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector)     | 只读采集账号用量的 Worker：每 6 小时经 GraphQL Analytics API 把 Workers、D1、Durable Objects、KV、R2、Queues 的按日用量写进你的 D1，某项达到 7 天中位数 10 倍时告警，可选 Discord/Slack webhook。Token 只需 Account Analytics: Read。 | —                                                          | 维护中   |
 
 ## 开发者工具
 
