@@ -172,6 +172,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universal deployment tracker for AI assistants with live status badges and deployment monitoring, including Cloudflare Pages support. | https://deploy-mcp.io | Active |
 | [oddin-status](https://github.com/oddinpay/oddin-status) | Beautiful status page & uptime monitor. Ready for production out of the box. | <https://status.oddinpay.com/> | Active |
 | [Prismix](https://prismix.dev) | Real-time status aggregator for 76 AI services (OpenAI, Anthropic, Cursor, and more), built entirely on Cloudflare Workers + KV. Features email/webhook alerts, 30-day uptime history, status badges, AI news aggregation, and MCP server directory. | <https://prismix.dev> | Active |
+| [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) | Read-only usage collector for your own Cloudflare account. Every 6 hours a Worker pulls daily Workers, D1, Durable Objects, KV, R2 and Queues usage from the GraphQL Analytics API into a D1 table in your account, and flags any metric that reaches 10× its 7-day median and a per-metric floor. Optional Discord/Slack webhook and a plain HTML page for the last 7 days. The token needs Account Analytics: Read and nothing else. | — | Maintained |
 
 
 ## Articles
