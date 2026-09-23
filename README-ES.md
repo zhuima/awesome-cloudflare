@@ -78,6 +78,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - Un servicio de correo electrónico temporal minimalista construido con pages, worker y D1 SQL de CloudFlare, con soporte para recepción de archivos adjuntos. | <https://mail.mdzz.uk/> | En mantenimiento |
 | [Alle](https://github.com/bestruirui/Alle) | Cliente de agregación de correo electrónico con IA que incluye extracción de códigos de verificación y clasificación de enlaces. Ofrece servicio de correo temporal. Construido sobre Cloudflare Workers + Next.js, despliegue sin servidor con solo un dominio. | | En mantenimiento |
 | [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | Un servicio de correo temporal gratuito permanente de estilo limpio y minimalista. Protege la privacidad del usuario, soporta internacionalización i18n, listo para usar. Desarrollado con plantilla NuxtPro y Cloudflare. | <https://mail.aitre.cc> | En mantenimiento |
+| [Ownlist](https://github.com/pfstr/ownlist) | Newsletter serverless en tu propia cuenta de Cloudflare: formulario de suscripción e incrustable, baja con un clic, envíos en cola, RSS a correo; los suscriptores quedan en tu propia D1 y el envío usa cualquier API de correo. |
 
 ## Blog
 
