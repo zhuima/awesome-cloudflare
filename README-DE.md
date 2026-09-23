@@ -74,6 +74,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - Ein minimalistischer temporärer E-Mail-Dienst, der auf CloudFlare-Seiten, Worker und D1 SQL basiert und den Empfang von Anhängen unterstützt. | <https://mail.mdzz.uk/> | Wird gewartet |
 | [Alle](https://github.com/bestruirui/Alle) | KI-gesteuerter E-Mail-Aggregations-Client mit Verifizierungscode-Extraktion und Link-Klassifizierung. Bietet temporären E-Mail-Dienst. Basierend auf Cloudflare Workers + Next.js, serverlose Bereitstellung mit nur einer Domain. | | Wird gewartet |
 | [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | Ein sauberer und minimalistischer permanenter kostenloser temporärer E-Mail-Dienst. Schützt Benutzerdaten, unterstützt i18n-Internationalisierung, sofort einsatzbereit. Mit NuxtPro-Template und Cloudflare entwickelt. | <https://mail.aitre.cc> | Wird gewartet |
+| [Ownlist](https://github.com/pfstr/ownlist) | Serverloser Newsletter im eigenen Cloudflare-Konto: Anmelde- und Einbettformular, Abmeldung per Klick, Versand über eine Warteschlange, RSS-zu-E-Mail; die Abonnenten liegen in der eigenen D1-Datenbank, Versand über eine beliebige E-Mail-API. |
 
 ## Blog
 
