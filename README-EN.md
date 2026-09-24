@@ -190,6 +190,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Sending Messages to Telegram via Cloudflare Page Functions](https://liujiacai.net/blog/2024/05/07/telegram-bot-functions/) | This article introduces how to utilize page functions as GitHub webhook addresses to forward specific events to Telegram channels. | | Active |
 | [Using Cloudflare Workers to create AI blog summaries](https://mabbs.github.io/2024/07/03/ai-summary.html) | Introduce the implementation of blog AI summarization using Cloudflare Workers + Workers AI + D1 database.| | Active |
 | [Build an RSS Subscription Push System with Cloudflare Worker, Hono, and Telegram Bot API](https://calpa.me/blog/build-rss-subscription-push-system-with-cloudflare-worker-hono-telegram-bot-api/) | A detailed guide on using Cloudflare Worker, Hono framework, and Telegram Bot API to build a serverless system that monitors RSS feeds and pushes updates to Telegram channels. Fully serverless, suitable for individual developers and small teams, supports scheduled tasks and duplicate message prevention. | |Active|
+| [D1 over Postgres for an all-Cloudflare build](https://aiarch.dev/architecture-d1-over-postgres) | Why a production learning platform chose D1 over a managed Postgres — what the decision turned on, the `src/lib/` boundary that keeps the swap a one-file fix, and the single condition that would reverse it. Written from a running Workers + D1 deployment, not from the docs. | <https://aiarch.dev> | Active |
 
 ## Others
 
