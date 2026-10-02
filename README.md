@@ -231,6 +231,7 @@
 | [HackMyIP](https://hackmyip.com/) | 基于 Cloudflare Workers 构建的在线隐私与网络工具集，提供 IP 查询、DNS/WebRTC 泄露检测、端口扫描、邮箱泄露检查、密码强度检测、网速测试等 20+ 工具，免费无需注册。 | <https://hackmyip.com/> | 维护中 |
 | [Dualmark](https://github.com/dodopayments/dualmark) | 开源 AEO（Answer Engine Optimization）基础设施。`@dualmark/cloudflare` 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 | <https://dualmark.dev> | 维护中 |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | 基于 Cloudflare Workers + D1 的边缘数据收集后端，用于构建开放、透明的 Shopify iOS 归因差距基准。服务端计算归因差距、人工审核机制、中位数聚合，无需服务器。 | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | 维护中 |
+| [Capture Signoff](https://github.com/lidaban2025/release-screenshot-proof) | 基于 Cloudflare Workers + Browser Rendering 的 URL 交付证据工具：桌面+移动截图、带内容哈希 manifest 的 PDF 交付回执、免登录的逐页客户确认；变更感知重审——页面变更后仅变更页需重新确认，未变更页自动沿用。D1 哈希链审计事件 + R2 7 天 TTL + Queues 串行抓取，免费公测。 | <https://capturesignoff.com/?utm_source=github&utm_medium=awesome-cloudflare> | 维护中 |
 
 ## 文章
 
