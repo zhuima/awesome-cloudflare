@@ -214,6 +214,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | KI-gestützte Lernplattform, die PDFs in hochwertige Anki-Karteikarten mit exportierbaren Decks umwandelt. | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | Wird gewartet |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Kostenloser Online-Konvertierungsbaukasten auf Cloudflare Pages + Workers. Unterstützt Dateikonvertierung, Einheitenumrechnung, PWA, mehrsprachige Oberfläche und API/MCP-Zugriff. | <https://tools.sagasu.art> | Wird gewartet |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Open-Source-AEO-Infrastruktur (Answer Engine Optimization). Der `@dualmark/cloudflare`-Adapter umschließt jeden Upstream-Worker und liefert KI-Crawlern (GPTBot, ClaudeBot, PerplexityBot, +16 bekannte UAs) am Edge via HTTP-Content-Negotiation sauberes Markdown, Menschen erhalten HTML — gleiche URL, zwei Formate. Apache 2.0, mit npm provenance signiert. | <https://dualmark.dev> | Wird gewartet |
+| [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | White-Label-Link-in-Bio-Seiten: eine JSON-Datei pro Person, vorgerendert als statische Seiten auf GitHub Pages, mit einer Admin-API, die standardmäßig auf Cloudflare Workers (Free-Plan) läuft. MIT-lizenziert, ohne kostenpflichtigen Tarif. | <https://openbio.page/> | Wird gewartet |
 
 
 ## Tutorials
