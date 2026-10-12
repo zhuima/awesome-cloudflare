@@ -231,6 +231,7 @@
 | [HackMyIP](https://hackmyip.com/) | 基于 Cloudflare Workers 构建的在线隐私与网络工具集，提供 IP 查询、DNS/WebRTC 泄露检测、端口扫描、邮箱泄露检查、密码强度检测、网速测试等 20+ 工具，免费无需注册。 | <https://hackmyip.com/> | 维护中 |
 | [Dualmark](https://github.com/dodopayments/dualmark) | 开源 AEO（Answer Engine Optimization）基础设施。`@dualmark/cloudflare` 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 | <https://dualmark.dev> | 维护中 |
 | [shopify-attribution-gap-backend](https://github.com/lsb11/shopify-attribution-gap-backend) | 基于 Cloudflare Workers + D1 的边缘数据收集后端，用于构建开放、透明的 Shopify iOS 归因差距基准。服务端计算归因差距、人工审核机制、中位数聚合，无需服务器。 | <https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/> | 维护中 |
+| [OpenConnector](https://github.com/oomol-lab/open-connector) | 可部署到 Cloudflare Workers 的开源 Agent 连接网关，使用 D1 存储连接、授权状态和运行日志，R2 或 KV 暂存文件，通过 MCP、HTTP 和 OpenAPI 提供 SaaS 动作发现与执行。 | | 维护中 |
 
 ## 文章
 
