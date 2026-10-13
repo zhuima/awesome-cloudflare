@@ -189,6 +189,7 @@
 | [R2Drop](https://github.com/superhumancorp/r2drop)                                                      | Native macOS menu bar app for uploading files to Cloudflare R2. Built with Swift + Rust, supports drag-and-drop, automatic URL copying, and multiple bucket management.                                                                                                                              | <https://r2drop.com>             | 维护中       |
 | [K-Vault](https://github.com/katelya77/K-Vault)                                                         | 基于 Cloudflare 的 Serverless 聚合云盘。以 Telegram 为核心，兼容 R2、S3、Discord、HuggingFace 等多存储后端，支持 Webhook 直传、2GB 扩展、内容审核和自定义域名。                                                                                                                                      |                                  | 维护中       |
 | [ZeroLink](https://github.com/yclgkd/ZeroLink)                                                          | 零知识安全传递工具，无账号、端到端加密、服务器无法解密；支持 Password / Passkey 双模式，适合安全传递密码、API Token、恢复码、私密消息和敏感文件。基于 Cloudflare Workers + Durable Objects + R2 构建。                                                                                               | <https://zerolink.dev>           | 维护中       |
+| [cv.cm](https://github.com/mantoufan/cvcm) | 跑在 Cloudflare Workers + D1 上的云剪切板，粘贴文字、图片、视频或文件后生成超短链接，支持 Markdown / HTML 渲染和代码高亮，查看 10 次或 24 小时后自动删除，无需注册。同站还有图片转换、图片转 PDF、水印、音频剪辑等工具，都在浏览器本地处理，文件不上传。MIT 开源。 | <https://cv.cm/zh-cn/clip/> | 维护中 |
 
 
 
