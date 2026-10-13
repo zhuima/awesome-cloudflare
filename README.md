@@ -111,6 +111,7 @@
 | [Gins-Blog](https://github.com/IchimaruGin728/Gins-Blog)                           | 一个高性能、Agentic-First 的博客平台。完全基于 Cloudflare 生态 (Workers, Pages, D1, KV, R2, Vectorize)。内置 MCP 协议，支持通过 OpenClaw 零人工自动部署。                                                                                                                        | <https://blog.ichimarugin728.com>          | 维护中         |
 | [讀角獸](https://ducorn.com)                                                       | 使用 Cloudflare Pages + Workers + D1 + KV + R2 全家桶構建的繁體中文深度分析出版物。Astro 4 hybrid SSR，零外部服務依賴。                                                                                                                                                          | <https://ducorn.com/>                      | 维护中         |
 | [One Stroke Fan](https://github.com/lson-lee/one-stroke)                           | 基于 Astro 构建并部署在 Cloudflare Pages 的多语言粉丝站。支持 9 种语言、100+ 页面、sitemap / hreflang / JSON-LD / llms.txt，纯静态零成本运行。                                                                                                                                   | <https://one-stroke.savetimefor.fun>       | 维护中         |
+| [华夏音画 (China Culture Media)](https://history.walkingchina.com)                   | 基于 Next.js 15 SSG + Cloudflare Pages 边缘托管的华夏先贤有声时空漫步画卷。纯静态预渲染 160+ 页面，结合 Leaflet 东方水墨地图交互与双语学者原声解说，零服务器成本。                                                                                                                | <https://history.walkingchina.com>         | 维护中         |
 
 
 
