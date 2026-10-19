@@ -198,6 +198,7 @@
 | 项目                                                                        | 简介                                                                              | 在线地址                      | 状态   |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------- | ------ |
 | [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) | 21个S3兼容对象存储提供商的全面比较，包括Cloudflare R2。涵盖定价、陷阱和迁移成本。 | <https://storage.mixpeek.com> | 维护中 |
+| [Waifu Deck](https://github.com/fancydirty/waifu-deck)                      | 开源 Android 二次元插画聚合与收藏应用（Expo + React Native），支持仅凭单个 Cloudflare API Token 自动识别账号并创建/绑定 R2 存储桶，提供客户端 scrypt + AES-256-GCM 端到端加密多设备同步与 Cloud-only 按需流式看图。 | <https://waifudeck.app>       | 维护中 |
 
 ## 测速
 

@@ -42,6 +42,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
   - [Tunnel](#tunnel)
   - [Acceleration](#acceleration)
   - [File Sharing](#file-sharing)
+  - [Object Storage](#object-storage)
   - [Speed Test](#speed-test)
   - [Monitoring](#monitoring)
   - [Articles](#articles)
@@ -153,6 +154,13 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [dingding](https://github.com/iiop123/dingding) |A file transfer tool based on Cloudflare Workers, storing files in Cloudflare KV. |  | Seems unmaintained |
 | [K-Vault](https://github.com/katelya77/K-Vault) | Serverless cloud vault built around Telegram and Cloudflare. Supports R2, S3, Discord, HuggingFace, webhook uploads, content moderation, custom domains, and larger file extensions. |  | Maintaining |
 | [ZeroLink](https://github.com/yclgkd/ZeroLink) | Zero-knowledge secure sharing tool. No account needed, end-to-end encrypted, server cannot decrypt. Supports Password / Passkey dual modes for securely sharing passwords, API tokens, recovery codes, private messages, and sensitive files. Built on Cloudflare Workers + Durable Objects + R2. | <https://zerolink.dev> | Maintaining |
+
+## Object Storage
+
+| Name | Features | Online Address | Status |
+| --- | --- | --- | --- |
+| [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) | Comprehensive comparison of 21 S3-compatible object storage providers, including Cloudflare R2. Covers pricing, gotchas, and migration costs. | <https://storage.mixpeek.com> | Maintaining |
+| [Waifu Deck](https://github.com/fancydirty/waifu-deck) | Open-source Android anime art collection app (Expo + React Native) that auto-detects your Cloudflare account and provisions an R2 bucket from a single API token, with client-side scrypt + AES-256-GCM encrypted multi-device sync and Cloud-only on-demand streaming. | <https://waifudeck.app> | Maintaining |
 
 ## Speed Test
 
