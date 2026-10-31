@@ -172,6 +172,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universal deployment tracker for AI assistants with live status badges and deployment monitoring, including Cloudflare Pages support. | https://deploy-mcp.io | Active |
 | [oddin-status](https://github.com/oddinpay/oddin-status) | Beautiful status page & uptime monitor. Ready for production out of the box. | <https://status.oddinpay.com/> | Active |
 | [Prismix](https://prismix.dev) | Real-time status aggregator for 76 AI services (OpenAI, Anthropic, Cursor, and more), built entirely on Cloudflare Workers + KV. Features email/webhook alerts, 30-day uptime history, status badges, AI news aggregation, and MCP server directory. | <https://prismix.dev> | Active |
+| [Extension Watch](https://github.com/theluckystrike/extension-watch) | Chrome extension permission monitoring. Paste your team's extension IDs; it reads each manifest from Google's update service, grades access A to F with a published rule set, re-checks daily and alerts Slack, Discord or Google Chat when an update asks for more access. Built on Cloudflare Workers + KV + Cron Triggers, MIT. | <https://extension-watch.lipmichal.workers.dev/> | Active |
 
 
 ## Articles
