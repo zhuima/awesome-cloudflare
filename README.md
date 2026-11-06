@@ -274,6 +274,7 @@
 | [NHTSA Edge API](https://github.com/AIKitLLC/nhtsa-edge-api) | 基于 Cloudflare Workers 的离线 VIN 解码服务，数据来自美国 NHTSA vPIC，并与官方 SQL 结果对照校验，接口兼容 vPIC。 | <https://data.ai-kit.net> | 维护中 |
 | [FlarePanel](https://github.com/HenryYannis/FlarePanel) | 多站点 Cloudflare 管理后台，纯 Pages 部署，无需服务器和构建。用自己的 API Token 登录，集中管理多个网站的评论（D1）、浏览量、会员账号和 R2 文件（支持大文件分片上传），可选 AI 网关配置；仓库附带配套的评论、账号和 AI 网关 Worker。支持简繁英三语和夜间模式，MIT 协议。 | | 维护中 |
 | [AnyHook](https://anyhook.net) | 入站 Webhook 中继。把 Stripe、GitHub、Shopify 这类 webhook 地址改指向它，事件先存下来再投递到你的服务器，失败按退避重试，每次请求的 headers 和 body 都留着可以回头翻。边缘入口跑在 Cloudflare Workers 上，免费额度 3000 事件/月。 | <https://anyhook.net> | 维护中 |
+| [Capture Signoff](https://github.com/lidaban2025/release-screenshot-proof) | 基于 Cloudflare Workers + Browser Rendering 的 URL 交付证据工具：桌面+移动截图、带内容哈希 manifest 的 PDF 交付回执、免登录的逐页客户确认；变更感知重审——页面变更后仅变更页需重新确认，未变更页自动沿用。D1 哈希链审计事件 + R2 7 天 TTL + Queues 串行抓取，免费公测。 | <https://capturesignoff.com/?utm_source=github&utm_medium=awesome-cloudflare> | 维护中 |
 
 ## 文章
 
