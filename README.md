@@ -251,6 +251,7 @@
 | [baerly-storage](https://github.com/Gusto/baerly-storage) | 无服务器文档数据库，数据库引擎在每个请求处理程序中运行到完成，状态存储在你自己的 S3/R2 存储桶中，无需数据库服务器或常驻进程。写入通过对存储桶中下一个编号日志对象的条件式（If-None-Match）创建来提交。支持 Cloudflare Workers 与 Node，Apache 2.0 开源。 | | 维护中 |
 | [mdgate/converters](https://github.com/mdgate/converters) | 纯 TypeScript 文档转 Markdown 库，可在 Cloudflare Workers、Node、浏览器里转换 DOCX、PDF、Office、iWork、HWP、email 等 150+ 文件类型。无 Python、无 WASM、无原生插件。 | <https://convert.mdgate.dev> | 维护中 |
 | [jouska](https://github.com/YoungSx/jouska) | 高性能 Cloudflare Workers 反代中间件（Hono）。精准 host 匹配（防公共后缀陷阱）、流式 hold-back + LLM 透传、边缘压缩、四段超时控制，workerd 平台全链路实测。 |  | 维护中 |
+| [AgentHop](https://github.com/sdyuyouth/agenthop) | 让两个 AI Agent 直接对话的中继。中继跑在 Cloudflare Workers + Durable Objects 上（每个房间一个 Durable Object），一个配对码连上两台没有公网地址的电脑；端到端加密，中继只转发密文；作为 MCP 接进 Claude Code、Codex、Cursor 等，也支持自建中继。 |  | 维护中 |
 
 ## 文章
 
