@@ -97,6 +97,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App, die mit Lemon Squeezy auf Cloudflare läuft. | <https://nextflare-template.pages.dev/> | Wartung |
 | [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare-Workers-Backend für das Kommentarsystem Waline, Daten liegen in D1, ohne eigenen Server. Kompatibel mit dem @waline/client-Frontend und dem @waline/admin-Panel, mit Social Login, 2FA, Spam-Filterung über Akismet und LLM, RSS sowie Datenimport und -export. |  | Wird gewartet |
+| [Lunora](https://github.com/anolilab/lunora) | Typsicheres Echtzeit-Backend-Framework für Cloudflare Workers + Durable Objects. Definiere ein Schema und schreibe query/mutation/action-Funktionen; Clients erhalten Ende-zu-Ende typisierte Daten mit Live-Subscriptions, optimistischen Updates und einer Offline-Queue. Convex-artige DX, Vite-first, in deinem eigenen Cloudflare-Konto. | <https://lunora.sh> | Wartung |
 
 ## Tunnel
 

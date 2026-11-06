@@ -102,6 +102,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App running with Lemon Squeezy on Cloudflare. | <https://nextflare-template.pages.dev/> | Maintenance |
 | [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare Workers backend for the Waline comment system, storing data in D1 with no separate server. Compatible with the @waline/client frontend and the @waline/admin panel, with social login, 2FA, Akismet and LLM spam filtering, RSS and data import/export. |  | Maintaining |
+| [Lunora](https://github.com/anolilab/lunora) | Type-safe, real-time backend framework for Cloudflare Workers + Durable Objects. Define a schema and write query/mutation/action functions; clients get end-to-end typed data with live subscriptions, optimistic updates and an offline queue. Convex-style DX, Vite-first, on your own Cloudflare account. | <https://lunora.sh> | Maintenance |
 
 ## Short Links
 

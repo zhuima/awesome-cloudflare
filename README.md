@@ -129,6 +129,7 @@
 | [create-microservices-app](https://github.com/microservices-sh/microservices-sh/tree/main/packages/create-microservices-app) | Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. | <https://microservices.sh>              | 维护中 |
 | [FlareStarter](https://github.com/FlareStarter/flarestarter)                                                                 | TanStack Start + Cloudflare Workers 的全栈 SaaS 起步模板。Workers + D1 + KV + R2，内置认证(better-auth)、计费(Stripe)、邮件(Resend)、i18n、SEO、运营后台，无 mock、有测试、优雅降级，fork 即用。 | <https://flarestarter.com>              | 维护中 |
 | [ShipKit Lite](https://github.com/rice408s/tanstack-start-cloudflare-starter) | 基于 TanStack Start + Cloudflare Workers 的免费 MIT 全栈启动模板：D1 + Drizzle、R2 存储、better-auth 免密码登录（邮箱验证码，可选 Google / GitHub）、Paraglide 中英双语、构建时编译的 MDX 博客和文档，本地开发也跑在 workerd 里，并附带给 Claude Code / Codex / Cursor 用的项目规则。 |  | 维护中 |
+| [Lunora](https://github.com/anolilab/lunora)                                                                                 | 基于 Cloudflare Workers + Durable Objects 的类型安全实时后端框架。定义 schema 并编写 query/mutation/action 函数，客户端即可获得端到端类型安全数据，支持实时订阅、乐观更新与离线队列。Convex 风格开发体验，Vite 优先，部署在你自己的 Cloudflare 账号上。 | <https://lunora.sh>                     | 维护中 |
 
 ## 短链
 
