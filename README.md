@@ -235,6 +235,10 @@
 | [OpenConnector](https://github.com/oomol-lab/open-connector) | 可部署到 Cloudflare Workers 的开源 Agent 连接网关，使用 D1 存储连接、授权状态和运行日志，R2 或 KV 暂存文件，通过 MCP、HTTP 和 OpenAPI 提供 SaaS 动作发现与执行。 | | 维护中 |
 | [ai-token-checkin-workers](https://github.com/DewellNaa/ai-token-checkin-workers) | 基于 Cloudflare Workers 的国内主流 AI 编程助手（MiniMax Code/海螺、腾讯 WorkBuddy、字节 Trae、Qoder 等）每日额度自动签到套件。支持 OAuth 令牌自动轮换、飞书智能卡片告警、电脑关机准时打卡，年化收益超 ¥1,200+ 免费算力。 | <https://github.com/DewellNaa/ai-token-checkin-workers> | 维护中 |
 | [Pakr](https://github.com/ZhangShengFan/Pakr) | 基于 Cloudflare Pages + GitHub Actions + Android WebView 的网页转 APK 工具。在线填写网址即可云端构建 Android 安装包，支持自定义图标、双架构输出和自动签名。 | <https://apk.091224.xyz/> | 维护中 |
+| [workers-ai-cost-calculator](https://github.com/Richend0913/workers-ai-cost-calculator) | Workers AI 免费额度（每日 10,000 Neurons）预估计算器。输入预计请求数与 token 数即可无需登录一键估算是否超出免费额度，内置 23 个模型的官方价格数据（附数据来源与更新日期）。 | <https://workers-ai-cost-calculator.burningbros.workers.dev> | 维护中 |
+| [cf-error-explainer](https://github.com/Richend0913/cf-error-explainer) | 基于 Cloudflare Workers AI 实时推理的错误代码诊断工具，覆盖 17 种官方错误码（500-504/520-526/1000-1002/1006/1101）。AI 仅依据官方文档事实作答，无匹配时不生成推测内容。 | <https://cf-error-explainer.burningbros.workers.dev> | 维护中 |
+| [cf-storage-advisor](https://github.com/Richend0913/cf-storage-advisor) | 基于 Cloudflare Workers AI 的存储选型顾问。输入自然语言场景描述，从 KV/D1/R2/Durable Objects 中给出有官方文档依据的推荐方案。 | <https://cf-storage-advisor.burningbros.workers.dev> | 维护中 |
+| [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | 基于 Cloudflare Workers AI 的异步架构选型顾问。帮助在 Queues/Workflows(V2)/Durable Objects/Cron Triggers 间做决策，回答基于官方文档实际限制值。 | <https://cf-async-advisor.burningbros.workers.dev> | 维护中 |
 
 ## 文章
 
