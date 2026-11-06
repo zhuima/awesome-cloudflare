@@ -158,6 +158,7 @@
 | [HanAnalytics](https://github.com/uxiaohan/HanAnalytics)                          | 一个部署在Cloudflare Pages上的简单的网络分析跟踪器和仪表板，是umami的精简版，它支持设备查看、来源查看、国家地区及设备OS等数据查看分析，支持密码访问，域名白名单等功能。                                                                                        |                                     | 维护中 |
 | [PageGuard](https://github.com/sleepyxpad-jpg/pageguard)                          | 免费网站健康扫描器，基于 Cloudflare Workers + D1 + Workers AI（Llama 3.1）。检查 SEO、性能（Core Web Vitals）、无障碍（WCAG 2.1）、最佳实践，30 秒出 AI 诊断报告，无需注册登录。                                                                               | <https://pageguard.org>             | 维护中 |
 | [Beam](https://github.com/scobb/beam)                                             | 轻量级、无 Cookie、GDPR 合规的网页分析服务，基于 Cloudflare Workers + D1 构建。无需 Cookie 即可收集页面浏览数据，隐私友好，可自部署。                                                                                                                          | <https://beam.keylightdigital.com/> | 维护中 |
+| [Dozokit Analytics](https://github.com/dozokit/analytics) | 不使用 Cookie 的网站统计，一个 Worker 加一个 D1 数据库，点击 Deploy to Cloudflare 按钮即可部署到自己的 Cloudflare 账号。不存储 IP，支持目标（goals）、utm 参数，并把来自 ChatGPT、Claude、Perplexity 等 AI 助手的访问单独归类。Workers 免费套餐约可支撑每天 9,000 次页面浏览。AGPL-3.0。 | <https://dozokit.com/analytics> | 维护中 |
 
 
 
