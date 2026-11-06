@@ -252,6 +252,7 @@
 | [mdgate/converters](https://github.com/mdgate/converters) | 纯 TypeScript 文档转 Markdown 库，可在 Cloudflare Workers、Node、浏览器里转换 DOCX、PDF、Office、iWork、HWP、email 等 150+ 文件类型。无 Python、无 WASM、无原生插件。 | <https://convert.mdgate.dev> | 维护中 |
 | [jouska](https://github.com/YoungSx/jouska) | 高性能 Cloudflare Workers 反代中间件（Hono）。精准 host 匹配（防公共后缀陷阱）、流式 hold-back + LLM 透传、边缘压缩、四段超时控制，workerd 平台全链路实测。 |  | 维护中 |
 | [AgentHop](https://github.com/sdyuyouth/agenthop) | 让两个 AI Agent 直接对话的中继。中继跑在 Cloudflare Workers + Durable Objects 上（每个房间一个 Durable Object），一个配对码连上两台没有公网地址的电脑；端到端加密，中继只转发密文；作为 MCP 接进 Claude Code、Codex、Cursor 等，也支持自建中继。 |  | 维护中 |
+| [CFMobile](https://github.com/imtaqin/CFMobile) | 开源的 Cloudflare 安卓客户端（React Native + Expo）。在手机上管理域名、DNS 记录、防火墙规则、SSL、缓存和流量分析，以及 Workers、KV、R2、D1 和 Pages，并内置需确认后才执行操作的 AI 助手。 | <https://play.google.com/store/apps/details?id=id.imtaqin.cfmobile> | 维护中 |
 
 ## 文章
 
