@@ -99,6 +99,7 @@
 | [MailySend](https://github.com/GagnDeep/mailysend) | 自托管的邮件平台，API 兼容 Resend：事务邮件、营销群发、自动化、收件箱与送达率分析。基于 Workers、D1、R2、KV、Queues、Durable Objects 和 Email Routing，数据都在你自己的账号里。 | <https://mailysend.com/> | 维护中 |
 | [Ownlist](https://github.com/pfstr/ownlist)                                       | 部署在自己 Cloudflare 账户上的无服务器 Newsletter 系统：订阅表单与嵌入式表单、一键退订、队列群发、RSS 自动发信，订阅者数据保存在自己的 D1 中，发信可接入任意邮件 API。 | | 维护中 |
 | [awesome-cloudflare-email](https://github.com/hikerell/awesome-cloudflare-email) | Cloudflare 邮件相关开源项目清单：团队网页邮箱、发信 API、Newsletter、AI Agent 邮箱、客服收件箱、临时邮箱和开发库。 | | 维护中 |
+| [AliasMail](https://aliasmail.space/)                                            | 基于 Cloudflare 基础设施构建的零日志邮件别名与转发服务，提供即时临时邮箱与 HMAC-SHA256 签名 Webhook 实时投递。                                                                                                    | <https://aliasmail.space/> | 维护中 |
 
 
 ## 博客

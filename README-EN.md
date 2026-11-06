@@ -83,6 +83,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [MailySend](https://github.com/GagnDeep/mailysend) | Self-hosted email platform with a Resend-compatible API: transactional sending, broadcasts, automations, inbound mailboxes and deliverability analytics. Built on Workers, D1, R2, KV, Queues, Durable Objects and Email Routing, all in your own account. | <https://mailysend.com/> | Maintaining |
 | [Ownlist](https://github.com/pfstr/ownlist) | Serverless newsletter on your own Cloudflare account: signup and embeddable form, one-click unsubscribe, queued campaigns, RSS-to-email; subscribers stay in your own D1, sending via any email API. | | Maintaining |
 | [awesome-cloudflare-email](https://github.com/hikerell/awesome-cloudflare-email) | A curated list of projects for Cloudflare Email Routing and Email Sending: team webmail, sending APIs, newsletters, AI agent inboxes, help desks, temporary email and libraries. | | Maintaining |
+| [AliasMail](https://aliasmail.space/) | Privacy-preserving zero-log email forwarding and alias service built on Cloudflare, with instant inboxes and real-time HMAC-SHA256 signed webhooks. | <https://aliasmail.space/> | Maintaining |
 
 ## Blog
 
