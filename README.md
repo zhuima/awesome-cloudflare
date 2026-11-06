@@ -254,6 +254,7 @@
 | [AgentHop](https://github.com/sdyuyouth/agenthop) | 让两个 AI Agent 直接对话的中继。中继跑在 Cloudflare Workers + Durable Objects 上（每个房间一个 Durable Object），一个配对码连上两台没有公网地址的电脑；端到端加密，中继只转发密文；作为 MCP 接进 Claude Code、Codex、Cursor 等，也支持自建中继。 |  | 维护中 |
 | [CFMobile](https://github.com/imtaqin/CFMobile) | 开源的 Cloudflare 安卓客户端（React Native + Expo）。在手机上管理域名、DNS 记录、防火墙规则、SSL、缓存和流量分析，以及 Workers、KV、R2、D1 和 Pages，并内置需确认后才执行操作的 AI 助手。 | <https://play.google.com/store/apps/details?id=id.imtaqin.cfmobile> | 维护中 |
 | [EdgeSSH](https://github.com/aozorae/EdgeSSH) | 基于 Cloudflare Workers、Durable Objects、D1 和 TCP Sockets 的自托管单管理员 SSH 工作台，提供浏览器终端、SFTP 文件管理、进程监控和加密同步命令片段，无需额外维护 WebSSH 中转 VPS。 | <https://edgessh-docs.pages.dev/> | 维护中 |
+| [webhook-relay](https://github.com/5012763083a-oss/webhook-relay) | 自托管的 Webhook 中继，基于 Cloudflare Workers + Durable Objects + Cron 构建。支持 HMAC 与 Stripe 签名校验、指数退避重试、死信列表和一键重放，MIT 开源。 |  | 维护中 |
 
 ## 文章
 
