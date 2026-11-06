@@ -381,6 +381,7 @@
 | [CostGoat](https://costgoat.com) | 桌面应用，跟踪当前计费周期的 Cloudflare 费用，并在超出预算前提醒你。同时支持其他云服务与 AI 服务。 | <https://costgoat.com> | 维护中 |
 | [presidents-pk](https://github.com/the-beating-light-of-the-nail/presidents-pk) | 美国总统 1v1 对决投票站：44 位候选打 64 签位淘汰赛（首轮 20 人轮空），纯前端 Canvas 生成战报/锐评分享卡；Worker API + Upstash 计票，每设备日限 5 场，静态资源 Workers 直传。 | <https://presidents-pk.cdqyfdbymn.me> | 维护中 |
 | [RedirectForge](https://redirectforge.thememend.com/) | 免费的网页工具，在 Apache .htaccess、nginx、Netlify、Vercel、Next.js 和 Cloudflare（Bulk Redirects CSV / Pages _redirects）之间转换重定向规则，附带 Shopify 重定向 CSV 检查器。基于 Cloudflare Workers 构建，无需注册。 | <https://redirectforge.thememend.com/> | 维护中 |
+| [TokenByte](https://tokenbyte.ai/) | TokenByte 是多模型 AI API 网关，通过统一 API 聚合并接入 OpenAI、Claude、Gemini、DeepSeek 等主流大模型，为开发者和企业提供简单、可靠的 AI API 接入与使用管理。 | <https://tokenbyte.ai/> | 维护中 |
 
 ## 教程
 
