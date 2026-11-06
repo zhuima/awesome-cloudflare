@@ -98,6 +98,7 @@
 | [Flowmails](https://github.com/wms-why/flowmails-email-worker)                    | 托管邮件 API 服务，Workers + D1 + R2 + Email Routing 全部跑在用户自己的 Cloudflare 账号里。Base 计划永久免费（2 个自定义域名起步），Pro 仅 $9.9/月。提供邮件路由、收件箱 / 发件箱、自定义域名绑定、REST + Webhook 自动化；Cloudflare Email Services 由 Cloudflare 直接计费（无平台加价），无需 SMTP、无第三方锁定。AI 草稿与回复规划中（Q3 2026）。                                                                                                                              | <https://flowmails.net>   | 维护中 |
 | [MailySend](https://github.com/GagnDeep/mailysend) | 自托管的邮件平台，API 兼容 Resend：事务邮件、营销群发、自动化、收件箱与送达率分析。基于 Workers、D1、R2、KV、Queues、Durable Objects 和 Email Routing，数据都在你自己的账号里。 | <https://mailysend.com/> | 维护中 |
 | [Ownlist](https://github.com/pfstr/ownlist)                                       | 部署在自己 Cloudflare 账户上的无服务器 Newsletter 系统：订阅表单与嵌入式表单、一键退订、队列群发、RSS 自动发信，订阅者数据保存在自己的 D1 中，发信可接入任意邮件 API。 | | 维护中 |
+| [awesome-cloudflare-email](https://github.com/hikerell/awesome-cloudflare-email) | Cloudflare 邮件相关开源项目清单：团队网页邮箱、发信 API、Newsletter、AI Agent 邮箱、客服收件箱、临时邮箱和开发库。 | | 维护中 |
 
 
 ## 博客
