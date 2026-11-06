@@ -356,6 +356,7 @@
 | [Social Media Downloader](https://github.com/Vette1123/social-media-downloader) | 基于 Cloudflare Workers 的社交媒体下载器，支持 TikTok、X、Instagram、Facebook、YouTube、Pinterest、Reddit、Threads、Snapchat、Twitch、Vimeo 等 11 个平台的公开帖子，可下载高清视频、提取 MP3 音频，或将图集打包为 ZIP。无需登录、无广告，可安装为 PWA。前端为 Next.js 16 静态导出，解析由一个 Worker 完成，MIT 协议。 | <https://www.socialdownloader.space> | 维护中 |
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page)                                                                | 白标 link-in-bio 个人链接页：每人一个 JSON 文件，预渲染为静态页面并托管在 GitHub Pages，管理 API 默认运行在 Cloudflare Workers（免费套餐即可），每人只能编辑自己的资料。MIT 开源，无付费版。                                                                           | <https://openbio.page/>                                                                      | 维护中       |
 | [Ordkort](https://github.com/silicq/ordkort) | 免费开源的单词卡片网站，支持 60 种语言：FSRS 间隔重复、按主题的词表、词典、语法书和逐词讲解的翻译器。静态页面加一个 Cloudflare Worker 和 D1，全部运行在免费套餐上；无需注册，设备间端到端加密同步，可离线使用。 | <https://ordkort.com/> | 维护中 |
+| [Hatoba](https://github.com/scarletkc/Hatoba)                                                                                  | 开源桌面 SSH 客户端，内置 AI 助手。同步后端是部署在你自己 Cloudflare 账户上的 Workers + D1，主机、密钥和 AI 对话在设备上端到端加密后再同步，Worker 和数据库里只有密文。                                                                                                                                                             | <https://hatoba.fog.moe/zh/>                                                                 | 维护中          |
 
 ## 教程
 
