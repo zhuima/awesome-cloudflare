@@ -222,6 +222,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [EdgeEver](https://github.com/tianma-if/edgeever) | Serverless Open-Source-Evernote-Alternative auf Cloudflare Workers + D1 + R2. Null Server, im Free-Tier hostbar, klassisches Drei-Spalten-Layout, MCP/AI-Agenten, Multi-Geräte-Sync, Web Clipper und native Clients. | <https://demo.edgeever.org> | Wird gewartet |
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Leichtgewichtiges Chat-System auf Basis von Cloudflare Workers + Durable Objects + D1 + KV + R2, mit öffentlichen/privaten Gruppen, Direktnachrichten, Echtzeit-Messaging, Datei-Uploads, Admin-Dashboard und bidirektionaler Telegram-Anbindung. | <https://edgechat-demo.wcjxxgaq.workers.dev> | Wird gewartet |
 | [mdgate/converters](https://github.com/mdgate/converters) | Reine TypeScript-Konverter fuer DOCX, PDF, Office, iWork, HWP, E-Mail und 150+ Dateitypen. Laeuft in Cloudflare Workers, Node und Browsern. Kein Python, kein WASM, keine nativen Addons. | <https://convert.mdgate.dev> | Wird gewartet |
+| [Plinth](https://github.com/soulpool90-png/plinth) | Open-core Forms, Catch und Schema auf Cloudflare Workers + D1. | <https://plinthrun.com> | Wird gewartet |
 
 
 ## Tutorials
