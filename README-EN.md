@@ -81,6 +81,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Agent Post Office](https://github.com/Agent-Post-Office/agentpostoffice-cloudflare) | Self-hosted custom-domain email infrastructure for AI agents on Cloudflare Workers, with REST, CLI, MCP, threading, and attachment support. Developer preview. | <https://agentpostoffice.com/> | Maintaining |
 | [Flowmails](https://github.com/wms-why/flowmails-email-worker) | Hosted email API service. The receive worker + routing rules + D1 + R2 + Email Routing all run inside your own Cloudflare account. Base plan is free forever (2 custom domains), Pro is $9.9/mo. Inbound routing, inbox & outbox, custom-domain binding, REST + Webhook automation; Cloudflare Email Services is billed directly by Cloudflare with no markup — no SMTP, no third-party lock-in. AI draft & reply coming Q3 2026. | <https://flowmails.net> | Maintaining |
 | [MailySend](https://github.com/GagnDeep/mailysend) | Self-hosted email platform with a Resend-compatible API: transactional sending, broadcasts, automations, inbound mailboxes and deliverability analytics. Built on Workers, D1, R2, KV, Queues, Durable Objects and Email Routing, all in your own account. | <https://mailysend.com/> | Maintaining |
+| [Ownlist](https://github.com/pfstr/ownlist) | Serverless newsletter on your own Cloudflare account: signup and embeddable form, one-click unsubscribe, queued campaigns, RSS-to-email; subscribers stay in your own D1, sending via any email API. | | Maintaining |
 
 ## Blog
 
