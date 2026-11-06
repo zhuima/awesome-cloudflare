@@ -172,6 +172,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [xugou](https://github.com/zaunist/xugou)| Una herramienta de monitoreo de sitios web y servidores basada en CloudFlare. | https://xugou.mdzz.uk/ |  En mantenimiento |
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Rastreador universal de despliegues para asistentes de IA con insignias de estado en vivo y monitoreo de despliegues, incluyendo soporte para Cloudflare Pages. | https://deploy-mcp.io | Activo |
 | [ohstatus](https://github.com/oddinpay/ohstatus) | Preciosa página de estado y monitor de tiempo de actividad. Lista para producción nada más instalarla. | <https://status.oddinpay.com/> | Activo |
+| [FlareWatch](https://github.com/saminnet/flarewatch) | Monitoreo de disponibilidad, heartbeats para tareas cron y una página de estado que funcionan gratis en Cloudflare Workers. Revisa sitios web, APIs, puertos TCP, registros DNS y el vencimiento de dominios, y envía alertas a Slack, Discord, Telegram y más. | <https://demo.flarewatch.app/> | En mantenimiento |
 
 
 ## Artículos

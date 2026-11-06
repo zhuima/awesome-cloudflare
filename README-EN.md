@@ -179,6 +179,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [ohstatus](https://github.com/oddinpay/ohstatus) | Beautiful status page & uptime monitor. Ready for production out of the box. | <https://status.oddinpay.com/> | Active |
 | [Prismix](https://prismix.dev) | Real-time status aggregator for 76 AI services (OpenAI, Anthropic, Cursor, and more), built entirely on Cloudflare Workers + KV. Features email/webhook alerts, 30-day uptime history, status badges, AI news aggregation, and MCP server directory. | <https://prismix.dev> | Active |
 | [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) | Read-only usage collector for your own Cloudflare account. Every 6 hours a Worker pulls daily Workers, D1, Durable Objects, KV, R2 and Queues usage from the GraphQL Analytics API into a D1 table in your account, and flags any metric that reaches 10× its 7-day median and a per-metric floor. Optional Discord/Slack webhook and a plain HTML page for the last 7 days. The token needs Account Analytics: Read and nothing else. | — | Maintained |
+| [FlareWatch](https://github.com/saminnet/flarewatch) | Uptime monitoring, cron heartbeats and a status page that run free on Cloudflare Workers. Checks websites, APIs, TCP ports, DNS records and domain expiry, and sends alerts to Slack, Discord, Telegram and more. | <https://demo.flarewatch.app/> | Maintaining |
 
 
 ## Articles

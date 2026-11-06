@@ -142,6 +142,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Überwachen Sie Ihre Website, zeigen Sie den Status (einschließlich täglicher Historie) an und erhalten Sie Slack-Benachrichtigungen, wenn sich der Status der Website ändert. Verwendet Cloudflare Workers, CRON-Auslöser und KV-Speicher. | <https://status-page.eidam.dev/> | In Wartung |
 | [xugou](https://github.com/zaunist/xugou)| Ein auf CloudFlare basierendes Website- und Server-Überwachungstool. | https://xugou.mdzz.uk/ | In Wartung |
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universeller Deployment-Tracker für KI-Assistenten mit Live-Status-Badges und Deployment-Überwachung, einschließlich Cloudflare Pages-Unterstützung. | https://deploy-mcp.io | Aktiv |
+| [FlareWatch](https://github.com/saminnet/flarewatch) | Uptime-Monitoring, Cron-Heartbeats und eine Statusseite, die kostenlos auf Cloudflare Workers laufen. Prüft Websites, APIs, TCP-Ports, DNS-Einträge und den Ablauf von Domains und sendet Alarme an Slack, Discord, Telegram und mehr. | <https://demo.flarewatch.app/> | Wird gewartet |
 
 ## Artikel
 
