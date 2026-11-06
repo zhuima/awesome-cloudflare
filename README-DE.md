@@ -90,6 +90,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [emaction.backend](https://github.com/emaction/emaction.backend) | Basierend auf Cloudflare D1, GitHub-Stil Reactions Like-Funktion, dieses Projekt ist das Backend. | <https://emaction.cool/> | Wird gewartet |
 | [Gins-Blog](https://github.com/IchimaruGin728/Gins-Blog) | Eine leistungsstarke, Agentic-First-Blog-Plattform im Cloudflare-Ökosystem. Unterstützt MCP und Zero-Touch-Deployment über OpenClaw. | <https://blog.ichimarugin728.com> | Wird gewartet |
 | [One Stroke Fan](https://github.com/lson-lee/one-stroke) | Mehrsprachige Fanseite auf Basis von Astro und Cloudflare Pages. Unterstützt 9 Sprachen, 100+ Seiten, Sitemap / hreflang / JSON-LD / llms.txt und rein statisches, kostengünstiges Hosting. | <https://one-stroke.savetimefor.fun> | Wird gewartet |
+| [HostlessWP](https://github.com/hostlesswp/hostlesswp) | Migriert bestehende WordPress-Websites zu Cloudflare Workers: PHP 8.3 als WebAssembly, MySQL über Hyperdrive und Medien in R2/S3-kompatiblem Speicher. Core, Themes und Plugins bleiben erhalten. GPL-2.0. | <https://hostlesswp.com/> | Wird gewartet |
+| [AueXUE](https://github.com/AIOVTUE/AueXUE) | Dynamischer Blog mit Cloudflare D1 und R2, Verwaltung von Beiträgen, Alben, Links und Seiteninhalten sowie einem Obsidian-Plugin zum Veröffentlichen und Teilen. | <https://aiovtue-blog.pages.dev/> | Wird gewartet |
 
 # Gerüst
 
@@ -98,6 +100,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App, die mit Lemon Squeezy auf Cloudflare läuft. | <https://nextflare-template.pages.dev/> | Wartung |
 | [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare-Workers-Backend für das Kommentarsystem Waline, Daten liegen in D1, ohne eigenen Server. Kompatibel mit dem @waline/client-Frontend und dem @waline/admin-Panel, mit Social Login, 2FA, Spam-Filterung über Akismet und LLM, RSS sowie Datenimport und -export. |  | Wird gewartet |
 | [Lunora](https://github.com/anolilab/lunora) | Typsicheres Echtzeit-Backend-Framework für Cloudflare Workers + Durable Objects. Definiere ein Schema und schreibe query/mutation/action-Funktionen; Clients erhalten Ende-zu-Ende typisierte Daten mit Live-Subscriptions, optimistischen Updates und einer Offline-Queue. Convex-artige DX, Vite-first, in deinem eigenen Cloudflare-Konto. | <https://lunora.sh> | Wartung |
+| [TANSHIP Template](https://tanship.app) | Kostenpflichtige TanStack-Start-SaaS-Vorlage für Cloudflare Workers mit Better Auth, Creem/Stripe/PayPal, Drizzle/D1, Resend, Workers AI und chinesischen/englischen Routen. Einmaliger Kauf mit dauerhafter Lizenz. | <https://tanship.app> | Wird gewartet |
 
 ## Tunnel
 
@@ -145,6 +148,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [xugou](https://github.com/zaunist/xugou)| Ein auf CloudFlare basierendes Website- und Server-Überwachungstool. | https://xugou.mdzz.uk/ | In Wartung |
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universeller Deployment-Tracker für KI-Assistenten mit Live-Status-Badges und Deployment-Überwachung, einschließlich Cloudflare Pages-Unterstützung. | https://deploy-mcp.io | Aktiv |
 | [FlareWatch](https://github.com/saminnet/flarewatch) | Uptime-Monitoring, Cron-Heartbeats und eine Statusseite, die kostenlos auf Cloudflare Workers laufen. Prüft Websites, APIs, TCP-Ports, DNS-Einträge und den Ablauf von Domains und sendet Alarme an Slack, Discord, Telegram und mehr. | <https://demo.flarewatch.app/> | Wird gewartet |
+| [upbeat](https://github.com/Jubstaaa/upbeat) | Animierte UptimeRobot-Statusseite mit schreibgeschütztem API-Schlüssel und ohne Datenbank. Mit 90-Tage-Verfügbarkeit, Antwortzeiten, Vorfällen, Badges und Atom-Feed. Läuft auf Workers, Vercel oder Docker. | <https://status.webgooh.tech> | Wird gewartet |
 
 ## Artikel
 
@@ -230,6 +234,17 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Plinth](https://github.com/soulpool90-png/plinth) | Open-core Forms, Catch und Schema auf Cloudflare Workers + D1. | <https://plinthrun.com> | Wird gewartet |
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | White-Label-Link-in-Bio-Seiten: eine JSON-Datei pro Person, vorgerendert als statische Seiten auf GitHub Pages, mit einer Admin-API, die standardmäßig auf Cloudflare Workers (Free-Plan) läuft. MIT-lizenziert, ohne kostenpflichtigen Tarif. | <https://openbio.page/> | Wird gewartet |
 | [RedirectForge](https://redirectforge.thememend.com/) | Kostenloses Web-Tool, das Redirect-Regeln zwischen Apache .htaccess, nginx, Netlify, Vercel, Next.js und Cloudflare (Bulk Redirects CSV / Pages _redirects) konvertiert, plus einen Shopify-Redirect-CSV-Linter. Läuft auf Cloudflare Workers; keine Anmeldung nötig. | <https://redirectforge.thememend.com/> | Aktiv |
+| [SuperCI](https://github.com/supercorp-ai/superci) | Führt GitHub Actions im eigenen Cloudflare-Konto aus: ein Container pro Job und ein Worker als Steuerung. Unterstützt auch AWS und Modal. MIT-Lizenz. | <https://superci.dev/> | Wird gewartet |
+| [Fullbleed](https://github.com/fullbleed-engine/fullbleed-node) | Erzeugt PDFs aus HTML/CSS oder Komponenten in Cloudflare Workers mit gebündelter WebAssembly-Engine und Schriften. Enthält eine bearbeitbare Rechnungsvorlage und Ausgabeprüfungen. MIT-Lizenz. | <https://docs.fullbleed.dev/guides/cloudflare-pdf/> | Wird gewartet |
+| [Replayowl](https://github.com/replayowl/replayowl) | Selbst gehostete Aufzeichnung und Wiedergabe von Website-Sitzungen auf Cloudflare Workers. Sitzungsdaten in D1/Postgres, Aufzeichnungen in R2/S3 und Maskierung von Eingaben im Browser. AGPL-3.0. | <https://replayowl.com/> | Wird gewartet |
+| [Bibo](https://github.com/Peiiii/bibo) | Selbst gehosteter persönlicher KI-Arbeitsbereich: Chat, Aufgaben und Dateien auf Workers/Durable Objects, Linux-Sandboxes bei Bedarf und dauerhafte Dateien in R2. Erfordert Workers Paid und Sandbox/Containers. | <https://bibo.bot> | Wird gewartet |
+| [万象棋谱 WXHub](https://wxq.whatsyour.fun) | Inoffizielle Spielhilfen für Honor of Kings: ACE auf Cloudflare: Helden- und Gegenstandsübersichten, Team-Editor, Aufstellungssimulator und Buff-Lexikon. Kostenlos und ohne Anmeldung. | <https://wxq.whatsyour.fun> | Wird gewartet |
+| [cfpanel](https://github.com/pxhzaii/cfpanel) | Browser-Verwaltungsoberfläche auf Cloudflare Pages für DNS, Workers/Pages, KV, R2, D1 und API-Tokens sowie Ressourcenbindungen, Umgebungsvariablen und erneute Bereitstellung. |  | Wird gewartet |
+| [inst-cf](https://inst.sh) | Werkzeug zur Systemneuinstallation mit einer Bereitstellungsvorlage für eine Verwaltungsoberfläche auf Cloudflare Workers und dem Installationsskript inst.sh. | <https://inst.sh> | Wird gewartet |
+| [cf-work-deployer](https://github.com/happymy/cf-work-deployer) | Stellt öffentliche GitHub-Projekte aus dem Browser auf Cloudflare Workers bereit, liest die Konfiguration und erstellt KV/D1/R2-Ressourcen. Mit Versionsverlauf und Rollback; selbst hostbar und ohne lokale Wrangler-Installation. | <https://dp.heipi.dpdns.org/> | Wird gewartet |
+| [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare-Verwaltung für mehrere Konten mit Workers/Pages, DNS, KV/D1/R2, Workers AI und Browser Rendering. Mit selbst gehostetem Express- oder Pages/Hono-Backend und OpenAI-kompatibler API. MIT-Lizenz. | <https://mgrcf.pages.dev/admin/> | Wird gewartet |
+| [CloudSSH](https://github.com/newbietan/CloudSSH) | Web-SSH-Terminal auf Workers, Durable Objects und TCP Sockets mit Sitzungstabs, Schlüsselauthentifizierung, SFTP/trzsz, Sprungservern und KI-Betriebsassistent mit menschlicher Bestätigung. | <https://ssh.newbietan.cn> | Wird gewartet |
+| [ai-token-checkin-workers](https://github.com/DewellNaa/ai-token-checkin-workers) | Automatisiert tägliche Check-ins für KI-Programmierassistenten mit Cloudflare Workers, Cron und KV sowie OAuth-Token-Erneuerung, Feishu-Benachrichtigungen und Statusprüfungen. MIT-Lizenz. | <https://github.com/DewellNaa/ai-token-checkin-workers> | Wird gewartet |
 
 
 ## Tutorials
@@ -239,6 +254,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) | Ein Schnelleinstiegsführer, der Ihnen hilft, mit Cloudflare Workers zu beginnen. | | Wird aktualisiert |
 | [cloudflare-tunnel](https://dmesg.app/cloudflare) | Eine Reihe von technischen Blogs darüber, wie man Cloudflare Zero Trust verwendet, um ein großes internes Netzwerk zu erstellen und Probleme mit blockierten Servern zu lösen. | | Wird aktualisiert |
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend: Holen Sie sich in zehn Minuten ganz einfach eine kostenlose Firmen-E-Mail. |  | Wird aktualisiert |
+| [Cloudflare setup and troubleshooting guide (Korean)](https://futureinfra.ai/blog/cloudflare) | Koreanische Anleitung zu DNS, Proxy und TLS bei Cloudflare sowie zur Prüfung von Fehlern 520–526 und der Verbindung zum Ursprungsserver. | <https://futureinfra.ai/blog/cloudflare> | Wird gewartet |
 
 ## Gruppe
 

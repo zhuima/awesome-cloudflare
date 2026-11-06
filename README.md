@@ -119,6 +119,8 @@
 | [One Stroke Fan](https://github.com/lson-lee/one-stroke)                           | 基于 Astro 构建并部署在 Cloudflare Pages 的多语言粉丝站。支持 9 种语言、100+ 页面、sitemap / hreflang / JSON-LD / llms.txt，纯静态零成本运行。                                                                                                                                   | <https://one-stroke.savetimefor.fun>       | 维护中         |
 | [华夏音画 (China Culture Media)](https://history.walkingchina.com)                   | 基于 Next.js 15 SSG + Cloudflare Pages 边缘托管的华夏先贤有声时空漫步画卷。纯静态预渲染 160+ 页面，结合 Leaflet 东方水墨地图交互与双语学者原声解说，零服务器成本。                                                                                                                | <https://history.walkingchina.com>         | 维护中         |
 | [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Waline 评论系统的 Cloudflare Workers 服务端实现，数据存 D1，无需独立服务器。兼容 @waline/client 前端与 @waline/admin 管理面板，支持社交登录、两步验证、Akismet 与 LLM 两档反垃圾、RSS 与数据导入导出。 |  | 维护中 |
+| [HostlessWP](https://github.com/hostlesswp/hostlesswp) | 将现有 WordPress 站点迁移到 Cloudflare Workers：PHP 8.3 编译为 WebAssembly，原有 MySQL 经 Hyperdrive 连接，媒体存入 R2/S3 兼容存储，保留核心、主题和插件。GPL-2.0。 | <https://hostlesswp.com/> | 维护中 |
+| [AueXUE](https://github.com/AIOVTUE/AueXUE) | 以 Cloudflare D1 和 R2 为数据源的动态博客，支持后台编辑文章、相册、友链和页面内容，并提供 Obsidian 插件管理文章及一键分享。 | <https://aiovtue-blog.pages.dev/> | 维护中 |
 
 
 
@@ -131,6 +133,7 @@
 | [FlareStarter](https://github.com/FlareStarter/flarestarter)                                                                 | TanStack Start + Cloudflare Workers 的全栈 SaaS 起步模板。Workers + D1 + KV + R2，内置认证(better-auth)、计费(Stripe)、邮件(Resend)、i18n、SEO、运营后台，无 mock、有测试、优雅降级，fork 即用。 | <https://flarestarter.com>              | 维护中 |
 | [ShipKit Lite](https://github.com/rice408s/tanstack-start-cloudflare-starter) | 基于 TanStack Start + Cloudflare Workers 的免费 MIT 全栈启动模板：D1 + Drizzle、R2 存储、better-auth 免密码登录（邮箱验证码，可选 Google / GitHub）、Paraglide 中英双语、构建时编译的 MDX 博客和文档，本地开发也跑在 workerd 里，并附带给 Claude Code / Codex / Cursor 用的项目规则。 |  | 维护中 |
 | [Lunora](https://github.com/anolilab/lunora)                                                                                 | 基于 Cloudflare Workers + Durable Objects 的类型安全实时后端框架。定义 schema 并编写 query/mutation/action 函数，客户端即可获得端到端类型安全数据，支持实时订阅、乐观更新与离线队列。Convex 风格开发体验，Vite 优先，部署在你自己的 Cloudflare 账号上。 | <https://lunora.sh>                     | 维护中 |
+| [TANSHIP Template](https://tanship.app) | 面向 Cloudflare Workers 的付费 TanStack Start SaaS 模板，集成 Better Auth、Creem/Stripe/PayPal、Drizzle/D1、Resend、Workers AI 和中英文路由；一次付费、永久许可。 | <https://tanship.app> | 维护中 |
 
 ## 短链
 
@@ -161,6 +164,7 @@
 | [PageGuard](https://github.com/sleepyxpad-jpg/pageguard)                          | 免费网站健康扫描器，基于 Cloudflare Workers + D1 + Workers AI（Llama 3.1）。检查 SEO、性能（Core Web Vitals）、无障碍（WCAG 2.1）、最佳实践，30 秒出 AI 诊断报告，无需注册登录。                                                                               | <https://pageguard.org>             | 维护中 |
 | [Beam](https://github.com/scobb/beam)                                             | 轻量级、无 Cookie、GDPR 合规的网页分析服务，基于 Cloudflare Workers + D1 构建。无需 Cookie 即可收集页面浏览数据，隐私友好，可自部署。                                                                                                                          | <https://beam.keylightdigital.com/> | 维护中 |
 | [Dozokit Analytics](https://github.com/dozokit/analytics) | 不使用 Cookie 的网站统计，一个 Worker 加一个 D1 数据库，点击 Deploy to Cloudflare 按钮即可部署到自己的 Cloudflare 账号。不存储 IP，支持目标（goals）、utm 参数，并把来自 ChatGPT、Claude、Perplexity 等 AI 助手的访问单独归类。Workers 免费套餐约可支撑每天 9,000 次页面浏览。AGPL-3.0。 | <https://dozokit.com/analytics> | 维护中 |
+| [Replayowl](https://github.com/replayowl/replayowl) | 可自托管的网站会话录制与回放工具。服务端运行于 Cloudflare Workers，会话摘要存 D1/Postgres，录像存 R2/S3，支持浏览器端输入打码。AGPL-3.0。 | <https://replayowl.com/> | 维护中 |
 
 
 
@@ -238,6 +242,7 @@
 | [Prismix](https://prismix.dev)                                                  | AI monitoring for 76 services (OpenAI, Anthropic, Cursor...) on Cloudflare Workers+KV. Email/webhook alerts, 30-day uptime, status badges, news aggregation, MCP directory.                                                        | <https://prismix.dev>                                      | Active   |
 | [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector)     | 只读采集账号用量的 Worker：每 6 小时经 GraphQL Analytics API 把 Workers、D1、Durable Objects、KV、R2、Queues 的按日用量写进你的 D1，某项达到 7 天中位数 10 倍时告警，可选 Discord/Slack webhook。Token 只需 Account Analytics: Read。 | —                                                          | 维护中   |
 | [FlareWatch](https://github.com/saminnet/flarewatch)                            | 免费运行在 Cloudflare Workers 上的网站监控、定时任务心跳和状态页。可检查网站、API、TCP 端口、DNS 记录和域名到期，并向 Slack、Discord、Telegram 等发送告警。                                                                        | <https://demo.flarewatch.app/>                             | 维护中   |
+| [upbeat](https://github.com/Jubstaaa/upbeat) | 面向 UptimeRobot 的动态状态页，使用只读 API Key，无需数据库；提供 90 天可用率、响应时间、事件记录、徽章和 Atom 订阅。支持 Cloudflare Workers、Vercel 与 Docker。 | <https://status.webgooh.tech> | 维护中 |
 
 ## 开发者工具
 
@@ -277,6 +282,13 @@
 | [AnyHook](https://anyhook.net) | 入站 Webhook 中继。把 Stripe、GitHub、Shopify 这类 webhook 地址改指向它，事件先存下来再投递到你的服务器，失败按退避重试，每次请求的 headers 和 body 都留着可以回头翻。边缘入口跑在 Cloudflare Workers 上，免费额度 3000 事件/月。 | <https://anyhook.net> | 维护中 |
 | [Capture Signoff](https://github.com/lidaban2025/release-screenshot-proof) | 基于 Cloudflare Workers + Browser Rendering 的 URL 交付证据工具：桌面+移动截图、带内容哈希 manifest 的 PDF 交付回执、免登录的逐页客户确认；变更感知重审——页面变更后仅变更页需重新确认，未变更页自动沿用。D1 哈希链审计事件 + R2 7 天 TTL + Queues 串行抓取，免费公测。 | <https://capturesignoff.com/?utm_source=github&utm_medium=awesome-cloudflare> | 维护中 |
 | [FlareCost](https://flarecost.com/) | Free Cloudflare pricing calculator with cost guides for Workers, R2, D1, KV, Durable Objects and more. | <https://flarecost.com/> | 维护中 |
+| [SuperCI](https://github.com/supercorp-ai/superci) | 在自己的 Cloudflare 账户中运行 GitHub Actions：每个任务使用独立 Container，由 Worker 控制面调度；也支持 AWS 和 Modal。MIT 开源。 | <https://superci.dev/> | 维护中 |
+| [Bibo](https://github.com/Peiiii/bibo) | 可自部署的个人 AI 工作空间：日常对话、待办和文件操作运行于 Workers/Durable Objects，系统工具按需启动 Linux 沙箱，文件持久化到 R2。需要 Workers Paid 与 Sandbox/Containers。 | <https://bibo.bot> | 维护中 |
+| [cfpanel](https://github.com/pxhzaii/cfpanel) | 部署在 Cloudflare Pages 的浏览器管理面板，集中管理 DNS、Workers/Pages、KV、R2、D1 及 API Token，支持绑定、环境变量与重新部署。 |  | 维护中 |
+| [inst-cf](https://inst.sh) | 基于 Cloudflare Workers 托管的系统重装工具，提供面板部署方案和 inst.sh 安装脚本入口。 | <https://inst.sh> | 维护中 |
+| [cf-work-deployer](https://github.com/happymy/cf-work-deployer) | 在浏览器中将公开 GitHub 项目部署到 Cloudflare Workers，自动解析配置并创建 KV/D1/R2 等资源，支持历史版本和回滚。可自部署，无需本地安装 Wrangler。 | <https://dp.heipi.dpdns.org/> | 维护中 |
+| [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare 多账户统一管理面板，整合 Workers/Pages、DNS、KV/D1/R2、Workers AI 与浏览器渲染；提供 Express 自部署和 Cloudflare Pages/Hono 后端，支持 OpenAI 兼容 API。MIT 开源。 | <https://mgrcf.pages.dev/admin/> | 维护中 |
+| [CloudSSH](https://github.com/newbietan/CloudSSH) | 基于 Workers、Durable Objects 和 TCP Sockets 的 Web SSH 终端，支持多会话标签、密钥认证、SFTP/trzsz 文件传输、跳板连接及需人工确认的 AI 运维助手。 | <https://ssh.newbietan.cn> | 维护中 |
 
 ## 文章
 
@@ -386,6 +398,8 @@
 | [RedirectForge](https://redirectforge.thememend.com/) | 免费的网页工具，在 Apache .htaccess、nginx、Netlify、Vercel、Next.js 和 Cloudflare（Bulk Redirects CSV / Pages _redirects）之间转换重定向规则，附带 Shopify 重定向 CSV 检查器。基于 Cloudflare Workers 构建，无需注册。 | <https://redirectforge.thememend.com/> | 维护中 |
 | [TokenByte](https://tokenbyte.ai/) | TokenByte 是多模型 AI API 网关，通过统一 API 聚合并接入 OpenAI、Claude、Gemini、DeepSeek 等主流大模型，为开发者和企业提供简单、可靠的 AI API 接入与使用管理。 | <https://tokenbyte.ai/> | 维护中 |
 | [Workers Native](https://workersnative.directory) | 可自托管的 Cloudflare 应用目录（Workers、D1、R2、KV）。每个应用都写明部署方式和是否适合免费套餐，并有与对应托管产品的对比页面。 | <https://workersnative.directory> | 维护中 |
+| [Fullbleed](https://github.com/fullbleed-engine/fullbleed-node) | 在 Cloudflare Workers 中通过打包的 WebAssembly 引擎，将 HTML/CSS 或组件生成 PDF；附带字体、可编辑的发票示例及输出检查。MIT 开源。 | <https://docs.fullbleed.dev/guides/cloudflare-pdf/> | 维护中 |
+| [万象棋谱 WXHub](https://wxq.whatsyour.fun) | 部署在 Cloudflare 上的《王者万象棋》非官方玩家工具站，提供英雄与装备图鉴、阵容编辑器、站位模拟器和 Buff 词典，免费且无需登录。 | <https://wxq.whatsyour.fun> | 维护中 |
 
 ## 教程
 
@@ -395,6 +409,7 @@
 | [cloudflare-tunnel](https://dmesg.app/cloudflare)                                                                                    | 一系列关于如何使用 Cloudflare Zero Trust 创建大内网以及解决被墙服务器问题的技术博客。 |          | 更新中 |
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱。                            |          | 更新中 |
 | [Cloudflare Pages SEO 发布检查](https://yicekit.com/entries/cloudflare-pages/)                                                     | 用六个本站实际 HTTP 响应核对 200、301、404、canonical、robots.txt 和 sitemap.xml，附只读 curl 命令与 JSON 记录。 | [检查清单](https://yicekit.com/assets/checklists/cloudflare-pages-seo.txt) | 更新中 |
+| [Cloudflare setup and troubleshooting guide (Korean)](https://futureinfra.ai/blog/cloudflare) | 韩语 Cloudflare 入门与排障教程，涵盖 DNS、代理、TLS 配置及 520–526 错误和源站连接检查。 | <https://futureinfra.ai/blog/cloudflare> | 维护中 |
 
 
 
