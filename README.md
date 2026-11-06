@@ -96,6 +96,7 @@
 | [FreeTempMail](https://github.com/PennyJoly/FreeTempMail)                         | 清爽简约风的永久免费临时邮件服务。保护用户隐私数据，支持i18n国际化，即用即走。基于NuxtPro模板和CF开发。                                                                                                                                                                            | <https://mail.aitre.cc> | 维护中 |
 | [Agent Post Office](https://github.com/Agent-Post-Office/agentpostoffice-cloudflare) | 面向 AI 智能体的自托管自定义域名邮件基础设施，基于 Cloudflare Workers，提供 REST、CLI、MCP、会话和附件支持（开发者预览版）。                                                                                                                                            | <https://agentpostoffice.com/> | 维护中 |
 | [Flowmails](https://github.com/wms-why/flowmails-email-worker)                    | 托管邮件 API 服务，Workers + D1 + R2 + Email Routing 全部跑在用户自己的 Cloudflare 账号里。Base 计划永久免费（2 个自定义域名起步），Pro 仅 $9.9/月。提供邮件路由、收件箱 / 发件箱、自定义域名绑定、REST + Webhook 自动化；Cloudflare Email Services 由 Cloudflare 直接计费（无平台加价），无需 SMTP、无第三方锁定。AI 草稿与回复规划中（Q3 2026）。                                                                                                                              | <https://flowmails.net>   | 维护中 |
+| [MailySend](https://github.com/GagnDeep/mailysend) | 自托管的邮件平台，API 兼容 Resend：事务邮件、营销群发、自动化、收件箱与送达率分析。基于 Workers、D1、R2、KV、Queues、Durable Objects 和 Email Routing，数据都在你自己的账号里。 | <https://mailysend.com/> | 维护中 |
 
 
 ## 博客
