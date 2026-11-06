@@ -163,6 +163,7 @@
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------ |
 | [Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) | Cloudflared-web 是一个 docker 镜像，它打包了 cloudflared cli 和简单的 Web UI，以便轻松启动/停止 cloudflare 隧道。 |          | 维护中 |
 | [Cloudflare-Edgetunnel](https://github.com/Royo-Qiao/Cloudflare-Edgetunnel) | 本地 Web 向导，一键把 cmliu/edgetunnel（VLESS+WS+TLS）节点部署到 Cloudflare Pages：自动创建 KV/Pages 项目、绑定自定义域名，TCP 测速优选 CF IP 写入订阅，Clash 导入即用；含自托管管理后台，MIT 许可。 |          | 维护中 |
+| [cfex-cli](https://github.com/muthuishere/cfex-cli)             | 命令行工具，通过 Cloudflare Tunnel 将本地服务用自己的域名暴露到公网，无需端口转发或静态 IP，一条命令即可创建 HTTPS 端点。                                        |          | 维护中 |
 
 ## 加速
 
