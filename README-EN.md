@@ -258,6 +258,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cf-storage-advisor](https://github.com/Richend0913/cf-storage-advisor) | Workers AI-backed storage advisor. Describe your use case in plain language and get a recommendation among KV/D1/R2/Durable Objects grounded in official docs. | <https://cf-storage-advisor.burningbros.workers.dev> | Maintaining |
 | [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | Workers AI-backed async architecture advisor for choosing between Queues/Workflows(V2)/Durable Objects/Cron Triggers, grounded in official docs' real limits. | <https://cf-async-advisor.burningbros.workers.dev> | Maintaining |
 | [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Subsonic-compatible music streaming server running entirely on Cloudflare Workers, with no always-on host. Metadata lives in D1 and audio in R2, with WebDAV / S3 also supported as storage backends; works with native clients such as DSub and Symfonium, and ships a web UI for tag editing and library management. | <https://edgesonic-demo.wuyilingwei.workers.dev> | Maintaining |
+| [Renewlet](https://github.com/zhiyingzzhou/renewlet) | Self-hosted subscription ledger and renewal reminder app with recurring-charge tracking, budgets, calendar feeds, public status pages, and multi-channel notifications. Deploys on Cloudflare Workers + D1 + R2 + Cron Triggers, with Docker also supported. | <https://demo.renewlet.cc/><br>Demo: `demo@renewlet.local` / `renewlet-demo` | Maintaining |
 
 
 ## Tutorials

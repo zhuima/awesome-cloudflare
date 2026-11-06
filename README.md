@@ -335,6 +335,7 @@
 | [Agora Cosmica](https://github.com/chipmates/agoracosmica) | 可自托管的教育平台，基于 Cloudflare Pages + 4 个 Workers（LLM 代理、音频代理、社区、统计）+ R2 构建。收录来自哲学、科学、艺术、神秘主义与社会活动领域的 30 位历史人物，提供故事、对话与多人物议事会。AGPL-3.0，自带 LLM 密钥（BYOK），无跟踪 Cookie，不做用户画像。 | <https://agoracosmica.org> | 维护中 |
 | [Mosoo](https://github.com/langgenius/mosoo)                                                                                   | 开源 alpha 的 Cloudflare 原生 Agent cloud，Web/API/Driver 三层，使用 Workers、Durable Objects、D1、R2、Queues 和 Sandbox/Containers 承载 App-local Agents。                                                                                                           |                                                                                              | 维护中       |
 | [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | 运行在 Cloudflare Workers 上的 Subsonic 兼容音乐流媒体服务器，无需常驻主机。元数据存 D1，音频存 R2，也支持 WebDAV / S3 作为存储后端；可配合 DSub、Symfonium 等原生客户端使用，自带网页端用于标签编辑与曲库整理。 | <https://edgesonic-demo.wuyilingwei.workers.dev> | 维护中 |
+| [Renewlet](https://github.com/zhiyingzzhou/renewlet)                                                                            | 自托管订阅账本与续费提醒工具，支持周期扣费、预算统计、日历订阅、公开状态页和多渠道通知；可部署到 Cloudflare Workers + D1 + R2 + Cron Triggers，也支持 Docker。                                                                                                         | <https://demo.renewlet.cc/><br>演示账号：`demo@renewlet.local` / `renewlet-demo`             | 维护中       |
 
 ## 教程
 
