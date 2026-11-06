@@ -260,6 +260,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | Workers AI-backed async architecture advisor for choosing between Queues/Workflows(V2)/Durable Objects/Cron Triggers, grounded in official docs' real limits. | <https://cf-async-advisor.burningbros.workers.dev> | Maintaining |
 | [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Subsonic-compatible music streaming server running entirely on Cloudflare Workers, with no always-on host. Metadata lives in D1 and audio in R2, with WebDAV / S3 also supported as storage backends; works with native clients such as DSub and Symfonium, and ships a web UI for tag editing and library management. | <https://edgesonic-demo.wuyilingwei.workers.dev> | Maintaining |
 | [Renewlet](https://github.com/zhiyingzzhou/renewlet) | Self-hosted subscription ledger and renewal reminder app with recurring-charge tracking, budgets, calendar feeds, public status pages, and multi-channel notifications. Deploys on Cloudflare Workers + D1 + R2 + Cron Triggers, with Docker also supported. | <https://demo.renewlet.cc/><br>Demo: `demo@renewlet.local` / `renewlet-demo` | Maintaining |
+| [EdgeEver](https://github.com/tianma-if/edgeever) | Serverless open-source Evernote alternative on Cloudflare Workers + D1 + R2. Zero-server, free-tier friendly self-hosting with classic three-pane layout, MCP/AI agents, multi-device sync, web clipper, and native clients. | <https://demo.edgeever.org> | Maintaining |
 
 
 ## Tutorials
