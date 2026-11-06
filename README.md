@@ -370,6 +370,7 @@
 | [Ordkort](https://github.com/silicq/ordkort) | 免费开源的单词卡片网站，支持 60 种语言：FSRS 间隔重复、按主题的词表、词典、语法书和逐词讲解的翻译器。静态页面加一个 Cloudflare Worker 和 D1，全部运行在免费套餐上；无需注册，设备间端到端加密同步，可离线使用。 | <https://ordkort.com/> | 维护中 |
 | [Hatoba](https://github.com/scarletkc/Hatoba)                                                                                  | 开源桌面 SSH 客户端，内置 AI 助手。同步后端是部署在你自己 Cloudflare 账户上的 Workers + D1，主机、密钥和 AI 对话在设备上端到端加密后再同步，Worker 和数据库里只有密文。                                                                                                                                                             | <https://hatoba.fog.moe/zh/>                                                                 | 维护中          |
 | [booking-meo](https://github.com/johndefine404/booking-meo) | 面向韩国小商户的 AI 客服聊天机器人，基于 Cloudflare Workers + Workers AI + Durable Objects，同时接入 KakaoTalk 频道、Naver TalkTalk 和网页小组件。只根据店铺信息文件回答，自动识别韩、英、越、日、中、泰六种语言，通过 KakaoTalk 通知消息或短信提醒店主，对话记录发到店主邮箱后从服务器删除。MIT 开源。 | <https://booking.define404.com> | 维护中 |
+| [WikiMasters](https://github.com/tik568/wikimasters-game) | 基于 Cloudflare Workers + Durable Objects 构建的实时维基百科卡牌对战游戏，纯边缘端运行 | [wikimasters.org](https://wikimasters.org) | 持续更新中 |
 
 ## 教程
 

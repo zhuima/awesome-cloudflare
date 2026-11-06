@@ -283,6 +283,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Myrel](https://github.com/Fibteq-Inc/Myrel) | Open-source, self-hostable AI agent workspace for teams. A coordinator agent turns requests into threads; thread agents do the work in Cloudflare Sandbox or on your own computer. Runs on one Worker with Durable Objects, D1, R2 and Containers. | <https://docs.myrel.fibteq.io> | Maintaining |
 | [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) | Offline pre-flight checker and local test harness for Cloudflare Workers (`wrangler.jsonc`, `wrangler.toml`, and `cloudflare.config.ts`). Detects uninherited `[env.<name>]` bindings, remote D1 splitter hazards, and `workerd` global-scope I/O, plus millisecond D1 snapshot cloning and in-memory Workflow testing. | <https://www.npmjs.com/package/wrangler-doctor> | Maintaining |
 | [NHTSA Edge API](https://github.com/AIKitLLC/nhtsa-edge-api) | Offline VIN decoder on Cloudflare Workers built from the US NHTSA vPIC dataset, checked against NHTSA's own SQL output and compatible with vPIC endpoints. | <https://data.ai-kit.net> | Under maintenance |
+| [WikiMasters](https://github.com/tik568/wikimasters-game) | Real-time Wikipedia trading card duel game built with Cloudflare Workers & Durable Objects | [wikimasters.org](https://wikimasters.org) | Active |
 
 
 ## Tutorials
