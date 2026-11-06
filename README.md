@@ -263,6 +263,7 @@
 | [Verceltics](https://github.com/apoorvdarshan/verceltics) | 开源（MIT）iPhone/iPad/Android 原生应用，在手机上管理 Cloudflare 账户、Zone、DNS、Workers、Pages、缓存与分析，并支持 Vercel、Netlify 等 27 个平台；官网与 Discord 机器人运行在 Cloudflare Workers 上，凭据仅保存在设备本地。 | <https://verceltics.com> | 维护中 |
 | [Eden](https://github.com/moinulmoin/eden) | 开源 CLI，一条命令把现有的 Vercel Eve 智能体项目部署到你自己的 Cloudflare 账户，无需改写代码。真实的 Eve 服务运行在 Cloudflare Container 中，前置 Worker；空闲时休眠、收到请求即唤醒，Cron 定时任务在休眠期间照常触发，再次部署即原地更新。Apache 2.0，npm provenance 签名。 | <https://eden.ideaplexa.com> | 维护中 |
 | [Myrel](https://github.com/Fibteq-Inc/Myrel) | 开源、可自托管的 AI 智能体团队工作区。协调智能体把请求拆分成线程，线程智能体在 Cloudflare Sandbox 或你自己的电脑上完成工作。基于单个 Worker，使用 Durable Objects、D1、R2 和 Containers。 | <https://docs.myrel.fibteq.io> | 维护中 |
+| [Shiba](https://github.com/princepal9120/shiba) | 自托管、需人工审批的 AI 编程代理。基于 Cloudflare Workers + Sandbox 容器运行 Claude Code、Codex、OpenCode 等编程工具，在隔离沙箱中执行任务并返回 diff / PR。AGPL-3.0。 | <https://tryshiba.dev/> | 维护中 |
 
 ## 文章
 
