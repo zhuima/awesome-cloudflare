@@ -323,6 +323,7 @@
 | [Voidly Messenger](https://github.com/voidly-ai)                                                                               | 完全基于 Cloudflare 构建的端到端加密消息 PWA（Pages + Workers + D1 + KV）。采用 Signal Protocol（Double Ratchet + X3DH）与 ML-KEM-768 后量子混合加密，全部加密在客户端完成，Workers 无法读取明文。                                                                     | <https://msg.voidly.ai>                                                                      | 维护中       |
 | [Orange Cloud](https://github.com/chen2he/orange-cloud) | 面向移动设备的 Cloudflare 第三方管理客户端，支持多账号、域名/DNS、Workers 日志、R2/D1/KV、WAF、隧道、Snippets、小组件和多语言。 | | 维护中 |
 | [ephemeral-encrypted-chat](https://github.com/happymy/ephemeral-encrypted-chat) | 基于 Cloudflare Workers + Durable Objects 的端到端加密匿名聊天室。消息在浏览器内加密，频道无人在线后自动销毁。 | | 维护中 |
+| [Agora Cosmica](https://github.com/chipmates/agoracosmica) | 可自托管的教育平台，基于 Cloudflare Pages + 4 个 Workers（LLM 代理、音频代理、社区、统计）+ R2 构建。收录来自哲学、科学、艺术、神秘主义与社会活动领域的 30 位历史人物，提供故事、对话与多人物议事会。AGPL-3.0，自带 LLM 密钥（BYOK），无跟踪 Cookie，不做用户画像。 | <https://agoracosmica.org> | 维护中 |
 
 ## 教程
 
