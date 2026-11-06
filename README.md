@@ -240,6 +240,7 @@
 | [cf-error-explainer](https://github.com/Richend0913/cf-error-explainer) | 基于 Cloudflare Workers AI 实时推理的错误代码诊断工具，覆盖 17 种官方错误码（500-504/520-526/1000-1002/1006/1101）。AI 仅依据官方文档事实作答，无匹配时不生成推测内容。 | <https://cf-error-explainer.burningbros.workers.dev> | 维护中 |
 | [cf-storage-advisor](https://github.com/Richend0913/cf-storage-advisor) | 基于 Cloudflare Workers AI 的存储选型顾问。输入自然语言场景描述，从 KV/D1/R2/Durable Objects 中给出有官方文档依据的推荐方案。 | <https://cf-storage-advisor.burningbros.workers.dev> | 维护中 |
 | [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | 基于 Cloudflare Workers AI 的异步架构选型顾问。帮助在 Queues/Workflows(V2)/Durable Objects/Cron Triggers 间做决策，回答基于官方文档实际限制值。 | <https://cf-async-advisor.burningbros.workers.dev> | 维护中 |
+| [baerly-storage](https://github.com/Gusto/baerly-storage) | 无服务器文档数据库，数据库引擎在每个请求处理程序中运行到完成，状态存储在你自己的 S3/R2 存储桶中，无需数据库服务器或常驻进程。写入通过对存储桶中下一个编号日志对象的条件式（If-None-Match）创建来提交。支持 Cloudflare Workers 与 Node，Apache 2.0 开源。 | | 维护中 |
 
 ## 文章
 
