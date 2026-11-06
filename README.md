@@ -114,6 +114,7 @@
 | [讀角獸](https://ducorn.com)                                                       | 使用 Cloudflare Pages + Workers + D1 + KV + R2 全家桶構建的繁體中文深度分析出版物。Astro 4 hybrid SSR，零外部服務依賴。                                                                                                                                                          | <https://ducorn.com/>                      | 维护中         |
 | [One Stroke Fan](https://github.com/lson-lee/one-stroke)                           | 基于 Astro 构建并部署在 Cloudflare Pages 的多语言粉丝站。支持 9 种语言、100+ 页面、sitemap / hreflang / JSON-LD / llms.txt，纯静态零成本运行。                                                                                                                                   | <https://one-stroke.savetimefor.fun>       | 维护中         |
 | [华夏音画 (China Culture Media)](https://history.walkingchina.com)                   | 基于 Next.js 15 SSG + Cloudflare Pages 边缘托管的华夏先贤有声时空漫步画卷。纯静态预渲染 160+ 页面，结合 Leaflet 东方水墨地图交互与双语学者原声解说，零服务器成本。                                                                                                                | <https://history.walkingchina.com>         | 维护中         |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Waline 评论系统的 Cloudflare Workers 服务端实现，数据存 D1，无需独立服务器。兼容 @waline/client 前端与 @waline/admin 管理面板，支持社交登录、两步验证、Akismet 与 LLM 两档反垃圾、RSS 与数据导入导出。 |  | 维护中 |
 
 
 
@@ -333,6 +334,7 @@
 | [ephemeral-encrypted-chat](https://github.com/happymy/ephemeral-encrypted-chat) | 基于 Cloudflare Workers + Durable Objects 的端到端加密匿名聊天室。消息在浏览器内加密，频道无人在线后自动销毁。 | | 维护中 |
 | [Agora Cosmica](https://github.com/chipmates/agoracosmica) | 可自托管的教育平台，基于 Cloudflare Pages + 4 个 Workers（LLM 代理、音频代理、社区、统计）+ R2 构建。收录来自哲学、科学、艺术、神秘主义与社会活动领域的 30 位历史人物，提供故事、对话与多人物议事会。AGPL-3.0，自带 LLM 密钥（BYOK），无跟踪 Cookie，不做用户画像。 | <https://agoracosmica.org> | 维护中 |
 | [Mosoo](https://github.com/langgenius/mosoo)                                                                                   | 开源 alpha 的 Cloudflare 原生 Agent cloud，Web/API/Driver 三层，使用 Workers、Durable Objects、D1、R2、Queues 和 Sandbox/Containers 承载 App-local Agents。                                                                                                           |                                                                                              | 维护中       |
+| [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | 运行在 Cloudflare Workers 上的 Subsonic 兼容音乐流媒体服务器，无需常驻主机。元数据存 D1，音频存 R2，也支持 WebDAV / S3 作为存储后端；可配合 DSub、Symfonium 等原生客户端使用，自带网页端用于标签编辑与曲库整理。 | <https://edgesonic-demo.wuyilingwei.workers.dev> | 维护中 |
 
 ## 教程
 

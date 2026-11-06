@@ -97,6 +97,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | Nombre | Características | Dirección en línea | Estado |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Aplicación Next.js que se ejecuta con Lemon Squeezy en Cloudflare. | <https://nextflare-template.pages.dev/> | Mantenimiento |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Backend en Cloudflare Workers para el sistema de comentarios Waline, con los datos en D1 y sin servidor propio. Compatible con el frontend @waline/client y el panel @waline/admin, con inicio de sesión social, 2FA, filtrado de spam mediante Akismet y LLM, RSS e importación/exportación de datos. |  | En mantenimiento |
 
 ## Enlaces cortos
 
@@ -246,6 +247,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [OmniConvert](https://github.com/s87343472/omni-convert) | Caja de herramientas gratuita de conversión en línea desplegada en Cloudflare Pages + Workers. Soporta conversión de archivos, unidades, PWA, interfaz multilingüe y acceso API/MCP. | <https://tools.sagasu.art> | En mantenimiento |
 | [Dualmark](https://github.com/dodopayments/dualmark) | Infraestructura AEO (Answer Engine Optimization) de código abierto. El adaptador `@dualmark/cloudflare` envuelve cualquier Worker y sirve copias en Markdown a rastreadores de IA (GPTBot, ClaudeBot, PerplexityBot, +16 UAs conocidas) mediante negociación de contenido HTTP en el edge, mientras los humanos reciben HTML — misma URL, dos formatos. Apache 2.0, atestado con npm provenance. | <https://dualmark.dev> | En mantenimiento |
 | [Agora Cosmica](https://github.com/chipmates/agoracosmica) | Plataforma educativa autoalojable en Cloudflare Pages + 4 Workers (proxy LLM, proxy de audio, comunidad, estadísticas) + R2. 30 figuras históricas de la filosofía, la ciencia, el arte, el misticismo y el activismo para relatos, diálogos y mesas redondas con varias figuras. AGPL-3.0, BYOK LLM, sin cookies de seguimiento, sin perfilado. | <https://agoracosmica.org> | En mantenimiento |
+| [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Servidor de streaming de música compatible con Subsonic que se ejecuta íntegramente en Cloudflare Workers, sin host permanente. Los metadatos se guardan en D1 y el audio en R2, con WebDAV / S3 también admitidos como backends de almacenamiento; funciona con clientes nativos como DSub y Symfonium e incluye una interfaz web para editar etiquetas y organizar la biblioteca. | <https://edgesonic-demo.wuyilingwei.workers.dev> | En mantenimiento |
 
 
 ## Tutoriales

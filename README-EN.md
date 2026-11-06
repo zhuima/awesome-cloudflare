@@ -98,6 +98,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | Name | Features | Online Address | Status |
 | --- | --- | --- | --- |
 | [nextflare](https://github.com/ccbikai/nextflare) | Next.js App running with Lemon Squeezy on Cloudflare. | <https://nextflare-template.pages.dev/> | Maintenance |
+| [Waline On Worker](https://github.com/wuyilingwei/Waline_On_Worker) | Cloudflare Workers backend for the Waline comment system, storing data in D1 with no separate server. Compatible with the @waline/client frontend and the @waline/admin panel, with social login, 2FA, Akismet and LLM spam filtering, RSS and data import/export. |  | Maintaining |
 
 ## Short Links
 
@@ -256,6 +257,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [cf-error-explainer](https://github.com/Richend0913/cf-error-explainer) | Cloudflare error-code diagnostic tool powered by live Workers AI inference, covering 17 official error codes (500-504/520-526/1000-1002/1006/1101). The model answers strictly from official docs and refuses to guess on unmatched input. | <https://cf-error-explainer.burningbros.workers.dev> | Maintaining |
 | [cf-storage-advisor](https://github.com/Richend0913/cf-storage-advisor) | Workers AI-backed storage advisor. Describe your use case in plain language and get a recommendation among KV/D1/R2/Durable Objects grounded in official docs. | <https://cf-storage-advisor.burningbros.workers.dev> | Maintaining |
 | [cf-async-advisor](https://github.com/Richend0913/cf-async-advisor) | Workers AI-backed async architecture advisor for choosing between Queues/Workflows(V2)/Durable Objects/Cron Triggers, grounded in official docs' real limits. | <https://cf-async-advisor.burningbros.workers.dev> | Maintaining |
+| [EdgeSonic](https://github.com/wuyilingwei/edgesonic) | Subsonic-compatible music streaming server running entirely on Cloudflare Workers, with no always-on host. Metadata lives in D1 and audio in R2, with WebDAV / S3 also supported as storage backends; works with native clients such as DSub and Symfonium, and ships a web UI for tag editing and library management. | <https://edgesonic-demo.wuyilingwei.workers.dev> | Maintaining |
 
 
 ## Tutorials
