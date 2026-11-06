@@ -265,6 +265,7 @@
 | [Eden](https://github.com/moinulmoin/eden) | 开源 CLI，一条命令把现有的 Vercel Eve 智能体项目部署到你自己的 Cloudflare 账户，无需改写代码。真实的 Eve 服务运行在 Cloudflare Container 中，前置 Worker；空闲时休眠、收到请求即唤醒，Cron 定时任务在休眠期间照常触发，再次部署即原地更新。Apache 2.0，npm provenance 签名。 | <https://eden.ideaplexa.com> | 维护中 |
 | [Myrel](https://github.com/Fibteq-Inc/Myrel) | 开源、可自托管的 AI 智能体团队工作区。协调智能体把请求拆分成线程，线程智能体在 Cloudflare Sandbox 或你自己的电脑上完成工作。基于单个 Worker，使用 Durable Objects、D1、R2 和 Containers。 | <https://docs.myrel.fibteq.io> | 维护中 |
 | [Shiba](https://github.com/princepal9120/shiba) | 自托管、需人工审批的 AI 编程代理。基于 Cloudflare Workers + Sandbox 容器运行 Claude Code、Codex、OpenCode 等编程工具，在隔离沙箱中执行任务并返回 diff / PR。AGPL-3.0。 | <https://tryshiba.dev/> | 维护中 |
+| [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) | 面向 Cloudflare Workers 的离线预检 CLI 与本地测试套件：静态检测多环境 `[env.<name>]` 未继承绑定、D1 远程分词器陷阱（触发器小写 `begin`、`BEGIN TRANSACTION`）、`workerd` 全局作用域违规及 `cloudflare.config.ts` 迁移对齐，并提供毫秒级 D1 快照克隆与 Workflow 内存测试引擎。 | <https://www.npmjs.com/package/wrangler-doctor> | 维护中 |
 
 ## 文章
 
