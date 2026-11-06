@@ -380,6 +380,7 @@
 | [Reely](https://github.com/Vette1123/movies-streaming-platform) | 基于 TMDB API 的影视发现与追踪应用，以 Next.js 静态导出部署在 Cloudflare Workers Static Assets 上，仅用一个手写 Worker 处理搜索、筛选和未预渲染的详情页 ID。支持实时生效的多维筛选、⌘K 命令面板、片单与观看记录，可安装为 PWA。从 OpenNext 迁移到该架构后，因免费套餐 10ms CPU 限制被终止的请求从 20–46% 降到 0.0%。MIT 协议。 | <https://www.reely.space> | 维护中 |
 | [CostGoat](https://costgoat.com) | 桌面应用，跟踪当前计费周期的 Cloudflare 费用，并在超出预算前提醒你。同时支持其他云服务与 AI 服务。 | <https://costgoat.com> | 维护中 |
 | [presidents-pk](https://github.com/the-beating-light-of-the-nail/presidents-pk) | 美国总统 1v1 对决投票站：44 位候选打 64 签位淘汰赛（首轮 20 人轮空），纯前端 Canvas 生成战报/锐评分享卡；Worker API + Upstash 计票，每设备日限 5 场，静态资源 Workers 直传。 | <https://presidents-pk.cdqyfdbymn.me> | 维护中 |
+| [RedirectForge](https://redirectforge.thememend.com/) | 免费的网页工具，在 Apache .htaccess、nginx、Netlify、Vercel、Next.js 和 Cloudflare（Bulk Redirects CSV / Pages _redirects）之间转换重定向规则，附带 Shopify 重定向 CSV 检查器。基于 Cloudflare Workers 构建，无需注册。 | <https://redirectforge.thememend.com/> | 维护中 |
 
 ## 教程
 

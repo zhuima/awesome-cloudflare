@@ -229,6 +229,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [mdgate/converters](https://github.com/mdgate/converters) | Reine TypeScript-Konverter fuer DOCX, PDF, Office, iWork, HWP, E-Mail und 150+ Dateitypen. Laeuft in Cloudflare Workers, Node und Browsern. Kein Python, kein WASM, keine nativen Addons. | <https://convert.mdgate.dev> | Wird gewartet |
 | [Plinth](https://github.com/soulpool90-png/plinth) | Open-core Forms, Catch und Schema auf Cloudflare Workers + D1. | <https://plinthrun.com> | Wird gewartet |
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | White-Label-Link-in-Bio-Seiten: eine JSON-Datei pro Person, vorgerendert als statische Seiten auf GitHub Pages, mit einer Admin-API, die standardmäßig auf Cloudflare Workers (Free-Plan) läuft. MIT-lizenziert, ohne kostenpflichtigen Tarif. | <https://openbio.page/> | Wird gewartet |
+| [RedirectForge](https://redirectforge.thememend.com/) | Kostenloses Web-Tool, das Redirect-Regeln zwischen Apache .htaccess, nginx, Netlify, Vercel, Next.js und Cloudflare (Bulk Redirects CSV / Pages _redirects) konvertiert, plus einen Shopify-Redirect-CSV-Linter. Läuft auf Cloudflare Workers; keine Anmeldung nötig. | <https://redirectforge.thememend.com/> | Aktiv |
 
 
 ## Tutorials

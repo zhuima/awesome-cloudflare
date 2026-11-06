@@ -258,6 +258,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Sistema de chat ligero basado en Cloudflare Workers + Durable Objects + D1 + KV + R2, con grupos públicos y privados, mensajes directos, mensajería en tiempo real, carga de archivos, panel de administración e integración bidireccional con Telegram. | <https://edgechat-demo.wcjxxgaq.workers.dev> | En mantenimiento |
 | [mdgate/converters](https://github.com/mdgate/converters) | Convertidores TypeScript puros para DOCX, PDF, Office, iWork, HWP, email y mas de 150 tipos de archivo. Funciona en Cloudflare Workers, Node y navegadores. Sin Python, WASM ni complementos nativos. | <https://convert.mdgate.dev> | En mantenimiento |
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | Páginas link-in-bio de marca blanca: un archivo JSON por persona, prerenderizado como páginas estáticas en GitHub Pages, con una API de administración que por defecto se ejecuta en Cloudflare Workers (plan gratuito). Licencia MIT, sin plan de pago. | <https://openbio.page/> | En mantenimiento |
+| [RedirectForge](https://redirectforge.thememend.com/) | Herramienta web gratuita que convierte reglas de redirección entre Apache .htaccess, nginx, Netlify, Vercel, Next.js y Cloudflare (Bulk Redirects CSV / Pages _redirects), además de un linter de CSV de redirecciones de Shopify. Construida con Cloudflare Workers; sin registro. | <https://redirectforge.thememend.com/> | Activo |
 
 
 ## Tutoriales
