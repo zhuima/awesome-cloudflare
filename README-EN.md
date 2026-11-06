@@ -286,6 +286,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [NHTSA Edge API](https://github.com/AIKitLLC/nhtsa-edge-api) | Offline VIN decoder on Cloudflare Workers built from the US NHTSA vPIC dataset, checked against NHTSA's own SQL output and compatible with vPIC endpoints. | <https://data.ai-kit.net> | Under maintenance |
 | [WikiMasters](https://github.com/tik568/wikimasters-game) | Real-time Wikipedia trading card duel game built with Cloudflare Workers & Durable Objects | [wikimasters.org](https://wikimasters.org) | Active |
 | [Trick or Take](https://github.com/zicojiao/trick-or-take) | An open-source real-time multiplayer Halloween web heist game built on Cloudflare Workers, D1, Canvas 2D, and Agora RTC live voice chat. | <https://trickortake.com> | Maintaining |
+| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Serverless admin dashboard for multiple Cloudflare sites, deployed on Pages with no server or build step. Sign in with your own API token to manage comments (D1), page views, members and R2 files (chunked uploads) across sites, plus an optional AI gateway; ships companion comment, account and AI gateway Workers. Chinese/English UI, dark mode, MIT licensed. | | Maintaining |
 
 
 ## Tutorials
