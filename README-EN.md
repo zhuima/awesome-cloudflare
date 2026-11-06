@@ -78,6 +78,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [zmail](https://github.com/zaunist/zmail) | Z-Mail - A minimalist temporary email service built on CloudFlare's pages, worker, and D1 SQL, supporting attachment reception. | <https://mail.mdzz.uk/> | Maintaining |
 | [Alle](https://github.com/bestruirui/Alle) | AI-powered email aggregation client with verification code extraction and link classification. Features temporary email service. Built on Cloudflare Workers + Next.js, serverless deployment with just a domain. | | Maintaining |
 | [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) | A clean and minimalist permanent free temporary email service. Protects user privacy, supports i18n internationalization, use and go. Built with NuxtPro template and Cloudflare. | <https://mail.aitre.cc> | Maintaining |
+| [Agent Post Office](https://github.com/Agent-Post-Office/agentpostoffice-cloudflare) | Self-hosted custom-domain email infrastructure for AI agents on Cloudflare Workers, with REST, CLI, MCP, threading, and attachment support. Developer preview. | <https://agentpostoffice.com/> | Maintaining |
 
 ## Blog
 
