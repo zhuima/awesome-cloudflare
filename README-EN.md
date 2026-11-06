@@ -289,6 +289,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [Trick or Take](https://github.com/zicojiao/trick-or-take) | An open-source real-time multiplayer Halloween web heist game built on Cloudflare Workers, D1, Canvas 2D, and Agora RTC live voice chat. | <https://trickortake.com> | Maintaining |
 | [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Serverless admin dashboard for multiple Cloudflare sites, deployed on Pages with no server or build step. Sign in with your own API token to manage comments (D1), page views, members and R2 files (chunked uploads) across sites, plus an optional AI gateway; ships companion comment, account and AI gateway Workers. Chinese/English UI, dark mode, MIT licensed. | | Maintaining |
 | [Reely](https://github.com/Vette1123/movies-streaming-platform) | A movie and TV discovery app on the TMDB API, shipped as a Next.js static export on Cloudflare Workers Static Assets with one hand-written Worker for search, filtering and detail ids outside the prerendered set. Live-applying filters, ⌘K search, watchlist and watch history, installable PWA. Moving off OpenNext to this layout took invocations killed on the free plan's 10ms CPU budget from 20–46% to 0.0%. MIT licensed. | <https://www.reely.space> | Maintaining |
+| [CostGoat](https://costgoat.com) | Desktop app that tracks your Cloudflare spend for the current billing cycle and alerts you before it gets out of hand. Also covers other cloud and AI services. | <https://costgoat.com> | Active |
 
 
 ## Tutorials
