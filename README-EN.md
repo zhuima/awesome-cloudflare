@@ -274,6 +274,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [EdgeSSH](https://github.com/aozorae/EdgeSSH) | Self-hosted, single-admin SSH workspace using Cloudflare Workers, Durable Objects, D1, and TCP Sockets, with a browser terminal, SFTP file management, process monitoring, and encrypted command snippets. No separate WebSSH relay VPS required. | <https://edgessh-docs.pages.dev/> | Maintaining |
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | White-label link-in-bio pages: one JSON file per person, prerendered to static pages on GitHub Pages, with a scoped admin API that runs on Cloudflare Workers (free plan) by default. MIT licensed, no paid tier. | <https://openbio.page/> | Maintaining |
 | [webhook-relay](https://github.com/5012763083a-oss/webhook-relay) | Self-hosted webhook relay built on Cloudflare Workers + Durable Objects + Cron. HMAC and Stripe signature checks, retries with exponential backoff, dead-letter list, and replay. MIT licensed. |  | Maintaining |
+| [Ordkort](https://github.com/silicq/ordkort) | Free, open-source vocabulary flashcards for 60 languages: FSRS spaced repetition, word lists by topic, a dictionary, a grammar book and a translator that explains every word. Static files plus one Cloudflare Worker and D1, all on the free plan; no sign-up, end-to-end encrypted sync between devices, works offline. | <https://ordkort.com/> | Under maintenance |
 
 
 ## Tutorials
