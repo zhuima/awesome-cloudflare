@@ -324,6 +324,7 @@
 | [Orange Cloud](https://github.com/chen2he/orange-cloud) | 面向移动设备的 Cloudflare 第三方管理客户端，支持多账号、域名/DNS、Workers 日志、R2/D1/KV、WAF、隧道、Snippets、小组件和多语言。 | | 维护中 |
 | [ephemeral-encrypted-chat](https://github.com/happymy/ephemeral-encrypted-chat) | 基于 Cloudflare Workers + Durable Objects 的端到端加密匿名聊天室。消息在浏览器内加密，频道无人在线后自动销毁。 | | 维护中 |
 | [Agora Cosmica](https://github.com/chipmates/agoracosmica) | 可自托管的教育平台，基于 Cloudflare Pages + 4 个 Workers（LLM 代理、音频代理、社区、统计）+ R2 构建。收录来自哲学、科学、艺术、神秘主义与社会活动领域的 30 位历史人物，提供故事、对话与多人物议事会。AGPL-3.0，自带 LLM 密钥（BYOK），无跟踪 Cookie，不做用户画像。 | <https://agoracosmica.org> | 维护中 |
+| [Mosoo](https://github.com/langgenius/mosoo)                                                                                   | 开源 alpha 的 Cloudflare 原生 Agent cloud，Web/API/Driver 三层，使用 Workers、Durable Objects、D1、R2、Queues 和 Sandbox/Containers 承载 App-local Agents。                                                                                                           |                                                                                              | 维护中       |
 
 ## 教程
 
