@@ -254,6 +254,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [EdgeEver](https://github.com/tianma-if/edgeever) | Alternativa open-source serverless a Evernote sobre Cloudflare Workers + D1 + R2. Sin servidor, autoalojable en el plan gratuito, diseño clásico de tres paneles, MCP/agentes de IA, sincronización multi-dispositivo, Web Clipper y clientes nativos. | <https://demo.edgeever.org> | En mantenimiento |
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Sistema de chat ligero basado en Cloudflare Workers + Durable Objects + D1 + KV + R2, con grupos públicos y privados, mensajes directos, mensajería en tiempo real, carga de archivos, panel de administración e integración bidireccional con Telegram. | <https://edgechat-demo.wcjxxgaq.workers.dev> | En mantenimiento |
 | [mdgate/converters](https://github.com/mdgate/converters) | Convertidores TypeScript puros para DOCX, PDF, Office, iWork, HWP, email y mas de 150 tipos de archivo. Funciona en Cloudflare Workers, Node y navegadores. Sin Python, WASM ni complementos nativos. | <https://convert.mdgate.dev> | En mantenimiento |
+| [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | Páginas link-in-bio de marca blanca: un archivo JSON por persona, prerenderizado como páginas estáticas en GitHub Pages, con una API de administración que por defecto se ejecuta en Cloudflare Workers (plan gratuito). Licencia MIT, sin plan de pago. | <https://openbio.page/> | En mantenimiento |
 
 
 ## Tutoriales

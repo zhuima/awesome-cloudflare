@@ -225,6 +225,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Leichtgewichtiges Chat-System auf Basis von Cloudflare Workers + Durable Objects + D1 + KV + R2, mit öffentlichen/privaten Gruppen, Direktnachrichten, Echtzeit-Messaging, Datei-Uploads, Admin-Dashboard und bidirektionaler Telegram-Anbindung. | <https://edgechat-demo.wcjxxgaq.workers.dev> | Wird gewartet |
 | [mdgate/converters](https://github.com/mdgate/converters) | Reine TypeScript-Konverter fuer DOCX, PDF, Office, iWork, HWP, E-Mail und 150+ Dateitypen. Laeuft in Cloudflare Workers, Node und Browsern. Kein Python, kein WASM, keine nativen Addons. | <https://convert.mdgate.dev> | Wird gewartet |
 | [Plinth](https://github.com/soulpool90-png/plinth) | Open-core Forms, Catch und Schema auf Cloudflare Workers + D1. | <https://plinthrun.com> | Wird gewartet |
+| [Open Bio Page](https://github.com/open-bio-page/open-bio-page) | White-Label-Link-in-Bio-Seiten: eine JSON-Datei pro Person, vorgerendert als statische Seiten auf GitHub Pages, mit einer Admin-API, die standardmäßig auf Cloudflare Workers (Free-Plan) läuft. MIT-lizenziert, ohne kostenpflichtigen Tarif. | <https://openbio.page/> | Wird gewartet |
 
 
 ## Tutorials
