@@ -221,6 +221,7 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [Renewlet](https://github.com/zhiyingzzhou/renewlet) | Selbstgehostetes Abonnement-Ledger mit Verlängerungserinnerungen, wiederkehrenden Zahlungen, Budgets, Kalender-Feeds, öffentlichen Statusseiten und Mehrkanal-Benachrichtigungen. Bereitstellung auf Cloudflare Workers + D1 + R2 + Cron Triggers, Docker wird ebenfalls unterstützt. | <https://demo.renewlet.cc/><br>Demo: `demo@renewlet.local` / `renewlet-demo` | Wird gewartet |
 | [EdgeEver](https://github.com/tianma-if/edgeever) | Serverless Open-Source-Evernote-Alternative auf Cloudflare Workers + D1 + R2. Null Server, im Free-Tier hostbar, klassisches Drei-Spalten-Layout, MCP/AI-Agenten, Multi-Geräte-Sync, Web Clipper und native Clients. | <https://demo.edgeever.org> | Wird gewartet |
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Leichtgewichtiges Chat-System auf Basis von Cloudflare Workers + Durable Objects + D1 + KV + R2, mit öffentlichen/privaten Gruppen, Direktnachrichten, Echtzeit-Messaging, Datei-Uploads, Admin-Dashboard und bidirektionaler Telegram-Anbindung. | <https://edgechat-demo.wcjxxgaq.workers.dev> | Wird gewartet |
+| [mdgate/converters](https://github.com/mdgate/converters) | Reine TypeScript-Konverter fuer DOCX, PDF, Office, iWork, HWP, E-Mail und 150+ Dateitypen. Laeuft in Cloudflare Workers, Node und Browsern. Kein Python, kein WASM, keine nativen Addons. | <https://convert.mdgate.dev> | Wird gewartet |
 
 
 ## Tutorials

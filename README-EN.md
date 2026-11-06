@@ -263,6 +263,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [EdgeEver](https://github.com/tianma-if/edgeever) | Serverless open-source Evernote alternative on Cloudflare Workers + D1 + R2. Zero-server, free-tier friendly self-hosting with classic three-pane layout, MCP/AI agents, multi-device sync, web clipper, and native clients. | <https://demo.edgeever.org> | Maintaining |
 | [EdgeChat](https://github.com/aozorae/Edgechat) | Lightweight chat system built on Cloudflare Workers + Durable Objects + D1 + KV + R2, featuring public/private groups, direct messages, realtime messaging, file uploads, an admin dashboard, and bidirectional Telegram bridging. | <https://edgechat-demo.wcjxxgaq.workers.dev> | Maintaining |
 | [projektor](https://github.com/TAJD/projektor) | AI-native issue tracker and wiki, self-hosted on a single Cloudflare Worker (Hono, D1, KV, R2). Exposes issues, boards, sprints and the wiki over MCP so coding agents can file and move tickets directly, plus fleet coordination (issue leases, file claims) for running multiple agents without collisions. | <https://projektor-demo.tajdickson.workers.dev> | Maintaining |
+| [mdgate/converters](https://github.com/mdgate/converters) | Pure TypeScript converters for DOCX, PDF, Office, iWork, HWP, email, and 150+ file types. Runs in Cloudflare Workers, Node, and browsers. No Python, WASM, or native addons. | <https://convert.mdgate.dev> | Maintaining |
 
 
 ## Tutorials
