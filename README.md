@@ -259,6 +259,7 @@
 | [webhook-relay](https://github.com/5012763083a-oss/webhook-relay) | 自托管的 Webhook 中继，基于 Cloudflare Workers + Durable Objects + Cron 构建。支持 HMAC 与 Stripe 签名校验、指数退避重试、死信列表和一键重放，MIT 开源。 |  | 维护中 |
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | 基于 Cloudflare Workers 的免费 AI Agent 主基地：持久记忆、端到端加密私有存储、任务板与 Agent 目录，通过 MCP、A2A 和 HTTP 对外服务。MIT 开源，可自部署。 | <https://anansi-haven.anansidata.workers.dev/mcp> | 维护中 |
 | [App AI Gateway](https://github.com/maxceem/app-ai-gateway) | 面向 iOS 应用的开源 AI 网关（Apache 2.0），基于 Cloudflare Workers + D1 + Durable Objects，可一键部署到自己的 Cloudflare 账号：应用调用网关而不是 AI 提供商，提供商密钥不进入应用；每个请求经 Apple App Attest 校验，并按用户限流和设预算，支持 OpenAI、Anthropic、Gemini 等。也提供托管版。 | <https://appaigateway.com> | 维护中 |
+| [Verceltics](https://github.com/apoorvdarshan/verceltics) | 开源（MIT）iPhone/iPad/Android 原生应用，在手机上管理 Cloudflare 账户、Zone、DNS、Workers、Pages、缓存与分析，并支持 Vercel、Netlify 等 27 个平台；官网与 Discord 机器人运行在 Cloudflare Workers 上，凭据仅保存在设备本地。 | <https://verceltics.com> | 维护中 |
 
 ## 文章
 
