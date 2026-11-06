@@ -262,6 +262,7 @@
 | [App AI Gateway](https://github.com/maxceem/app-ai-gateway) | 面向 iOS 应用的开源 AI 网关（Apache 2.0），基于 Cloudflare Workers + D1 + Durable Objects，可一键部署到自己的 Cloudflare 账号：应用调用网关而不是 AI 提供商，提供商密钥不进入应用；每个请求经 Apple App Attest 校验，并按用户限流和设预算，支持 OpenAI、Anthropic、Gemini 等。也提供托管版。 | <https://appaigateway.com> | 维护中 |
 | [Verceltics](https://github.com/apoorvdarshan/verceltics) | 开源（MIT）iPhone/iPad/Android 原生应用，在手机上管理 Cloudflare 账户、Zone、DNS、Workers、Pages、缓存与分析，并支持 Vercel、Netlify 等 27 个平台；官网与 Discord 机器人运行在 Cloudflare Workers 上，凭据仅保存在设备本地。 | <https://verceltics.com> | 维护中 |
 | [Eden](https://github.com/moinulmoin/eden) | 开源 CLI，一条命令把现有的 Vercel Eve 智能体项目部署到你自己的 Cloudflare 账户，无需改写代码。真实的 Eve 服务运行在 Cloudflare Container 中，前置 Worker；空闲时休眠、收到请求即唤醒，Cron 定时任务在休眠期间照常触发，再次部署即原地更新。Apache 2.0，npm provenance 签名。 | <https://eden.ideaplexa.com> | 维护中 |
+| [Myrel](https://github.com/Fibteq-Inc/Myrel) | 开源、可自托管的 AI 智能体团队工作区。协调智能体把请求拆分成线程，线程智能体在 Cloudflare Sandbox 或你自己的电脑上完成工作。基于单个 Worker，使用 Durable Objects、D1、R2 和 Containers。 | <https://docs.myrel.fibteq.io> | 维护中 |
 
 ## 文章
 
