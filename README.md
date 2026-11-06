@@ -360,6 +360,7 @@
 | [Open Bio Page](https://github.com/open-bio-page/open-bio-page)                                                                | 白标 link-in-bio 个人链接页：每人一个 JSON 文件，预渲染为静态页面并托管在 GitHub Pages，管理 API 默认运行在 Cloudflare Workers（免费套餐即可），每人只能编辑自己的资料。MIT 开源，无付费版。                                                                           | <https://openbio.page/>                                                                      | 维护中       |
 | [Ordkort](https://github.com/silicq/ordkort) | 免费开源的单词卡片网站，支持 60 种语言：FSRS 间隔重复、按主题的词表、词典、语法书和逐词讲解的翻译器。静态页面加一个 Cloudflare Worker 和 D1，全部运行在免费套餐上；无需注册，设备间端到端加密同步，可离线使用。 | <https://ordkort.com/> | 维护中 |
 | [Hatoba](https://github.com/scarletkc/Hatoba)                                                                                  | 开源桌面 SSH 客户端，内置 AI 助手。同步后端是部署在你自己 Cloudflare 账户上的 Workers + D1，主机、密钥和 AI 对话在设备上端到端加密后再同步，Worker 和数据库里只有密文。                                                                                                                                                             | <https://hatoba.fog.moe/zh/>                                                                 | 维护中          |
+| [booking-meo](https://github.com/johndefine404/booking-meo) | 面向韩国小商户的 AI 客服聊天机器人，基于 Cloudflare Workers + Workers AI + Durable Objects，同时接入 KakaoTalk 频道、Naver TalkTalk 和网页小组件。只根据店铺信息文件回答，自动识别韩、英、越、日、中、泰六种语言，通过 KakaoTalk 通知消息或短信提醒店主，对话记录发到店主邮箱后从服务器删除。MIT 开源。 | <https://booking.define404.com> | 维护中 |
 
 ## 教程
 
