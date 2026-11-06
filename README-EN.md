@@ -285,6 +285,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) | Offline pre-flight checker and local test harness for Cloudflare Workers (`wrangler.jsonc`, `wrangler.toml`, and `cloudflare.config.ts`). Detects uninherited `[env.<name>]` bindings, remote D1 splitter hazards, and `workerd` global-scope I/O, plus millisecond D1 snapshot cloning and in-memory Workflow testing. | <https://www.npmjs.com/package/wrangler-doctor> | Maintaining |
 | [NHTSA Edge API](https://github.com/AIKitLLC/nhtsa-edge-api) | Offline VIN decoder on Cloudflare Workers built from the US NHTSA vPIC dataset, checked against NHTSA's own SQL output and compatible with vPIC endpoints. | <https://data.ai-kit.net> | Under maintenance |
 | [WikiMasters](https://github.com/tik568/wikimasters-game) | Real-time Wikipedia trading card duel game built with Cloudflare Workers & Durable Objects | [wikimasters.org](https://wikimasters.org) | Active |
+| [Trick or Take](https://github.com/zicojiao/trick-or-take) | An open-source real-time multiplayer Halloween web heist game built on Cloudflare Workers, D1, Canvas 2D, and Agora RTC live voice chat. | <https://trickortake.com> | Maintaining |
 
 
 ## Tutorials

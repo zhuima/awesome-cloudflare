@@ -372,6 +372,7 @@
 | [Hatoba](https://github.com/scarletkc/Hatoba)                                                                                  | 开源桌面 SSH 客户端，内置 AI 助手。同步后端是部署在你自己 Cloudflare 账户上的 Workers + D1，主机、密钥和 AI 对话在设备上端到端加密后再同步，Worker 和数据库里只有密文。                                                                                                                                                             | <https://hatoba.fog.moe/zh/>                                                                 | 维护中          |
 | [booking-meo](https://github.com/johndefine404/booking-meo) | 面向韩国小商户的 AI 客服聊天机器人，基于 Cloudflare Workers + Workers AI + Durable Objects，同时接入 KakaoTalk 频道、Naver TalkTalk 和网页小组件。只根据店铺信息文件回答，自动识别韩、英、越、日、中、泰六种语言，通过 KakaoTalk 通知消息或短信提醒店主，对话记录发到店主邮箱后从服务器删除。MIT 开源。 | <https://booking.define404.com> | 维护中 |
 | [WikiMasters](https://github.com/tik568/wikimasters-game) | 基于 Cloudflare Workers + Durable Objects 构建的实时维基百科卡牌对战游戏，纯边缘端运行 | [wikimasters.org](https://wikimasters.org) | 持续更新中 |
+| [Trick or Take](https://github.com/zicojiao/trick-or-take)                                                                   | 开源实时多人万圣节抢糖网页游戏，基于 Cloudflare Workers + D1 + Canvas 2D + Agora RTC 实时语音构建，支持单人与 2-6 人实时房间对决。                                                                                                       | <https://trickortake.com>                                                                    | 维护中       |
 
 ## 教程
 
