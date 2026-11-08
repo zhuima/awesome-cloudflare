@@ -289,6 +289,7 @@
 | [cf-work-deployer](https://github.com/happymy/cf-work-deployer) | 在浏览器中将公开 GitHub 项目部署到 Cloudflare Workers，自动解析配置并创建 KV/D1/R2 等资源，支持历史版本和回滚。可自部署，无需本地安装 Wrangler。 | <https://dp.heipi.dpdns.org/> | 维护中 |
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare 多账户统一管理面板，整合 Workers/Pages、DNS、KV/D1/R2、Workers AI 与浏览器渲染；提供 Express 自部署和 Cloudflare Pages/Hono 后端，支持 OpenAI 兼容 API。MIT 开源。 | <https://mgrcf.pages.dev/admin/> | 维护中 |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | 基于 Workers、Durable Objects 和 TCP Sockets 的 Web SSH 终端，支持多会话标签、密钥认证、SFTP/trzsz 文件传输、跳板连接及需人工确认的 AI 运维助手。 | <https://ssh.newbietan.cn> | 维护中 |
+| [fwrd-sms-mcp](https://github.com/alanwtom/fwrd-sms-mcp) | 部署在你自己的 Cloudflare Workers 上的 MCP 服务器（Durable Objects）：配合 iPhone 应用 Fwrd，把手机收到的短信验证码交给 Claude、Cursor 等 AI 代理。MIT 开源。 |  | 维护中 |
 
 ## 文章
 
