@@ -289,6 +289,7 @@
 | [cf-work-deployer](https://github.com/happymy/cf-work-deployer) | 在浏览器中将公开 GitHub 项目部署到 Cloudflare Workers，自动解析配置并创建 KV/D1/R2 等资源，支持历史版本和回滚。可自部署，无需本地安装 Wrangler。 | <https://dp.heipi.dpdns.org/> | 维护中 |
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare 多账户统一管理面板，整合 Workers/Pages、DNS、KV/D1/R2、Workers AI 与浏览器渲染；提供 Express 自部署和 Cloudflare Pages/Hono 后端，支持 OpenAI 兼容 API。MIT 开源。 | <https://mgrcf.pages.dev/admin/> | 维护中 |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | 基于 Workers、Durable Objects 和 TCP Sockets 的 Web SSH 终端，支持多会话标签、密钥认证、SFTP/trzsz 文件传输、跳板连接及需人工确认的 AI 运维助手。 | <https://ssh.newbietan.cn> | 维护中 |
+| [FlareRouter](https://github.com/HenryYannis/FlareRouter) | 部署在单个 Cloudflare Worker 上的个人 AI 网关，零构建。同时提供 OpenAI 兼容与 Anthropic Messages 接口（Claude Code 可直连），支持双向协议互转；集成多服务商统一聚合、容灾自动切换与智能熔断、D1 异步日志与调用密钥管理；内置管理页、流式试聊面板及出站数据确定性隐私脱敏还原。MIT 协议。 | | 维护中 |
 
 ## 文章
 
