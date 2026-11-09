@@ -309,6 +309,7 @@
 | [用Workers免服务器部署挪车二维码，可微信通知、拨打电话](https://www.dujin.org/23105.html)                                                                                        | 基于微信推送实现消息通知。                                                                                                                                                                                              |          | 有效中 |
 | [使用 Cloudflare Worker、Hono 和 Telegram Bot API 构建 RSS 订阅推送系统](https://calpa.me/blog/build-rss-subscription-push-system-with-cloudflare-worker-hono-telegram-bot-api/) | 本文详细介绍如何利用 Cloudflare Worker、Hono 框架和 Telegram Bot API 构建一个自动监控 RSS 订阅源并推送更新到 Telegram 频道的系统。该方案完全 Serverless，无需服务器，适合个人开发者和小型团队，支持定时任务和消息去重。 |          | 有效中 |
 | [D1 over Postgres for an all-Cloudflare build](https://aiarch.dev/architecture-d1-over-postgres) | Why a production learning platform chose D1 over a managed Postgres — what the decision turned on, the `src/lib/` boundary that keeps the swap a one-file fix, and the single condition that would reverse it. Written from a running Workers + D1 deployment, not from the docs. | <https://aiarch.dev> | Active |
+| [我怎么用 Worker Cron 做友链存活检测的](https://exia.de5.net/p/worker-cron-friend-check) | 用 Cloudflare Workers Cron Triggers + D1 每 20 分钟批量检测友链存活：三态判定（正常 / 4xx-5xx / 拿不到响应）、按 checked_at 轮转配额、并发压测实测数据，以及"删库重建导致部署 500"这类踩坑记录。 | <https://exia.de5.net> | 有效中 |
 
 ## 其他
 
