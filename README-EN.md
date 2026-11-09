@@ -308,6 +308,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Multi-account Cloudflare dashboard for Workers/Pages, DNS, KV/D1/R2, Workers AI and Browser Rendering. Supports Express self-hosting or a Pages/Hono backend and an OpenAI-compatible API. MIT licensed. | <https://mgrcf.pages.dev/admin/> | Maintaining |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | Web SSH terminal on Workers, Durable Objects and TCP Sockets, with session tabs, key authentication, SFTP/trzsz transfers, jump hosts and an AI operations assistant with human confirmation. | <https://ssh.newbietan.cn> | Maintaining |
 | [ai-token-checkin-workers](https://github.com/DewellNaa/ai-token-checkin-workers) | Daily check-in automation for AI coding assistants on Cloudflare Workers, Cron and KV, with OAuth token rotation, Feishu alerts and status checks. MIT licensed. | <https://github.com/DewellNaa/ai-token-checkin-workers> | Maintaining |
+| [FlareRouter](https://github.com/HenryYannis/FlareRouter) | A personal AI gateway on a single Cloudflare Worker with no build step. Serves both OpenAI-compatible and Anthropic Messages APIs (Claude Code ready) with bidirectional protocol conversion, multi-provider failover with fast circuit breaking, gateway key management, D1 async logging, an embedded admin dashboard, and deterministic privacy data redaction. MIT licensed. | | Maintaining |
 
 
 ## Tutorials
