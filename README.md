@@ -289,6 +289,7 @@
 | [cf-work-deployer](https://github.com/happymy/cf-work-deployer) | 在浏览器中将公开 GitHub 项目部署到 Cloudflare Workers，自动解析配置并创建 KV/D1/R2 等资源，支持历史版本和回滚。可自部署，无需本地安装 Wrangler。 | <https://dp.heipi.dpdns.org/> | 维护中 |
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare 多账户统一管理面板，整合 Workers/Pages、DNS、KV/D1/R2、Workers AI 与浏览器渲染；提供 Express 自部署和 Cloudflare Pages/Hono 后端，支持 OpenAI 兼容 API。MIT 开源。 | <https://mgrcf.pages.dev/admin/> | 维护中 |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | 基于 Workers、Durable Objects 和 TCP Sockets 的 Web SSH 终端，支持多会话标签、密钥认证、SFTP/trzsz 文件传输、跳板连接及需人工确认的 AI 运维助手。 | <https://ssh.newbietan.cn> | 维护中 |
+| [API Screenshot](https://github.com/matbrons/api-screenshot) | 基于 Cloudflare Workers + Browser Rendering 的开源截图 API，也可用 Docker 部署。整页截图，自动去除 Cookie 弹窗、弹出层、聊天窗口和广告；遇到验证码或拦截页时返回错误而不是截图。支持一键部署、API 密钥、签名链接、缓存、PDF 和 MCP。MIT 开源。 | <https://apiscreenshot.com> | 维护中 |
 
 ## 文章
 
