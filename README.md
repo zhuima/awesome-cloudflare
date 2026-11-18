@@ -291,6 +291,7 @@
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | 基于 Workers、Durable Objects 和 TCP Sockets 的 Web SSH 终端，支持多会话标签、密钥认证、SFTP/trzsz 文件传输、跳板连接及需人工确认的 AI 运维助手。 | <https://ssh.newbietan.cn> | 维护中 |
 | [fwrd-sms-mcp](https://github.com/alanwtom/fwrd-sms-mcp) | 部署在你自己的 Cloudflare Workers 上的 MCP 服务器（Durable Objects）：配合 iPhone 应用 Fwrd，把手机收到的短信验证码交给 Claude、Cursor 等 AI 代理。MIT 开源。 |  | 维护中 |
 | [FlareRouter](https://github.com/HenryYannis/FlareRouter) | 部署在单个 Cloudflare Worker 上的个人 AI 网关，零构建。同时提供 OpenAI 兼容与 Anthropic Messages 接口（Claude Code 可直连），支持双向协议互转；集成多服务商统一聚合、容灾自动切换与智能熔断、D1 异步日志与调用密钥管理；内置管理页、流式试聊面板及出站数据确定性隐私脱敏还原。MIT 协议。 | | 维护中 |
+| [Formkove](https://formkove.com/?ref=directory-awesome-cloudflare) | 基于 Cloudflare Workers、D1、Queues 与 Workers AI 构建的表单后端（Form Backend）。支持任意 HTML 表单或 fetch() 提交，先拦截垃圾信息并保留 30 天待审，再按自定义标签与情感规则分发到 Slack、Discord、Google Sheets、Zapier 或签名 Webhook，同时发送邮件通知；支持代理商按客户划分独立工作区，并提供托管 MCP 服务供 Claude Code、Cursor 等助手直接创建表单。 | <https://formkove.com/?ref=directory-awesome-cloudflare> | 维护中 |
 
 ## 文章
 
