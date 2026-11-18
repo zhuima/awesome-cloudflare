@@ -294,6 +294,7 @@
 | [Formkove](https://formkove.com/?ref=directory-awesome-cloudflare) | 基于 Cloudflare Workers、D1、Queues 与 Workers AI 构建的表单后端（Form Backend）。支持任意 HTML 表单或 fetch() 提交，先拦截垃圾信息并保留 30 天待审，再按自定义标签与情感规则分发到 Slack、Discord、Google Sheets、Zapier 或签名 Webhook，同时发送邮件通知；支持代理商按客户划分独立工作区，并提供托管 MCP 服务供 Claude Code、Cursor 等助手直接创建表单。 | <https://formkove.com/?ref=directory-awesome-cloudflare> | 维护中 |
 | [Gateweave Track](https://github.com/gateweavehq/track) | 实时问题追踪器，一个 Worker 即可运行，每个工作区一个 Durable Object，浏览器里有可离线使用的本地副本，并带有给 AI 代理使用的 MCP 服务器。支持一键部署到 Cloudflare，AGPL-3.0 许可。 | <https://track-demo.gateweave.com> | 维护中 |
 | [API Screenshot](https://github.com/matbrons/api-screenshot) | 基于 Cloudflare Workers + Browser Rendering 的开源截图 API，也可用 Docker 部署。整页截图，自动去除 Cookie 弹窗、弹出层、聊天窗口和广告；遇到验证码或拦截页时返回错误而不是截图。支持一键部署、API 密钥、签名链接、缓存、PDF 和 MCP。MIT 开源。 | <https://apiscreenshot.com> | 维护中 |
+| [No Stairs Please](https://nostairsplease.com/) | 基于 Cloudflare Workers + D1 + OAuth 2.1 构建的北美独立音乐演出场地目录与巡演路线 MCP 服务器，支持按载入无障碍条件、容量和驾驶时间查询并直接通过 `/mcp` 接入 AI 助手。 | <https://nostairsplease.com/mcp> | 维护中 |
 
 ## 文章
 
