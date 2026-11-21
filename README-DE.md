@@ -245,6 +245,8 @@ Willkommen zu PRs und Issues für Updates. Bei Problemen während der Bereitstel
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Cloudflare-Verwaltung für mehrere Konten mit Workers/Pages, DNS, KV/D1/R2, Workers AI und Browser Rendering. Mit selbst gehostetem Express- oder Pages/Hono-Backend und OpenAI-kompatibler API. MIT-Lizenz. | <https://mgrcf.pages.dev/admin/> | Wird gewartet |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | Web-SSH-Terminal auf Workers, Durable Objects und TCP Sockets mit Sitzungstabs, Schlüsselauthentifizierung, SFTP/trzsz, Sprungservern und KI-Betriebsassistent mit menschlicher Bestätigung. | <https://ssh.newbietan.cn> | Wird gewartet |
 | [ai-token-checkin-workers](https://github.com/DewellNaa/ai-token-checkin-workers) | Automatisiert tägliche Check-ins für KI-Programmierassistenten mit Cloudflare Workers, Cron und KV sowie OAuth-Token-Erneuerung, Feishu-Benachrichtigungen und Statusprüfungen. MIT-Lizenz. | <https://github.com/DewellNaa/ai-token-checkin-workers> | Wird gewartet |
+| [siteprobe](https://github.com/saimulft/siteprobe) | Abhängigkeitsfreier Security-Header-Checker und Website-Scanner mit rund 100 Prüfungen zu Sicherheit, SEO und Geschwindigkeit; läuft als CLI oder Bibliothek auf Cloudflare Workers, Node, Deno und Bun. | <https://oss.saimulislam.com/siteprobe/> | Wird gewartet |
+| [redirect-lint](https://github.com/saimulft/redirect-lint) | Prüft Redirect-Ketten in `_redirects`-Dateien von Cloudflare Pages: findet Schleifen, Ketten und Konflikte und verkürzt jede Kette auf einen Sprung. | <https://oss.saimulislam.com/redirect-lint/> | Wird gewartet |
 
 
 ## Tutorials
