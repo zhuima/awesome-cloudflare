@@ -417,6 +417,7 @@
 | [cloudflare-worker-gmail-resend-enterprise-email](https://cleanclip.cc/zh/developer/cloudflare-worker-gmail-resend-enterprise-email) | Cloudflare + Gmail + Resend 十分钟轻松拥有免费的企业邮箱。                            |          | 更新中 |
 | [Cloudflare Pages SEO 发布检查](https://yicekit.com/entries/cloudflare-pages/)                                                     | 用六个本站实际 HTTP 响应核对 200、301、404、canonical、robots.txt 和 sitemap.xml，附只读 curl 命令与 JSON 记录。 | [检查清单](https://yicekit.com/assets/checklists/cloudflare-pages-seo.txt) | 更新中 |
 | [Cloudflare setup and troubleshooting guide (Korean)](https://futureinfra.ai/blog/cloudflare) | 韩语 Cloudflare 入门与排障教程，涵盖 DNS、代理、TLS 配置及 520–526 错误和源站连接检查。 | <https://futureinfra.ai/blog/cloudflare> | 维护中 |
+| [Cloudflare Pages & Workers 安全加固指南 (MIT)](https://zcoldwater.github.io/launch-audit-reports/vibe-security-2026/cloudflare.html) | 针对 Cloudflare Pages/Workers 的生产安全头加固清单与 MIT 模板（`cloudflare-headers.js` + `_headers`），附 116 项只读 HTTPS 安全在线体检与零安装 `curl` 复验。 | [交互式检查清单](https://zcoldwater.github.io/vibe-security-checklist/) | 更新中 |
 
 
 
