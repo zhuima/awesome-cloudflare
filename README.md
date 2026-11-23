@@ -295,6 +295,7 @@
 | [Gateweave Track](https://github.com/gateweavehq/track) | 实时问题追踪器，一个 Worker 即可运行，每个工作区一个 Durable Object，浏览器里有可离线使用的本地副本，并带有给 AI 代理使用的 MCP 服务器。支持一键部署到 Cloudflare，AGPL-3.0 许可。 | <https://track-demo.gateweave.com> | 维护中 |
 | [API Screenshot](https://github.com/matbrons/api-screenshot) | 基于 Cloudflare Workers + Browser Rendering 的开源截图 API，也可用 Docker 部署。整页截图，自动去除 Cookie 弹窗、弹出层、聊天窗口和广告；遇到验证码或拦截页时返回错误而不是截图。支持一键部署、API 密钥、签名链接、缓存、PDF 和 MCP。MIT 开源。 | <https://apiscreenshot.com> | 维护中 |
 | [No Stairs Please](https://nostairsplease.com/) | 基于 Cloudflare Workers + D1 + OAuth 2.1 构建的北美独立音乐演出场地目录与巡演路线 MCP 服务器，支持按载入无障碍条件、容量和驾驶时间查询并直接通过 `/mcp` 接入 AI 助手。 | <https://nostairsplease.com/mcp> | 维护中 |
+| [sendm8](https://github.com/m8team/sendmate) | 免费开源的表单后端（Form Backend），基于 Cloudflare Workers、D1、R2 与 Workers AI 构建，全部运行在 Cloudflare 免费套餐内。把任意 HTML 表单的 action 指向 `https://sendm8.com/f/你的邮箱` 即可使用，无需注册；登录后提供收件箱、CSV 导出、AI 垃圾信息过滤，以及邮件、Discord、Slack、Telegram 和签名 Webhook 推送。可部署到自己的 Cloudflare 账号，也可用 Docker 自托管。AGPL-3.0 开源。 | <https://sendm8.com> | 维护中 |
 
 ## 文章
 
