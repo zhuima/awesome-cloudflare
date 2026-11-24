@@ -243,6 +243,7 @@
 | [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector)     | 只读采集账号用量的 Worker：每 6 小时经 GraphQL Analytics API 把 Workers、D1、Durable Objects、KV、R2、Queues 的按日用量写进你的 D1，某项达到 7 天中位数 10 倍时告警，可选 Discord/Slack webhook。Token 只需 Account Analytics: Read。 | —                                                          | 维护中   |
 | [FlareWatch](https://github.com/saminnet/flarewatch)                            | 免费运行在 Cloudflare Workers 上的网站监控、定时任务心跳和状态页。可检查网站、API、TCP 端口、DNS 记录和域名到期，并向 Slack、Discord、Telegram 等发送告警。                                                                        | <https://demo.flarewatch.app/>                             | 维护中   |
 | [upbeat](https://github.com/Jubstaaa/upbeat) | 面向 UptimeRobot 的动态状态页，使用只读 API Key，无需数据库；提供 90 天可用率、响应时间、事件记录、徽章和 Atom 订阅。支持 Cloudflare Workers、Vercel 与 Docker。 | <https://status.webgooh.tech> | 维护中 |
+| [workerfuse](https://workerfuse.com/) | 运行在 Cloudflare Workers 上的费用保险丝：每 5 分钟经 GraphQL Analytics API 读取用量，按标价估算每个 Worker 脚本的费用。某个脚本超过每小时或每日上限时，只给这个脚本部署一个 stub 版本（Durable Object 存储保留），并发邮件告警，其他 Worker 照常运行。覆盖 Workers、Durable Objects、D1、KV、R2、Queues、Workers AI 等，提供 MCP 服务器。托管服务，14 天试用。 | <https://workerfuse.com/> | 维护中 |
 
 ## 开发者工具
 
