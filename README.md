@@ -100,6 +100,7 @@
 | [Ownlist](https://github.com/pfstr/ownlist)                                       | 部署在自己 Cloudflare 账户上的无服务器 Newsletter 系统：订阅表单与嵌入式表单、一键退订、队列群发、RSS 自动发信，订阅者数据保存在自己的 D1 中，发信可接入任意邮件 API。 | | 维护中 |
 | [awesome-cloudflare-email](https://github.com/hikerell/awesome-cloudflare-email) | Cloudflare 邮件相关开源项目清单：团队网页邮箱、发信 API、Newsletter、AI Agent 邮箱、客服收件箱、临时邮箱和开发库。 | | 维护中 |
 | [AliasMail](https://aliasmail.space/)                                            | 基于 Cloudflare 基础设施构建的零日志邮件别名与转发服务，提供即时临时邮箱与 HMAC-SHA256 签名 Webhook 实时投递。                                                                                                    | <https://aliasmail.space/> | 维护中 |
+| [MailGate](https://github.com/Dicka18/mailgate) | 开源（MIT）自托管只收邮件与 OTP 验证码收件箱，基于 Cloudflare Email Routing + Workers + D1 + Cron 构建。支持严格白名单拒收、PBKDF2 密码保护、OTP/魔法链接自动提取、沙盒 HTML 预览、内置 RFC822 模拟器、零依赖 Playwright/E2E SDK（waitForOtp()）及可选 HMAC-SHA256 Webhook 桥接。 | | 维护中 |
 
 
 ## 博客
