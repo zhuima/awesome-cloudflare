@@ -407,6 +407,7 @@
 | [Workers Native](https://workersnative.directory) | 可自托管的 Cloudflare 应用目录（Workers、D1、R2、KV）。每个应用都写明部署方式和是否适合免费套餐，并有与对应托管产品的对比页面。 | <https://workersnative.directory> | 维护中 |
 | [Fullbleed](https://github.com/fullbleed-engine/fullbleed-node) | 在 Cloudflare Workers 中通过打包的 WebAssembly 引擎，将 HTML/CSS 或组件生成 PDF；附带字体、可编辑的发票示例及输出检查。MIT 开源。 | <https://docs.fullbleed.dev/guides/cloudflare-pdf/> | 维护中 |
 | [万象棋谱 WXHub](https://wxq.whatsyour.fun) | 部署在 Cloudflare 上的《王者万象棋》非官方玩家工具站，提供英雄与装备图鉴、阵容编辑器、站位模拟器和 Buff 词典，免费且无需登录。 | <https://wxq.whatsyour.fun> | 维护中 |
+| [Telegram Rug Checker](https://github.com/Balance0014/telegram-rug-checker) | 跑在 Cloudflare Workers 上的 Telegram 机器人（Workers、KV、D1、Cron、Workers AI）：买币前检查 Solana 或 EVM 代币的貔貅风险、买卖税、合约权限、持币集中度和流动性锁定，流动性下降时在群里提醒。只用免费数据源，MIT 开源。 |  | 维护中 |
 
 ## 教程
 
