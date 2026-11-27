@@ -134,6 +134,7 @@
 | [ShipKit Lite](https://github.com/rice408s/tanstack-start-cloudflare-starter) | 基于 TanStack Start + Cloudflare Workers 的免费 MIT 全栈启动模板：D1 + Drizzle、R2 存储、better-auth 免密码登录（邮箱验证码，可选 Google / GitHub）、Paraglide 中英双语、构建时编译的 MDX 博客和文档，本地开发也跑在 workerd 里，并附带给 Claude Code / Codex / Cursor 用的项目规则。 |  | 维护中 |
 | [Lunora](https://github.com/anolilab/lunora)                                                                                 | 基于 Cloudflare Workers + Durable Objects 的类型安全实时后端框架。定义 schema 并编写 query/mutation/action 函数，客户端即可获得端到端类型安全数据，支持实时订阅、乐观更新与离线队列。Convex 风格开发体验，Vite 优先，部署在你自己的 Cloudflare 账号上。 | <https://lunora.sh>                     | 维护中 |
 | [TANSHIP Template](https://tanship.app) | 面向 Cloudflare Workers 的付费 TanStack Start SaaS 模板，集成 Better Auth、Creem/Stripe/PayPal、Drizzle/D1、Resend、Workers AI 和中英文路由；一次付费、永久许可。 | <https://tanship.app> | 维护中 |
+| [telegram-stars-bot-boilerplate](https://github.com/kraiwen23/telegram-stars-bot-boilerplate) | 基于 Cloudflare Workers + D1 的 Telegram Stars (XTR) 收款机器人模板：一个文件、零依赖，/buy 发票、pre_checkout 校验、幂等的订阅入账、/refund 退款，免费套餐即可运行。MIT。 | <https://t.me/crypto_price_alerts_777_bot> | 维护中 |
 
 ## 短链
 
