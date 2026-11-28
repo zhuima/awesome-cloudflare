@@ -165,6 +165,7 @@
 | [Beam](https://github.com/scobb/beam)                                             | 轻量级、无 Cookie、GDPR 合规的网页分析服务，基于 Cloudflare Workers + D1 构建。无需 Cookie 即可收集页面浏览数据，隐私友好，可自部署。                                                                                                                          | <https://beam.keylightdigital.com/> | 维护中 |
 | [Dozokit Analytics](https://github.com/dozokit/analytics) | 不使用 Cookie 的网站统计，一个 Worker 加一个 D1 数据库，点击 Deploy to Cloudflare 按钮即可部署到自己的 Cloudflare 账号。不存储 IP，支持目标（goals）、utm 参数，并把来自 ChatGPT、Claude、Perplexity 等 AI 助手的访问单独归类。Workers 免费套餐约可支撑每天 9,000 次页面浏览。AGPL-3.0。 | <https://dozokit.com/analytics> | 维护中 |
 | [Replayowl](https://github.com/replayowl/replayowl) | 可自托管的网站会话录制与回放工具。服务端运行于 Cloudflare Workers，会话摘要存 D1/Postgres，录像存 R2/S3，支持浏览器端输入打码。AGPL-3.0。 | <https://replayowl.com/> | 维护中 |
+| [FounderData](https://github.com/founderdata/founderdata) | 开源的网站与 iOS 分析工具，把每笔付款（Stripe、App Store、Dodo Payments、RevenueCat）对应到带来买家的那次访问。作为一个 Worker 加一个 D1 数据库运行在你自己的 Cloudflare 账号上，个人项目级别的流量下可用 Cloudflare 免费套餐。核心部分 MIT 许可。 | <https://founderdata.app> | 维护中 |
 
 
 
