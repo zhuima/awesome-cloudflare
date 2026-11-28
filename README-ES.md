@@ -274,6 +274,7 @@ Se invita a contribuir con PR y issues para actualizaciones. Si tienes algún pr
 | [CF Manager](https://github.com/hefy2027/cf-manager) | Panel multicuenta de Cloudflare para Workers/Pages, DNS, KV/D1/R2, Workers AI y Browser Rendering. Backend Express autoalojado o Pages/Hono, con API compatible con OpenAI. Licencia MIT. | <https://mgrcf.pages.dev/admin/> | En mantenimiento |
 | [CloudSSH](https://github.com/newbietan/CloudSSH) | Terminal SSH web en Workers, Durable Objects y TCP Sockets, con pestañas, autenticación por claves, transferencias SFTP/trzsz, servidores de salto y asistente de operaciones IA con confirmación humana. | <https://ssh.newbietan.cn> | En mantenimiento |
 | [ai-token-checkin-workers](https://github.com/DewellNaa/ai-token-checkin-workers) | Automatiza el registro diario de asistentes de programación IA con Cloudflare Workers, Cron y KV; incluye renovación de tokens OAuth, alertas de Feishu y comprobaciones de estado. Licencia MIT. | <https://github.com/DewellNaa/ai-token-checkin-workers> | En mantenimiento |
+| [ploq-server](https://github.com/specialith/ploq-server) | Servidor de sincronización de Ploq, colaboración en tiempo real para MuseScore. Un Worker, un Durable Object por partitura compartida, D1 para las cuentas y R2 para las partituras; varias personas editan la misma partitura a la vez y ven los cursores de los demás. Botón Deploy to Cloudflare. Licencia AGPL-3.0. | <https://ploq.app> | En mantenimiento |
 
 
 ## Tutoriales

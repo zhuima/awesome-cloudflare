@@ -407,6 +407,7 @@
 | [Workers Native](https://workersnative.directory) | 可自托管的 Cloudflare 应用目录（Workers、D1、R2、KV）。每个应用都写明部署方式和是否适合免费套餐，并有与对应托管产品的对比页面。 | <https://workersnative.directory> | 维护中 |
 | [Fullbleed](https://github.com/fullbleed-engine/fullbleed-node) | 在 Cloudflare Workers 中通过打包的 WebAssembly 引擎，将 HTML/CSS 或组件生成 PDF；附带字体、可编辑的发票示例及输出检查。MIT 开源。 | <https://docs.fullbleed.dev/guides/cloudflare-pdf/> | 维护中 |
 | [万象棋谱 WXHub](https://wxq.whatsyour.fun) | 部署在 Cloudflare 上的《王者万象棋》非官方玩家工具站，提供英雄与装备图鉴、阵容编辑器、站位模拟器和 Buff 词典，免费且无需登录。 | <https://wxq.whatsyour.fun> | 维护中 |
+| [ploq-server](https://github.com/specialith/ploq-server) | Ploq（MuseScore 实时协作）的同步服务器：一个 Worker，每个共享乐谱一个 Durable Object，D1 存账号，R2 存乐谱。多人可同时编辑同一份乐谱，实时看到彼此的光标和选区。支持一键部署到 Cloudflare，AGPL-3.0 许可。 | <https://ploq.app> | 维护中 |
 
 ## 教程
 
